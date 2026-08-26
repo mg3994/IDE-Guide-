@@ -1,0 +1,55 @@
+### Short-Form Video Spec (YouTube Shorts / 60s)
+
+**Hook (0-3s):**
+"Is Cursor really replacing VS Code? Here's why developers are switching in 2026!"
+
+**Google Flow Visual Prompts (Scene-by-Scene):**
+1. **Scene 1 (Hook 0-5s):** Close-up macro 45-degree shot of high-contrast editor UI on glowing dark background, fast terminal text stream, ambient purple neon rim lighting, cinematic 4K 60fps render.
+2. **Scene 2 (Core Demo 5-25s):** Smooth camera push-in showing active code auto-completion and key feature highlights for Cursor, dark mode developer environment, soft bokeh background office setup.
+3. **Scene 3 (Workflow 25-45s):** Fast-paced UI interaction showing command palette and fast keyboard shortcuts in action, minimalist high-tech aesthetic, subtle lens flare.
+4. **Scene 4 (CTA / Outro 45-60s):** Clean animated title card displaying "Cursor: The AI-First Code Editor Built for Speed", dark cyber theme, floating code snippets, ending on IDE Guide watermark.
+
+**Voiceover Script (60 Seconds):**
+"Looking for a game-changing code editor? Meet Cursor — the ai-first code editor built for speed. Cursor is a fork of VS Code engineered from the ground up to integrate AI models deeply into the editing workflow. It features inline code generation, terminal agent commands, and repository-wide codebase indexing. Key highlights include cmd+k inline editing for instant refactoring and full-repo context retrieval with local embeddings. Whether you are working with TypeScript, Python, C++, Web, Multi-language, Cursor delivers unmatched developer experience. Check out our full review on IDE Guide!"
+
+**Video Description & Disclaimer:**
+Explore Cursor (Freemium ($20/mo Pro)). Platform support: macOS, Linux, Windows.
+
+Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.
+
+---
+
+### Full-Length Video Spec (YouTube Long-Form / 3-5 Mins)
+
+**Video Outline & Timestamps:**
+- 00:00 - Introduction & Key Takeaways
+- 00:45 - Overview & Core Architecture
+- 01:45 - Standout Features & Workflow Efficiency
+- 03:00 - Installation & Setup Guide
+- 04:00 - Licensing, Pricing & Final Verdict
+
+**Google Flow Visual Prompts (Background & Scenes):**
+1. **Intro Chapter (00:00 - 00:45):** Cinematic wide shot of futuristic developer workstation with dark ambient neon lighting, smooth overhead tracking shot onto high-resolution display displaying Cursor.
+2. **Architecture & Features (00:45 - 03:00):** High-tech 3D motion graphic visualization showing code execution flow, LSP language servers connecting to Cursor, GPU rendering pipeline graphics in crisp neon vector aesthetic.
+3. **Hands-on Setup (03:00 - 04:00):** Screen capture style render showing terminal installation commands and instant configuration loading, soft studio lighting contrast.
+4. **Verdict & Outro (04:00 - 05:00):** Minimalist summary card showing Pros & Cons breakdown, smooth camera zoom-out returning to studio desk environment with IDE Guide branding.
+
+**Voiceover Script (3-5 Minutes Full Script):**
+"Welcome back to IDE Guide. Today we're diving deep into Cursor — The AI-First Code Editor Built for Speed.
+
+In this review, we cover everything you need to know about Cursor, from its performance characteristics to platform availability across macOS, Linux, Windows.
+
+Cursor is a fork of VS Code engineered from the ground up to integrate AI models deeply into the editing workflow. It features inline code generation, terminal agent commands, and repository-wide codebase indexing.
+
+Let's break down the key features. First, Cmd+K Inline Editing for instant refactoring. Second, Full-repo context retrieval with local embeddings. Third, Multi-file editing capabilities via Cursor Composer.
+
+For pricing, Cursor offers a generous Hobby tier with limited GPT-4/Claude usages per month. The Pro tier ($20/month) unlocks unlimited fast requests and expanded context windows.
+
+Our verdict: Ideal for developers seeking cutting-edge AI assistance without abandoning their familiar VS Code extension ecosystem.
+
+If you found this breakdown helpful, hit subscribe to IDE Guide for daily editor reviews and dev tool updates."
+
+**Video Description & Disclaimer:**
+Full technical review of Cursor.
+
+Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.
