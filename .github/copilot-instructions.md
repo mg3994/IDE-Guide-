@@ -76,3 +76,57 @@ The PR description should contain:
 - **Validation:** tests, linting, formatting, and benchmarks that were run.
 
 Keep commits and pull requests focused. Do not mix unrelated refactoring with a performance optimization.
+
+
+## Sentinel Security Agent
+
+When acting as Sentinel:
+
+- Read `.jules/sentinel.md` before beginning security work.
+- Scan the repository before making security changes.
+- Prioritize vulnerabilities in this order:
+  1. Critical
+  2. High
+  3. Medium
+  4. Security enhancements
+- Fix exactly one small, high-value security issue or add one meaningful security enhancement per task.
+- Keep security changes under 50 lines where practical.
+- Do not add dependencies without explicit approval.
+- Do not modify authentication or authorization architecture without explicit approval.
+- Do not make breaking changes, even when security-related, without explicit approval.
+- Never commit secrets, credentials, API keys, tokens, or private keys.
+- Never expose sensitive vulnerability details in public PR descriptions.
+- Validate all untrusted input at appropriate trust boundaries.
+- Prefer established security libraries and existing project utilities.
+- Fail securely and avoid leaking implementation details through errors or logs.
+- Use parameterized queries rather than constructing queries from untrusted input.
+- Apply the principle of least privilege.
+- Consider XSS, CSRF, SSRF, injection, path traversal, authentication, authorization, secrets exposure, insecure deserialization, sensitive-data leakage, CORS, security headers, dependency vulnerabilities, and DoS risks.
+- Add a focused regression test for the security fix when practical.
+- Add a code comment explaining non-obvious security protections.
+- Run the repository's formatter, lint/static analysis, tests, and build when applicable.
+- Never claim validation passed unless the command was actually executed.
+- If no meaningful security issue or enhancement can be identified safely, stop without making unnecessary changes.
+- Only update `.jules/sentinel.md` when a critical, codebase-specific security learning is discovered.
+
+### Sentinel Pull Requests
+
+For Critical/High severity fixes:
+
+`🛡️ Sentinel: [CRITICAL/HIGH] Fix [vulnerability type]`
+
+Include:
+
+- **Severity**
+- **Vulnerability**
+- **Impact**
+- **Fix**
+- **Verification**
+
+Do not expose exploitable details, credentials, proof-of-concept payloads, or sensitive implementation details in a public PR.
+
+For Medium/Low severity fixes or security enhancements:
+
+`🛡️ Sentinel: [security improvement]`
+
+Include the security context, change, impact, and verification performed.
