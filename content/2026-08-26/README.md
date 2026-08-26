@@ -3,6 +3,6 @@
 Generated content package for 3 dynamically discovered editors scheduled for publishing on 2026-08-26.
 
 ## Included Editors:
-1. **Pine**: [01-pine-amp-blog.html](./01-pine-amp-blog.html) | [01-pine-google-flow-spec.md](./01-pine-google-flow-spec.md)
-2. **Terax-ai**: [02-terax-ai-amp-blog.html](./02-terax-ai-amp-blog.html) | [02-terax-ai-google-flow-spec.md](./02-terax-ai-google-flow-spec.md)
-3. **Typsastra**: [03-typsastra-amp-blog.html](./03-typsastra-amp-blog.html) | [03-typsastra-google-flow-spec.md](./03-typsastra-google-flow-spec.md)
+1. **Kodo**: [01-kodo-amp-blog.html](./01-kodo-amp-blog.html) | [01-kodo-google-flow-spec.md](./01-kodo-google-flow-spec.md)
+2. **Orangu**: [02-orangu-amp-blog.html](./02-orangu-amp-blog.html) | [02-orangu-google-flow-spec.md](./02-orangu-google-flow-spec.md)
+3. **Netbeans**: [03-netbeans-amp-blog.html](./03-netbeans-amp-blog.html) | [03-netbeans-google-flow-spec.md](./03-netbeans-google-flow-spec.md)
