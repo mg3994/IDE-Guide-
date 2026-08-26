@@ -2,17 +2,30 @@
 """
 Daily Automated IDE & Code Editor Content Generator for IDE Guide.
 Generates AMP-compliant blog posts and Google Flow video generation packages.
+Includes dynamic discovery of newly released and trending IDEs/editors via GitHub Search API.
 """
 
 import argparse
 import datetime
+import json
 import os
 import sys
+import urllib.request
+import urllib.parse
 
-# Catalog of editors to cycle through or pick dynamically
-EDITOR_DATABASE = [
+HISTORY_FILE = os.path.join("content", "history.json")
+
+DISCLAIMER_TEXT = (
+    "Disclaimer: IDE Guide is an independent technical publication. "
+    "This content is not sponsored, endorsed, or affiliated with any software vendor "
+    "or editor developer mentioned above. All reviews and assessments are based strictly "
+    "on objective developer evaluation."
+)
+
+FALLBACK_CATALOG = [
     {
         "name": "Cursor",
+        "url": "https://cursor.com",
         "tagline": "The AI-First Code Editor Built for Speed",
         "pricing": "Freemium ($20/mo Pro)",
         "tech_stack": "TypeScript, Python, C++, Web, Multi-language",
@@ -36,6 +49,7 @@ EDITOR_DATABASE = [
     },
     {
         "name": "Zed",
+        "url": "https://zed.dev",
         "tagline": "High-Performance Rust-Based Code Editor",
         "pricing": "Free & Open Source",
         "tech_stack": "Rust, C++, Web Development, Systems Programming",
@@ -59,6 +73,7 @@ EDITOR_DATABASE = [
     },
     {
         "name": "Helix",
+        "url": "https://helix-editor.com",
         "tagline": "Post-Modern Modal Text Editor in Rust",
         "pricing": "Free & Open Source",
         "tech_stack": "Rust, Systems, Command-line, Polyglot",
@@ -82,6 +97,7 @@ EDITOR_DATABASE = [
     },
     {
         "name": "Neovim",
+        "url": "https://neovim.io",
         "tagline": "Hyperextensible Vim-based Text Editor",
         "pricing": "Free & Open Source",
         "tech_stack": "Lua, C, Polyglot",
@@ -91,7 +107,7 @@ EDITOR_DATABASE = [
             "First-class Lua API for plugin creation and user configuration",
             "Embedded asynchronous terminal emulator",
             "Built-in Language Server Protocol framework",
-            "Massive ecosystem of community-maintained plugins and starter distros (LazyVim, NvChad)"
+            "Massive ecosystem of community-maintained plugins and starter distros"
         ],
         "getting_started": [
             "Install Neovim via system package manager (`brew install neovim` or `sudo apt install neovim`).",
@@ -105,6 +121,7 @@ EDITOR_DATABASE = [
     },
     {
         "name": "JetBrains Fleet",
+        "url": "https://www.jetbrains.com/fleet/",
         "tagline": "Next-Generation Lightweight Distributed IDE",
         "pricing": "Freemium",
         "tech_stack": "Kotlin, Java, Python, Rust, Go, JavaScript",
@@ -128,6 +145,7 @@ EDITOR_DATABASE = [
     },
     {
         "name": "Lapce",
+        "url": "https://lapce.dev",
         "tagline": "Lightning-Fast Rust GUI Code Editor",
         "pricing": "Free & Open Source",
         "tech_stack": "Rust, WebAssembly, C++",
@@ -151,12 +169,108 @@ EDITOR_DATABASE = [
     }
 ]
 
-DISCLAIMER_TEXT = (
-    "Disclaimer: IDE Guide is an independent technical publication. "
-    "This content is not sponsored, endorsed, or affiliated with any software vendor "
-    "or editor developer mentioned above. All reviews and assessments are based strictly "
-    "on objective developer evaluation."
-)
+
+def load_history():
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+                return set(json.load(f))
+        except Exception as e:
+            print(f"Warning loading history: {e}")
+    return set()
+
+
+def save_history(history_set):
+    os.makedirs(os.path.dirname(HISTORY_FILE), exist_ok=True)
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted(list(history_set)), f, indent=2)
+
+
+def fetch_github_dynamic_editors(history_set, limit=3):
+    """Dynamically fetches newly created or trending code editors from GitHub API."""
+    topics = ["code-editor", "text-editor", "ide", "ai-editor"]
+    discovered = []
+
+    for topic in topics:
+        if len(discovered) >= limit:
+            break
+        url = f"https://api.github.com/search/repositories?q=topic:{topic}+stars:>10&sort=updated&order=desc&per_page=15"
+        req = urllib.request.Request(url, headers={"User-Agent": "IDE-Guide-Bot"})
+        try:
+            with urllib.request.urlopen(req, timeout=5) as response:
+                data = json.loads(response.read().decode("utf-8"))
+                for item in data.get("items", []):
+                    name = item.get("name", "").strip()
+                    full_name = item.get("full_name", "").strip()
+                    desc = item.get("description") or f"Modern {topic} developed on GitHub."
+                    lang = item.get("language") or "Polyglot"
+                    html_url = item.get("html_url", "")
+                    license_info = item.get("license", {}).get("name") if item.get("license") else "Open Source"
+
+                    if name.lower() in history_set or full_name.lower() in history_set:
+                        continue
+
+                    # Ensure name looks like an editor and not just a config repo
+                    if any(ignored in name.lower() for ignored in ["config", "dotfiles", "awesome", "theme", "plugin", "extension"]):
+                        continue
+
+                    # Construct editor profile dynamically from repo metadata
+                    editor_profile = {
+                        "name": name.capitalize(),
+                        "url": html_url,
+                        "tagline": desc[:80] if len(desc) > 80 else desc,
+                        "pricing": f"Free & Open Source ({license_info})",
+                        "tech_stack": f"{lang}, Web, Systems",
+                        "platforms": "Linux, macOS, Windows",
+                        "overview": f"{name.capitalize()} is a newly emerging code editor hosted at {html_url}. {desc}",
+                        "key_features": [
+                            f"Written primarily in {lang} for optimal developer performance",
+                            f"Open source repository under {license_info} license",
+                            f"Active development with recent commits on GitHub",
+                            "Designed for modular extension and modern coding workflows"
+                        ],
+                        "getting_started": [
+                            f"Clone the repository from GitHub: `git clone {html_url}`.",
+                            f"Review setup instructions in the official README.",
+                            "Build binary from source or download latest release package.",
+                            f"Launch {name.capitalize()} in your project workspace."
+                        ],
+                        "pricing_breakdown": f"100% Free and open source under {license_info}.",
+                        "verdict": f"A promising new developer editor project for {lang} enthusiasts and modern tooling pioneers.",
+                        "hooks": f"Have you seen this newly updated editor {name.capitalize()}? Here's what you need to know!",
+                    }
+
+                    discovered.append(editor_profile)
+                    history_set.add(name.lower())
+                    history_set.add(full_name.lower())
+                    if len(discovered) >= limit:
+                        break
+        except Exception as e:
+            print(f"Error fetching dynamic topic {topic}: {e}")
+
+    return discovered
+
+
+def select_dynamic_editors(count=3):
+    history_set = load_history()
+    editors = []
+
+    # Attempt dynamic online discovery first
+    dynamic_editors = fetch_github_dynamic_editors(history_set, limit=count)
+    editors.extend(dynamic_editors)
+
+    # Fill remaining count from fallback catalog if offline or API limit reached
+    if len(editors) < count:
+        for fb in FALLBACK_CATALOG:
+            if len(editors) >= count:
+                break
+            if fb["name"].lower() not in history_set:
+                editors.append(fb)
+                history_set.add(fb["name"].lower())
+
+    # Save updated history
+    save_history(history_set)
+    return editors
 
 
 def generate_amp_blog_post(editor):
@@ -267,19 +381,6 @@ Full technical review of {editor['name']}.
     return f"{shorts_spec}\n\n---\n\n{longform_spec}"
 
 
-def select_editors_for_date(date_obj, count=3):
-    """Dynamically rotates through the editor database based on the day of year."""
-    day_of_year = date_obj.timetuple().tm_yday
-    num_editors = len(EDITOR_DATABASE)
-    start_index = ((day_of_year - 1) * count) % num_editors
-
-    selected = []
-    for i in range(count):
-        idx = (start_index + i) % num_editors
-        selected.append(EDITOR_DATABASE[idx])
-    return selected
-
-
 def generate_daily_package(date_str=None, count=3):
     if date_str:
         dt = datetime.datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=datetime.timezone.utc)
@@ -290,14 +391,14 @@ def generate_daily_package(date_str=None, count=3):
     target_dir = os.path.join("content", date_str)
     os.makedirs(target_dir, exist_ok=True)
 
-    selected_editors = select_editors_for_date(dt, count=count)
+    selected_editors = select_dynamic_editors(count=count)
 
     readme_content = f"# IDE Guide Daily Package - {date_str}\n\n"
-    readme_content += f"Generated content package for {count} editors scheduled for publishing on {date_str}.\n\n"
+    readme_content += f"Generated content package for {len(selected_editors)} dynamically discovered editors scheduled for publishing on {date_str}.\n\n"
     readme_content += "## Included Editors:\n"
 
     for idx, editor in enumerate(selected_editors, 1):
-        slug = editor['name'].lower().replace(" ", "-")
+        slug = editor['name'].lower().replace(" ", "-").replace("/", "-")
         blog_filename = f"{idx:02d}-{slug}-amp-blog.html"
         video_filename = f"{idx:02d}-{slug}-google-flow-spec.md"
 
