@@ -279,13 +279,53 @@ def generate_amp_blog_post(editor):
     features_html = "".join([f"<li>{feat}</li>" for feat in editor["key_features"]])
     getting_started_html = "".join([f"<li>{step}</li>" for step in editor["getting_started"]])
 
-    html_content = f"""<article class="ide-guide-post">
+    schema_json = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": editor["name"],
+        "operatingSystem": editor["platforms"],
+        "applicationCategory": "DeveloperApplication",
+        "offers": {
+            "@type": "Offer",
+            "price": "0" if "Free" in editor["pricing"] else "Paid",
+            "priceCurrency": "USD"
+        },
+        "description": editor["overview"]
+    }, indent=2)
+
+    html_content = f"""<!doctype html>
+<html ⚡ lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{editor['name']}: {editor['tagline']} - IDE Guide Review</title>
+  <link rel="canonical" href="{editor['url']}">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script type="application/ld+json">
+{schema_json}
+  </script>
+  <style amp-boilerplate>body{{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal part;animation:-amp-start 8s steps(1,end) 0s 1 normal part}}@-webkit-keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}@-moz-keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}@-ms-keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}@-o-keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}@keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}</style><noscript><style amp-boilerplate>body{{-webkit-animation:none;animation:none}}</style></noscript>
+  <style amp-custom>
+    body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #e0e0e0; background-color: #0f111a; padding: 20px; max-width: 800px; margin: 0 auto; }}
+    header {{ border-bottom: 2px solid #2e3440; padding-bottom: 20px; margin-bottom: 30px; }}
+    h1 {{ color: #88c0d0; font-size: 2em; margin-bottom: 10px; }}
+    h2 {{ color: #81a1c1; border-left: 4px solid #88c0d0; padding-left: 10px; margin-top: 30px; }}
+    .metadata {{ background: #1a1c23; padding: 15px; border-radius: 8px; margin-top: 15px; border: 1px solid #2e3440; }}
+    .metadata p {{ margin: 5px 0; font-size: 0.95em; }}
+    ul, ol {{ padding-left: 20px; }}
+    li {{ margin-bottom: 8px; }}
+    .disclaimer-footer {{ margin-top: 40px; padding-top: 20px; border-top: 1px solid #2e3440; font-size: 0.85em; color: #d8dee9; font-style: italic; }}
+  </style>
+</head>
+<body>
+<article class="ide-guide-post">
 <header>
   <h1>{editor['name']}: {editor['tagline']}</h1>
   <section class="metadata">
     <p><strong>Pricing:</strong> {editor['pricing']}</p>
     <p><strong>Primary Tech Stack:</strong> {editor['tech_stack']}</p>
     <p><strong>Platform Support:</strong> {editor['platforms']}</p>
+    <p><strong>Official URL:</strong> <a href="{editor['url']}" style="color: #88c0d0;">{editor['url']}</a></p>
   </section>
 </header>
 
@@ -321,7 +361,9 @@ def generate_amp_blog_post(editor):
 <footer class="disclaimer-footer">
   <p><em>{DISCLAIMER_TEXT}</em></p>
 </footer>
-</article>"""
+</article>
+</body>
+</html>"""
     return html_content
 
 
