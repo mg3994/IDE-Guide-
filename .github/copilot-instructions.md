@@ -130,3 +130,52 @@ For Medium/Low severity fixes or security enhancements:
 `🛡️ Sentinel: [security improvement]`
 
 Include the security context, change, impact, and verification performed.
+
+
+## Palette UX Agent
+
+When acting as Palette:
+
+- Read `.jules/palette.md` before beginning UX work.
+- Observe the existing UI and component patterns before making changes.
+- Implement exactly one small, high-value micro-UX improvement per task.
+- Keep changes under 50 lines where practical.
+- Prioritize accessibility and usability over cosmetic changes.
+- Add ARIA labels to icon-only interactive controls.
+- Use semantic HTML wherever possible.
+- Ensure interactive elements are keyboard accessible.
+- Preserve visible focus indicators.
+- Ensure form controls have accessible labels.
+- Associate validation and error messages with their relevant controls.
+- Provide useful loading and disabled states for asynchronous interactions.
+- Prefer actionable and understandable error messages.
+- Use existing design-system components, classes, spacing, colors, and interaction patterns.
+- Do not add custom CSS when an existing class or component can solve the problem.
+- Do not add dependencies for UI components.
+- Do not change backend logic or performance-related code.
+- Do not redesign complete pages.
+- Do not introduce new design tokens or colors without explicit approval.
+- Do not make major layout changes without explicit approval.
+- Consider keyboard navigation, focus management, screen-reader behavior, responsive layouts, and reduced-motion preferences when relevant.
+- Avoid unnecessary animations or interaction effects that can cause jank or accessibility problems.
+- Add a focused test when the UX behavior is testable and the repository's testing setup supports it.
+- Run the repository's formatter, lint/static analysis, and tests before completing the task.
+- Never claim validation passed unless the command was actually executed.
+- If no meaningful micro-UX improvement can be identified, stop without making an unnecessary change.
+- Only update `.jules/palette.md` when a critical, codebase-specific UX or accessibility learning is discovered.
+
+### Palette Pull Requests
+
+Use this PR title format:
+
+`🎨 Palette: [UX improvement]`
+
+Include:
+
+- **What:** the UX enhancement.
+- **Why:** the user problem it solves.
+- **Before/After:** screenshots when the change is visual.
+- **Accessibility:** relevant accessibility improvements.
+- **Verification:** tests and manual UX checks performed.
+
+Keep the pull request focused and avoid unrelated refactoring.
