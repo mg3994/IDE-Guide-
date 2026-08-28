@@ -1,0 +1,94 @@
+{
+  "title": "Visual Studio Code Review: Pros, Cons & Pricing Explained! | IDE Guide",
+  "ide_name": "Visual Studio Code",
+  "date": "2026-08-28",
+  "slot": "Evening Comparison",
+  "channel": "@IDEguide",
+  "youtube_url": "https://www.youtube.com/@IDEguide",
+  "blogger_url": "https://ideguide.blogspot.com/",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "target_audience": "Software Developers, Full-Stack Engineers, AI Tool Enthusiasts",
+  "video_format": {
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920 (Vertical Short)",
+    "target_duration_seconds": 60,
+    "framerate": "60 fps"
+  },
+  "aesthetic_guidelines": {
+    "lighting": "Dark studio background with cyan & neon blue RGB accent illumination",
+    "color_palette": "Dark mode code editor themes (Tokyo Night / One Dark Pro) with electric syntax highlighting",
+    "camera_angles": "Macro close-up on code typing, smooth over-the-shoulder pan across IDE interface",
+    "voiceover_tone": "Energetic, precise, authoritative, developer-friendly"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "timestamp": "00:00 - 00:05",
+      "duration_seconds": 5,
+      "title": "Hook & IDE Reveal",
+      "google_flow_prompt": "4K macro camera zoom onto modern computer monitor displaying Visual Studio Code logo. Dark theme code editor active with glowing cursor typing code rapidly. Neon blue accent lighting in background.",
+      "voiceover_script": "Is Visual Studio Code worth your time in 2026? Let's uncover the honest truth in 60 seconds!",
+      "on_screen_text": "\ud83d\udd25 Visual Studio Code Developer Breakdown",
+      "audio_cue": "Cyberpunk riser sound effect transitioning to fast subtle lo-fi beat"
+    },
+    {
+      "scene_number": 2,
+      "timestamp": "00:05 - 00:20",
+      "duration_seconds": 15,
+      "title": "The Pros & Killer Features",
+      "google_flow_prompt": "Over-the-shoulder shot of developer smoothly navigating Visual Studio Code interface. Highlighting key feature: Massive marketplace with over 50,000 extensions. Crisp code lines, zero lag.",
+      "voiceover_script": "Here is what makes Visual Studio Code standout: First, Massive marketplace with over 50,000 extensions. Second, Unmatched language support, LSP ecosystem, and debugging tools.",
+      "on_screen_text": "\u2705 TOP PROS\n\u2022 Massive marketplace with over 50,000 extensions\n\u2022 Unmatched language support, LSP ecosystem, and debugging tools",
+      "audio_cue": "Chime click effect for each checkmark point"
+    },
+    {
+      "scene_number": 3,
+      "timestamp": "00:20 - 00:35",
+      "duration_seconds": 15,
+      "title": "The Cons & Weaknesses",
+      "google_flow_prompt": "Close up on monitor showing complex workspace settings in Visual Studio Code. Red warning badge floating subtly on screen, showing memory/extension tradeoffs.",
+      "voiceover_script": "However, here are the drawbacks: Electron overhead leads to high RAM consumption on large monorepos.",
+      "on_screen_text": "\u26a0\ufe0f WEAKNESSES\n\u2022 Electron overhead leads to high RAM consumption on large monorepos",
+      "audio_cue": "Subtle low warning tone"
+    },
+    {
+      "scene_number": 4,
+      "timestamp": "00:35 - 00:45",
+      "duration_seconds": 10,
+      "title": "Pricing (Free vs Paid)",
+      "google_flow_prompt": "Clean infographic layout with glowing split card: Free Tier vs Paid Pro Tier. Modern high tech typography.",
+      "voiceover_script": "Price breakdown: 100% Free core editor; Optional GitHub Copilot paid extension ($10-$19/mo).",
+      "on_screen_text": "\ud83d\udcb2 PRICING MODEL\n100% Free core editor; Optional GitHub Copilot paid extension ($10-$19/mo).",
+      "audio_cue": "Digital register coin pop effect"
+    },
+    {
+      "scene_number": 5,
+      "timestamp": "00:45 - 00:55",
+      "duration_seconds": 10,
+      "title": "Verdict & Recommendation",
+      "google_flow_prompt": "Developer looking at two code editors on dual curved screens, giving a confident nod. Bright glowing verdict badge in screen center.",
+      "voiceover_script": "Our verdict: Every developer needing an adaptable, rich ecosystem with proven reliability.",
+      "on_screen_text": "\ud83d\udca1 VERDICT\nEvery developer needing an adaptable, rich ecosystem with proven reliability.",
+      "audio_cue": "Success chord resolution"
+    },
+    {
+      "scene_number": 6,
+      "timestamp": "00:55 - 01:00",
+      "duration_seconds": 5,
+      "title": "CTA & Disclaimer",
+      "google_flow_prompt": "Animation of IDE Guide YouTube channel logo (@IDEguide) and ideguide.blogspot.com blog banner. Subscribe button with pulsing motion.",
+      "voiceover_script": "Read our complete AMP article at ideguide.blogspot.com and subscribe to @IDEguide for daily tool guides!",
+      "on_screen_text": "Subscribe @IDEguide\nBlog: ideguide.blogspot.com\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+      "audio_cue": "Outro beat swell & subscribe bell sound"
+    }
+  ],
+  "tags": [
+    "vscode",
+    "visual studio code",
+    "ideguide",
+    "codeeditor",
+    "developer",
+    "programming",
+    "techreview"
+  ]
+}
