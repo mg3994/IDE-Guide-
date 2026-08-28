@@ -1,0 +1,47 @@
+name: IDE Guide Daily Content Generation
+
+on:
+  schedule:
+    # Runs at 21:30 UTC every day (03:00 AM IST)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force regeneration of content'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate-daily-package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Unit Tests
+        run: |
+          python3 -m unittest discover -s tests
+
+      - name: Generate Daily Content (3 AMP posts & 3 Google Flow specs)
+        run: |
+          FORCE_FLAG=""
+          if [ "${{ inputs.force }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+          python3 scripts/generate_daily_content.py $FORCE_FLAG
+
+      - name: Commit and Push Daily Packages
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: Generate daily content package [AMP HTML & Google Flow Specs]"
+          file_pattern: 'content/*'

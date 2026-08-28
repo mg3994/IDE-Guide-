@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment & Output
+.venv/
+env/
+venv/
+*.log
+test_agent_output/
+generated_skills_output/
