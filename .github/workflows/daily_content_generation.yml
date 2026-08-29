@@ -1,0 +1,38 @@
+name: Daily Content Generation
+
+on:
+  schedule:
+    # Run daily at 21:30 UTC (03:00 AM IST)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Daily Content Generation Script
+        run: |
+          python3 scripts/generate_daily_content.py
+
+      - name: Commit and Push Daily Content Package
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add content/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(content): automated daily content package generation"
+            git push
+          fi

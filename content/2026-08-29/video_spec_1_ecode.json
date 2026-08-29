@@ -1,0 +1,69 @@
+{
+  "channel": "@IDEguide",
+  "video_title": "Ecode Review: Is It The Best Code Editor in 2026? (Pros, Cons & Pricing)",
+  "ide_name": "Ecode",
+  "developer": "SpartanJ",
+  "pricing": "Free / Open Source",
+  "target_formats": [
+    {
+      "type": "YouTube Main Video",
+      "aspect_ratio": "16:9",
+      "resolution": "3840x2160 (4K UHD)",
+      "duration_seconds": 180
+    },
+    {
+      "type": "YouTube Shorts",
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920",
+      "duration_seconds": 59
+    }
+  ],
+  "google_flow_visual_prompts": {
+    "style_preset": "Cyberpunk Dark Tech",
+    "lighting": "Soft volumetric dark-room glow with vibrant syntax highlight neon tones",
+    "camera_angles": [
+      "Macro close-up on IDE editor cursor and code completion popups",
+      "Over-the-shoulder shot of developer working in modern dark workspace",
+      "Split-screen comparison showing side-by-side performance benchmarks"
+    ],
+    "scene_sequence": [
+      {
+        "scene": 1,
+        "name": "Hook & Title",
+        "visual_prompt": "Cinematic close-up of Ecode UI loading code on a curved OLED monitor, dark aesthetic, neon glowing code syntax.",
+        "audio_script": "Is Ecode worth switching to today? Let's analyze its pros, cons, and performance in 60 seconds."
+      },
+      {
+        "scene": 2,
+        "name": "Pricing & Overview",
+        "visual_prompt": "Clean graphic overlay listing pricing model: Free / Open Source. High tech UI graphics.",
+        "audio_script": "Ecode is created by SpartanJ. It operates under a Free / Open Source model."
+      },
+      {
+        "scene": 3,
+        "name": "Pros & Standout Features",
+        "visual_prompt": "Dynamic camera panning across Ecode interface highlighting features: Popular repository with 1,673 GitHub stars, Description: Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance..",
+        "audio_script": "Top strengths include: Popular repository with 1,673 GitHub stars. Plus, Description: Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.."
+      },
+      {
+        "scene": 4,
+        "name": "Cons & Limitations",
+        "visual_prompt": "Split red-tinted UI overlay showing potential resource bottlenecks or configuration challenges.",
+        "audio_script": "However, keep in mind: May require building from source or setup configuration."
+      },
+      {
+        "scene": 5,
+        "name": "Verdict & Recommendation",
+        "visual_prompt": "Final score badge popping up over sleek desk setup with Ecode on screen.",
+        "audio_script": "Our verdict: A highly promising open-source editor project (ecode) worth watching for developers who value community-driven software."
+      },
+      {
+        "scene": 6,
+        "name": "Disclaimer Banner",
+        "visual_prompt": "Clean text overlay displaying non-sponsorship disclosure at bottom third of frame.",
+        "audio_script": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+      }
+    ]
+  },
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
