@@ -1,0 +1,76 @@
+{
+  "channel": "@IDEguide",
+  "url": "https://www.youtube.com/@IDEguide",
+  "ide_name": "vscodium",
+  "ide_slug": "vscodium",
+  "pricing_model": "100% Free & Open Source",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "video_formats": {
+    "youtube_shorts": {
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 50,
+      "flow_prompt": "Create a high-energy 9:16 vertical tech video reviewing vscodium (Code Editor / IDE (Shell)). Use sleek dark mode code editor interface animations, glowing cyan and purple syntax highlighting, fast-paced camera pans over mechanical keyboards, and dynamic text overlays highlighting top features and pricing.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "title": "Hook",
+          "duration": "0-5s",
+          "visual_prompt": "Close-up cinematic shot of vscodium editor dark interface with glowing neon text.",
+          "voiceover": "Should you use vscodium for coding in 2026? Let's break it down in 50 seconds!",
+          "text_overlay": "vscodium - Worth It?"
+        },
+        {
+          "scene_number": 2,
+          "title": "The Good (Pros)",
+          "duration": "5-20s",
+          "visual_prompt": "Fast panning shot over editor features, code autocompletion, and extension marketplace.",
+          "voiceover": "First, the pros. binary releases of VS Code without MS branding/telemetry/licensing. Plus, Starred by 33039 developers on GitHub.",
+          "text_overlay": "PROS: binary releases of VS Code without MS branding/telemetry/licensing"
+        },
+        {
+          "scene_number": 3,
+          "title": "The Bad (Cons)",
+          "duration": "20-35s",
+          "visual_prompt": "Camera tilt to performance monitor or warning badge overlay.",
+          "voiceover": "On the downside: May require manual configuration or plugin setup.",
+          "text_overlay": "CONS: May require manual configuration or plugin setup"
+        },
+        {
+          "scene_number": 4,
+          "title": "Pricing & Verdict",
+          "duration": "35-50s",
+          "visual_prompt": "Floating price card badge showing pricing status, transitioning to channel logo and non-sponsorship disclosure.",
+          "voiceover": "Pricing is 100% Free & Open Source. Ideal for Developers interested in Shell and open-source tooling. Remember, IDE Guide is an independent publication not sponsored by any vendor. Subscribe to @IDEguide for daily developer reviews!",
+          "text_overlay": "100% Free & Open Source | Subscribe @IDEguide"
+        }
+      ]
+    },
+    "youtube_horizontal_video": {
+      "aspect_ratio": "16:9",
+      "target_duration_seconds": 180,
+      "flow_prompt": "Create a 16:9 4K resolution tech review video for vscodium (Code Editor / IDE (Shell)). Features dark studio lighting, cyberpunk aesthetic, screen captures of code editing, side-by-side pros and cons graphics, and clear lower third titles.",
+      "sections": [
+        {
+          "section": "Intro & High-level summary",
+          "duration": "0-30s"
+        },
+        {
+          "section": "Interface & Core Features",
+          "duration": "30-90s"
+        },
+        {
+          "section": "Pros vs Cons Breakdown",
+          "duration": "90-140s"
+        },
+        {
+          "section": "Pricing & Recommendation",
+          "duration": "140-165s"
+        },
+        {
+          "section": "Disclaimer & Channel Outro",
+          "duration": "165-180s"
+        }
+      ]
+    }
+  }
+}

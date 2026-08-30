@@ -1,0 +1,38 @@
+name: Daily Content Generation
+
+on:
+  schedule:
+    # Runs at 21:30 UTC every day (3:00 AM IST)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Daily Content Generation
+        run: |
+          python3 scripts/generate_daily_content.py
+
+      - name: Commit and Push New Content
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          if git diff --cached --quiet; then
+            echo "No new content to commit."
+          else
+            git commit -m "chore: generate daily AMP blog posts and Google Flow video specs"
+            git push
+          fi
