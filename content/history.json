@@ -1,0 +1,24 @@
+{
+  "covered_slugs": [
+    "vscodium",
+    "onlook",
+    "codeedit"
+  ],
+  "history": [
+    {
+      "date": "2026-08-30",
+      "ide_name": "vscodium",
+      "slug": "vscodium"
+    },
+    {
+      "date": "2026-08-30",
+      "ide_name": "onlook",
+      "slug": "onlook"
+    },
+    {
+      "date": "2026-08-30",
+      "ide_name": "CodeEdit",
+      "slug": "codeedit"
+    }
+  ]
+}
