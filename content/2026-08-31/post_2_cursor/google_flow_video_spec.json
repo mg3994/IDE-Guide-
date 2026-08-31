@@ -1,0 +1,71 @@
+{
+  "channel": "IDE Guide (@IDEguide)",
+  "date": "2026-08-31",
+  "ide_name": "Cursor",
+  "ide_slug": "cursor",
+  "format": "long_form",
+  "aspect_ratio": "16:9",
+  "title": "IDE Guide Review: Cursor (Full Review)",
+  "pricing": {
+    "tier": "Freemium",
+    "details": "Free tier with monthly query limits; Pro tier at $20/month for unlimited fast AI requests."
+  },
+  "recommendation": {
+    "best_for": "Developers looking for cutting-edge AI-assisted pair programming and rapid code generation.",
+    "verdict": "The premier AI-first code editor redefining modern software development workflows."
+  },
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "google_flow_settings": {
+    "model_target": "Google Flow / Veo 2",
+    "frame_rate": 30,
+    "resolution": "1920x1080",
+    "style_preset": "Cinematic Tech Review / Developer Dark Mode"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 5,
+      "title": "Hook & IDE Showcase",
+      "narration_script": "Is Cursor the best code editor for your developer workflow in 2026? Let's break down the pros, cons, and pricing!",
+      "visual_prompt": "Cinematic macro close-up shot of a dark-mode code editor interface showing syntax-highlighted code for Cursor. Smooth camera push-in towards the cursor blinking on line 12. Soft blue LED backlight reflecting on mechanical keycaps.",
+      "camera_angle": "45-degree macro close-up, slow steady zoom-in",
+      "lighting": "Low key ambient room lighting, cyan accent backlight (5600K key light on keyboard)"
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 15,
+      "title": "Core Strengths & Pros",
+      "narration_script": "Here is what makes Cursor stand out: Deep codebase-indexing AI chat and inline editing (Cmd+K), Seamless 1-click import of VS Code settings and extensions.",
+      "visual_prompt": "High-speed screencast style visualization of Cursor displaying file tree navigation, fast auto-complete popups, and instant split-pane window layout. Smooth visual transition between editor panels.",
+      "camera_angle": "Direct eye-level screen perspective, slight tilt shift depth-of-field",
+      "lighting": "High clarity digital screen illumination"
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 15,
+      "title": "Cons & Tradeoffs",
+      "narration_script": "However, keep in mind: Requires active internet connection for proprietary AI features, Paid subscription required for heavy power users.",
+      "visual_prompt": "Cinematic shot of system resource monitor graphs showing memory allocation alongside editor configuration windows, highlighted with modern warning badges and crisp typography overlay.",
+      "camera_angle": "Over-the-shoulder view of developer setup, warm ambient lighting",
+      "lighting": "Cool color tone temperature (4000K)"
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 15,
+      "title": "Pricing & Recommendation",
+      "narration_script": "Pricing tier: Freemium. Best suited for Developers looking for cutting-edge AI-assisted pair programming and rapid code generation. The premier AI-first code editor redefining modern software development workflows.",
+      "visual_prompt": "Split screen score graphic displaying Freemium badge on the left, and a sleek summary rating card for Cursor on the right with subscribe button animation.",
+      "camera_angle": "Centered graphics card layout, dynamic motion graphics pop",
+      "lighting": "Bright studio graphics lighting"
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 5,
+      "title": "Outro & Independent Disclaimer",
+      "narration_script": "Subscribe to IDE Guide on YouTube and visit ideguide.blogspot.com for daily technical editor reviews!",
+      "visual_prompt": "Elegant ending title card displaying IDE Guide logo, YouTube channel link (@IDEguide), and Blogger website URL with soft animated particle background.",
+      "camera_angle": "Static front view",
+      "lighting": "Balanced neutral studio light"
+    }
+  ]
+}
