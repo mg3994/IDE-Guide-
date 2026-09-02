@@ -1,0 +1,41 @@
+name: Daily Content Generation Workflow
+
+on:
+  schedule:
+    # Runs daily at 21:30 UTC (03:00 AM IST next day)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate Daily Content (3 Blog Posts & 3 Video Specs)
+        run: |
+          python3 scripts/generate_daily_content.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          git status
+          if git diff --staged --quiet; then
+            echo "No new content to commit."
+          else
+            git commit -m "chore(content): generate daily IDE Guide blog posts and video specs [skip ci]"
+            git push
+          fi
