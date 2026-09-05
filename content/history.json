@@ -1,0 +1,32 @@
+{
+  "covered_ides": [
+    "Lapce Editor",
+    "Codeedit Editor",
+    "Intellij-community Editor",
+    "Learn-vim Editor",
+    "Terax-ai Editor",
+    "Acode"
+  ],
+  "generations": [
+    {
+      "date": "2026-09-03",
+      "ides_covered": [
+        "Lapce Editor",
+        "Codeedit Editor",
+        "Intellij-community Editor"
+      ],
+      "files_count": 6,
+      "timestamp": "2026-09-03T22:17:26.276972+00:00"
+    },
+    {
+      "date": "2026-09-04",
+      "ides_covered": [
+        "Learn-vim Editor",
+        "Terax-ai Editor",
+        "Acode"
+      ],
+      "files_count": 6,
+      "timestamp": "2026-09-04T22:14:31.754865+00:00"
+    }
+  ]
+}
