@@ -1,0 +1,65 @@
+{
+  "channel": "@IDEguide",
+  "website": "https://ideguide.blogspot.com/",
+  "title": "Cursor IDE Review: Is It Worth It? | IDE Guide",
+  "ide_name": "Cursor IDE",
+  "pricing": "Freemium ($20/mo for Pro)",
+  "category": "AI Code Editor",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "format_specs": {
+    "shorts": {
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920",
+      "fps": 60,
+      "target_duration_sec": 45
+    },
+    "longform": {
+      "aspect_ratio": "16:9",
+      "resolution": "3840x2160",
+      "fps": 60,
+      "target_duration_sec": 300
+    }
+  },
+  "google_flow_prompts": [
+    {
+      "scene_id": 1,
+      "duration_sec": 5,
+      "narration": "Is Cursor IDE the best editor for your setup? Let's break down the pros, cons, and pricing in 45 seconds!",
+      "visual_prompt": "Macro shot of developer desk with glowing dark theme running Cursor IDE interface, cinematic lighting, purple RGB backlight.",
+      "framing": "9:16 Vertical Close-up",
+      "lighting": "Cyberpunk dark mode studio lighting",
+      "camera_motion": "Slow push-in zoom towards code editor UI",
+      "text_overlay": "Cursor IDE Review - IDE Guide"
+    },
+    {
+      "scene_id": 2,
+      "duration_sec": 10,
+      "narration": "AI-first code editor built on top of VS Code with deep LLM integration. Best used for Developers seeking AI-assisted coding and automated refactoring.",
+      "visual_prompt": "Smooth screen recording animation showing fast code typing and syntax highlighting inside Cursor IDE.",
+      "framing": "9:16 Vertical UI Capture",
+      "lighting": "Clean high contrast display glow",
+      "camera_motion": "Static focus with dynamic text overlays",
+      "text_overlay": "Category: AI Code Editor"
+    },
+    {
+      "scene_id": 3,
+      "duration_sec": 15,
+      "narration": "Here are the top advantages: Seamless multi-file AI code generation, Natural language terminal commands, VS Code extension compatibility. However, consider these drawbacks: Proprietary AI features behind subscription, Requires active internet connection for AI features.",
+      "visual_prompt": "Split screen transition showing Pros badge in emerald green and Cons badge in crimson red on top of Cursor IDE dark UI background.",
+      "framing": "9:16 Split layout",
+      "lighting": "Dual tone green/red accent lighting",
+      "camera_motion": "Fast slide-in transition from right",
+      "text_overlay": "PROS vs CONS"
+    },
+    {
+      "scene_id": 4,
+      "duration_sec": 10,
+      "narration": "Pricing model: Freemium ($20/mo for Pro). Check our full AMP blog post on ideguide.blogspot.com!",
+      "visual_prompt": "Final title card with IDE Guide logo, YouTube subscribe animation, and link badge for ideguide.blogspot.com.",
+      "framing": "9:16 Centered Graphic",
+      "lighting": "Bright sleek neon glow",
+      "camera_motion": "Smooth fade to black",
+      "text_overlay": "Subscribe @IDEguide | ideguide.blogspot.com"
+    }
+  ]
+}
