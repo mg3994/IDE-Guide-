@@ -1,0 +1,29 @@
+{
+  "covered_ides": [
+    "visual studio code",
+    "neovim",
+    "cursor ide"
+  ],
+  "daily_logs": [
+    {
+      "date": "2026-09-06",
+      "items": [
+        {
+          "ide": "Visual Studio Code",
+          "blog_post": "content/2026-09-06/blog_post_1_visual_studio_code.html",
+          "video_spec": "content/2026-09-06/video_spec_1_visual_studio_code.json"
+        },
+        {
+          "ide": "Neovim",
+          "blog_post": "content/2026-09-06/blog_post_2_neovim.html",
+          "video_spec": "content/2026-09-06/video_spec_2_neovim.json"
+        },
+        {
+          "ide": "Cursor IDE",
+          "blog_post": "content/2026-09-06/blog_post_3_cursor_ide.html",
+          "video_spec": "content/2026-09-06/video_spec_3_cursor_ide.json"
+        }
+      ]
+    }
+  ]
+}
