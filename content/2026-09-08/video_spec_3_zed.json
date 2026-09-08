@@ -1,0 +1,38 @@
+{
+  "channel": "@IDEguide",
+  "video_index": 3,
+  "ide_name": "Zed Editor",
+  "date": "2026-09-08",
+  "format": "YouTube Short (9:16) & YouTube Video Spec (16:9)",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "google_flow_prompts": [
+    {
+      "scene": 1,
+      "title": "Hook & Code Editor Visual",
+      "timecode": "00:00 - 00:05",
+      "prompt": "Macro cinematic close-up shot of dark mode UI of Zed Editor displaying syntax highlighted code on a high refresh rate curved display. Dynamic soft pan, neon ambient lighting, photorealistic 8k, 60fps.",
+      "voiceover": "Looking for the best editor? Here is what you need to know about Zed Editor in 45 seconds!"
+    },
+    {
+      "scene": 2,
+      "title": "Feature & Workflow Showcase",
+      "timecode": "00:05 - 00:25",
+      "prompt": "Smooth screen recording animation showcasing key feature of Zed Editor: Blazing fast startup and sub-millisecond typing latency. Fluid zooming into interface controls with cybernetic UI accent glows.",
+      "voiceover": "Zed Editor shines with Blazing fast startup and sub-millisecond typing latency and Real-time multiplayer collaborative editing."
+    },
+    {
+      "scene": 3,
+      "title": "Pricing & Comparison",
+      "timecode": "00:25 - 00:38",
+      "prompt": "Split screen holographic card showing pricing model 'Free / Open Source (Optional paid collaboration team features)' and licensing 'Open Source (GPL / Apache 2.0)'. Modern dark theme glassmorphism graphic.",
+      "voiceover": "Pricing is Free / Open Source (Optional paid collaboration team features). It is best suited for Performance purists, Rust enthusiasts, and teams wanting real-time pair programming."
+    },
+    {
+      "scene": 4,
+      "title": "Outro & Disclaimer",
+      "timecode": "00:38 - 00:45",
+      "prompt": "Call to action graphic displaying YouTube channel @IDEguide and website ideguide.blogspot.com with animated subscribe motion button.",
+      "voiceover": "Subscribe to IDE Guide on YouTube and visit ideguide.blogspot.com for full technical breakdown. Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+    }
+  ]
+}

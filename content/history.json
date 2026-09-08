@@ -1,0 +1,17 @@
+{
+  "covered_keys": [
+    "vscode",
+    "cursor",
+    "zed"
+  ],
+  "daily_logs": [
+    {
+      "date": "2026-09-08",
+      "ides": [
+        "vscode",
+        "cursor",
+        "zed"
+      ]
+    }
+  ]
+}
