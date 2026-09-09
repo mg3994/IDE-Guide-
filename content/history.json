@@ -1,0 +1,77 @@
+{
+  "covered_ides": {
+    "cursor": {
+      "name": "Cursor",
+      "developer": "Anysphere",
+      "license_type": "Freemium",
+      "date_covered": "2026-09-09"
+    },
+    "vs-code": {
+      "name": "Visual Studio Code",
+      "developer": "Microsoft",
+      "license_type": "Free / Open Source (Core)",
+      "date_covered": "2026-09-09"
+    },
+    "windsurf": {
+      "name": "Windsurf",
+      "developer": "Codeium",
+      "license_type": "Freemium",
+      "date_covered": "2026-09-09"
+    },
+    "intellij-idea": {
+      "name": "JetBrains IntelliJ IDEA",
+      "developer": "JetBrains",
+      "license_type": "Freemium / Commercial",
+      "date_covered": "2026-09-09"
+    },
+    "zed": {
+      "name": "Zed",
+      "developer": "Zed Industries",
+      "license_type": "Open Source",
+      "date_covered": "2026-09-09"
+    },
+    "neovim": {
+      "name": "Neovim",
+      "developer": "Neovim Community",
+      "license_type": "Open Source (Apache 2.0 / Vim)",
+      "date_covered": "2026-09-09"
+    },
+    "sublime-text": {
+      "name": "Sublime Text 4",
+      "developer": "Sublime HQ",
+      "license_type": "Shareware / Commercial",
+      "date_covered": "2026-09-09"
+    },
+    "pycharm": {
+      "name": "JetBrains PyCharm",
+      "developer": "JetBrains",
+      "license_type": "Freemium / Commercial",
+      "date_covered": "2026-09-09"
+    },
+    "helix": {
+      "name": "Helix",
+      "developer": "Helix Community",
+      "license_type": "Open Source (MPL 2.0)",
+      "date_covered": "2026-09-09"
+    },
+    "fleet": {
+      "name": "JetBrains Fleet",
+      "developer": "JetBrains",
+      "license_type": "Freemium",
+      "date_covered": "2026-09-09"
+    },
+    "lapce": {
+      "name": "Lapce",
+      "developer": "Lapce Community",
+      "license_type": "Open Source (Apache 2.0)",
+      "date_covered": "2026-09-09"
+    },
+    "eclipse": {
+      "name": "Eclipse IDE",
+      "developer": "Eclipse Foundation",
+      "license_type": "Open Source (EPL-2.0)",
+      "date_covered": "2026-09-09"
+    }
+  },
+  "last_updated": "2026-09-09T22:18:48.467089+00:00"
+}
