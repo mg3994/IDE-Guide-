@@ -1,0 +1,17 @@
+{
+  "covered_ides": [
+    "cursor ai",
+    "zed editor",
+    "windsurf editor"
+  ],
+  "daily_runs": [
+    {
+      "date": "2026-09-10",
+      "ides_covered": [
+        "Cursor AI",
+        "Zed Editor",
+        "Windsurf Editor"
+      ]
+    }
+  ]
+}

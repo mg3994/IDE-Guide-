@@ -1,0 +1,69 @@
+{
+  "title": "Windsurf Editor Code Editor Review | Is It Best for You? (@IDEguide)",
+  "target_platform": "YouTube / Shorts / Google Flow",
+  "aspect_ratio": "9:16 Vertical (Shorts) & 16:9 Horizontal (Long form)",
+  "branding": {
+    "channel_name": "IDE Guide",
+    "youtube_handle": "@IDEguide",
+    "blog_url": "https://ideguide.blogspot.com/"
+  },
+  "non_sponsorship_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "editor_metadata": {
+    "name": "Windsurf Editor",
+    "category": "AI Flow State Editor",
+    "pricing": "Freemium",
+    "tagline": "The first agentic IDE powered by Cascade AI flow engine"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 5,
+      "scene_type": "Hook & Title",
+      "visual_prompt": "Cinematic close-up macro shot of dark-mode code editor interface showing high contrast glowing syntax highlighting. Overlay bold title: 'Windsurf Editor: Is it Worth It?'. Sleek studio desk environment with cyan and purple LED backlight.",
+      "camera_motion": "Slow zoom in on the glowing editor cursor",
+      "lighting": "Dark room key light with vibrant 5600K cyan and purple accent lighting",
+      "voiceover": "Looking for the ultimate coding setup? Today on IDE Guide, we are breaking down Windsurf Editor\u2014the ai flow state editor that claims to revolutionize your workflow.",
+      "on_screen_text": "Windsurf Editor Review | IDE Guide"
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 15,
+      "scene_type": "Key Features & The Good",
+      "visual_prompt": "Split screen view of Windsurf Editor executing code seamlessly. Visual overlay icons highlighting feature performance. Smooth high tech UI animation.",
+      "camera_motion": "Smooth pan right across code editor panels",
+      "lighting": "Clean modern developer aesthetic with emerald green highlight glow",
+      "voiceover": "Here is what makes Windsurf Editor stand out: Cascade AI agent understands entire repository context dynamically. Plus, Superb free tier compared to competitors.",
+      "on_screen_text": "Pros: Cascade AI agent understands entire repository context dynamically"
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 15,
+      "scene_type": "The Bad & Drawbacks",
+      "visual_prompt": "Close up on error log or complex settings panel in Windsurf Editor with a subtle amber highlight overlay indicating potential friction points.",
+      "camera_motion": "Static macro focus with subtle floating red indicator callouts",
+      "lighting": "Moody warm ambient light with subtle red/orange rim lighting",
+      "voiceover": "However, it is not perfect. The drawbacks you should know: Newer platform with evolving UI features.",
+      "on_screen_text": "Cons: Newer platform with evolving UI features"
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 10,
+      "scene_type": "Pricing & Recommendation",
+      "visual_prompt": "High quality graphic card displaying 'Freemium' tag over a sleek dark developer workspace background.",
+      "camera_motion": "Direct pull-back shot framing workspace setup",
+      "lighting": "Balanced neutral white studio key light",
+      "voiceover": "Pricing wise, Windsurf Editor is Freemium. Bottom line: Full-stack developers looking for an AI agent that automates complex multi-step refactoring.",
+      "on_screen_text": "Pricing: Freemium"
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 10,
+      "scene_type": "CTA & Disclaimer",
+      "visual_prompt": "Clean graphic displaying IDE Guide YouTube logo, Subscribe button animation, and Blogger site URL. Text overlay for disclaimer.",
+      "camera_motion": "Gentle zoom out",
+      "lighting": "Soft glow branding backlight",
+      "voiceover": "Subscribe to IDE Guide for daily unbiased code editor reviews. Visit ideguide.blogspot.com for the full AMP post!",
+      "on_screen_text": "Subscribe @IDEguide | ideguide.blogspot.com\nIndependent & Non-Sponsored Review"
+    }
+  ]
+}
