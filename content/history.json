@@ -1,0 +1,33 @@
+{
+  "covered_ides": [
+    "Cursor IDE",
+    "Zed Editor",
+    "Visual Studio Code"
+  ],
+  "daily_runs": [
+    {
+      "date": "2026-09-11",
+      "timestamp_utc": "2026-09-11T22:19:47.668703+00:00",
+      "generated_items": [
+        {
+          "index": 1,
+          "ide_name": "Cursor IDE",
+          "blog_path": "content/2026-09-11/blogpost_1_cursor_ide.html",
+          "spec_path": "content/2026-09-11/video_spec_1_cursor_ide.json"
+        },
+        {
+          "index": 2,
+          "ide_name": "Zed Editor",
+          "blog_path": "content/2026-09-11/blogpost_2_zed_editor.html",
+          "spec_path": "content/2026-09-11/video_spec_2_zed_editor.json"
+        },
+        {
+          "index": 3,
+          "ide_name": "Visual Studio Code",
+          "blog_path": "content/2026-09-11/blogpost_3_visual_studio_code.html",
+          "spec_path": "content/2026-09-11/video_spec_3_visual_studio_code.json"
+        }
+      ]
+    }
+  ]
+}
