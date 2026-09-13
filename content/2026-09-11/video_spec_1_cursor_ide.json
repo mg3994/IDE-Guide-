@@ -1,0 +1,81 @@
+{
+  "channel": "@IDEguide",
+  "ide_name": "Cursor IDE",
+  "category": "AI Code Editor",
+  "pricing": "Freemium ($20/mo for Pro)",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "youtube_shorts_spec": {
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "target_duration_seconds": 55,
+    "scenes": [
+      {
+        "scene": 1,
+        "duration_seconds": 5,
+        "visual_prompt": "Cinematic vertical shot of modern glowing dark mode code editor interface showing Cursor IDE UI. Neon blue and cyan atmospheric rim lighting. Smooth slow zoom into source code.",
+        "overlay_text": "Is Cursor IDE Worth Using in 2026?",
+        "voiceover_script": "Looking for a new code editor? Today we are breaking down Cursor IDE."
+      },
+      {
+        "scene": 2,
+        "duration_seconds": 15,
+        "visual_prompt": "Close-up high-fps screen capture style animation of Cursor IDE feature execution, syntax highlighting, and fast editor response.",
+        "overlay_text": "Key Highlights & Capabilities",
+        "voiceover_script": "An AI-first code editor built as a fork of VS Code, featuring inline AI generation, chat with codebase context, and multi-file editing."
+      },
+      {
+        "scene": 3,
+        "duration_seconds": 15,
+        "visual_prompt": "Dynamic split screen visual showing Green checkmarks for Pros and Red crosses for Cons on a sleek dark background with glowing particle effect.",
+        "overlay_text": "GOOD: Native AI codebase indexing | BAD: Proprietary closed-source features",
+        "voiceover_script": "On the good side: Native AI codebase indexing. But watch out for: Proprietary closed-source features."
+      },
+      {
+        "scene": 4,
+        "duration_seconds": 10,
+        "visual_prompt": "Clean graphic displaying Pricing status and target audience badge with smooth modern typography motion.",
+        "overlay_text": "Pricing: Freemium ($20/mo for Pro)",
+        "voiceover_script": "Pricing is Freemium ($20/mo for Pro). Best for web developers and AI engineers seeking maximum productivity through LLM integration."
+      },
+      {
+        "scene": 5,
+        "duration_seconds": 10,
+        "visual_prompt": "YouTube subscribe button animation and Blogger website URL glowing banner: ideguide.blogspot.com",
+        "overlay_text": "Subscribe @IDEguide | Full AMP Review in Description",
+        "voiceover_script": "Subscribe to IDE Guide on YouTube and read the full breakdown on ideguide.blogspot.com! Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+      }
+    ]
+  },
+  "youtube_video_spec": {
+    "aspect_ratio": "16:9",
+    "resolution": "3840x2160",
+    "target_duration_seconds": 180,
+    "prompt_style_guide": {
+      "lighting": "Volumetric soft studio rim light, neon teal (#0284c7) and deep navy (#0f172a)",
+      "camera_motion": "Smooth motorized slider pan, slow macro zoom into IDE terminal prompt",
+      "color_grading": "High contrast dark mode cyberpunk aesthetics"
+    },
+    "narration_outline": [
+      {
+        "section": "Intro & Non-Sponsorship Disclaimer",
+        "duration_seconds": 20
+      },
+      {
+        "section": "Core Architecture & Feature Walkthrough",
+        "duration_seconds": 60
+      },
+      {
+        "section": "The Good vs The Bad (Deep Evaluation)",
+        "duration_seconds": 50
+      },
+      {
+        "section": "Pricing Structure & Best Developer Persona",
+        "duration_seconds": 30
+      },
+      {
+        "section": "Final Verdict & Channel Call to Action",
+        "duration_seconds": 20
+      }
+    ]
+  }
+}
