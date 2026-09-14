@@ -1,0 +1,63 @@
+{
+  "channel": "@IDEguide",
+  "video_index": 1,
+  "date": "2026-09-14",
+  "ide_name": "Cursor",
+  "title": "Should You Use Cursor in 2025? (Pros, Cons & Pricing Explained)",
+  "target_formats": [
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "1920x1080",
+      "platform": "YouTube Main Video"
+    },
+    {
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920",
+      "platform": "YouTube Shorts / TikTok"
+    }
+  ],
+  "visual_style_prompt": "Cinematic tech studio lighting, dark modern developer workspace with aesthetic RGB backlight (cyan and purple), macro closeups of code typing on dark IDE interface 'Cursor', crystal clear UI overlays, photorealistic 8K render, smooth 60fps movement.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "time_start": "00:00",
+      "time_end": "00:06",
+      "camera_motion": "Fast push-in zoom into pulsing neon logo of Cursor",
+      "visual_description": "Glowing logo of Cursor centered on dark carbon fiber texture with floating code particles.",
+      "voiceover": "Is Cursor actually worth switching to? Here is everything developers need to know in 60 seconds!"
+    },
+    {
+      "scene_id": 2,
+      "time_start": "00:06",
+      "time_end": "00:25",
+      "camera_motion": "Smooth right-to-left pan over editor interface",
+      "visual_description": "Macro visual of editor UI highlighting features: Native AI agent integration with deep codebase indexing and Full compatibility with VS Code extensions and settings.",
+      "voiceover": "Cursor promises ai-first code editor built on vs code fork. The standout feature is Native AI agent integration with deep codebase indexing."
+    },
+    {
+      "scene_id": 3,
+      "time_start": "00:25",
+      "time_end": "00:45",
+      "camera_motion": "Split screen transition comparing Pros (Green) vs Cons (Red)",
+      "visual_description": "Left panel shows checkmarks for speed and extensions; right panel highlights memory or setup limitations.",
+      "voiceover": "On the good side: Native AI agent integration with deep codebase indexing. On the downside: Requires active internet connection for advanced AI models."
+    },
+    {
+      "scene_id": 4,
+      "time_start": "00:45",
+      "time_end": "00:55",
+      "camera_motion": "Static wide overlay card with pricing tag animation",
+      "visual_description": "Pricing card popping up: 'Freemium ($20/mo for Pro)' with breakdown graphics.",
+      "voiceover": "Pricing update: Cursor is Freemium ($20/mo for Pro)."
+    },
+    {
+      "scene_id": 5,
+      "time_start": "00:55",
+      "time_end": "01:05",
+      "camera_motion": "Slow pull-back zoom showing sleek dual-monitor setup",
+      "visual_description": "Final recommendation card overlaying sleek developer desk.",
+      "voiceover": "Final verdict: Ideal for Developers seeking maximum AI assistance for rapid prototyping and large codebases. Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
