@@ -1,0 +1,18 @@
+{
+  "covered_ides": [
+    "Cursor",
+    "Zed Editor",
+    "VS Code (Visual Studio Code)"
+  ],
+  "daily_logs": [
+    {
+      "date": "2026-09-14",
+      "count": 3,
+      "ides": [
+        "Cursor",
+        "Zed Editor",
+        "VS Code (Visual Studio Code)"
+      ]
+    }
+  ]
+}

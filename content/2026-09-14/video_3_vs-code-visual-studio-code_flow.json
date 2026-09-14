@@ -1,0 +1,63 @@
+{
+  "channel": "@IDEguide",
+  "video_index": 3,
+  "date": "2026-09-14",
+  "ide_name": "VS Code (Visual Studio Code)",
+  "title": "Should You Use VS Code (Visual Studio Code) in 2025? (Pros, Cons & Pricing Explained)",
+  "target_formats": [
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "1920x1080",
+      "platform": "YouTube Main Video"
+    },
+    {
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920",
+      "platform": "YouTube Shorts / TikTok"
+    }
+  ],
+  "visual_style_prompt": "Cinematic tech studio lighting, dark modern developer workspace with aesthetic RGB backlight (cyan and purple), macro closeups of code typing on dark IDE interface 'VS Code (Visual Studio Code)', crystal clear UI overlays, photorealistic 8K render, smooth 60fps movement.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "time_start": "00:00",
+      "time_end": "00:06",
+      "camera_motion": "Fast push-in zoom into pulsing neon logo of VS Code (Visual Studio Code)",
+      "visual_description": "Glowing logo of VS Code (Visual Studio Code) centered on dark carbon fiber texture with floating code particles.",
+      "voiceover": "Is VS Code (Visual Studio Code) actually worth switching to? Here is everything developers need to know in 60 seconds!"
+    },
+    {
+      "scene_id": 2,
+      "time_start": "00:06",
+      "time_end": "00:25",
+      "camera_motion": "Smooth right-to-left pan over editor interface",
+      "visual_description": "Macro visual of editor UI highlighting features: Unrivaled ecosystem with over 50,000 extensions and Rich built-in debugging, Git integration, and remote SSH / containers.",
+      "voiceover": "VS Code (Visual Studio Code) promises the world's most popular extensible source code editor. The standout feature is Unrivaled ecosystem with over 50,000 extensions."
+    },
+    {
+      "scene_id": 3,
+      "time_start": "00:25",
+      "time_end": "00:45",
+      "camera_motion": "Split screen transition comparing Pros (Green) vs Cons (Red)",
+      "visual_description": "Left panel shows checkmarks for speed and extensions; right panel highlights memory or setup limitations.",
+      "voiceover": "On the good side: Unrivaled ecosystem with over 50,000 extensions. On the downside: Electron base can consume significant RAM with many extensions."
+    },
+    {
+      "scene_id": 4,
+      "time_start": "00:45",
+      "time_end": "00:55",
+      "camera_motion": "Static wide overlay card with pricing tag animation",
+      "visual_description": "Pricing card popping up: 'Free (Open Source Core - Code-OSS)' with breakdown graphics.",
+      "voiceover": "Pricing update: VS Code (Visual Studio Code) is Free (Open Source Core - Code-OSS)."
+    },
+    {
+      "scene_id": 5,
+      "time_start": "00:55",
+      "time_end": "01:05",
+      "camera_motion": "Slow pull-back zoom showing sleek dual-monitor setup",
+      "visual_description": "Final recommendation card overlaying sleek developer desk.",
+      "voiceover": "Final verdict: Ideal for Full-stack developers, team collaboration, and general multi-language software engineering. Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
