@@ -1,0 +1,53 @@
+{
+  "title": "Zed Editor Detailed Evaluation & Feature Showcase | IDE Guide",
+  "channel": "@IDEguide",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "target_format": "YouTube Video & Shorts (Google Flow / Veo Visual Script)",
+  "ide_metadata": {
+    "name": "Zed Editor",
+    "pricing": "Free & Open Source",
+    "category": "High-Performance Editor"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Hook & Editor Reveal",
+      "duration_seconds": 5,
+      "visual_prompt": "Cinematic close-up macro shot of a sleek dark-themed developer workspace. A high-resolution monitor glowing with Zed Editor code editor user interface. Subtle neon ambient backlighting (cyan and deep purple), soft focus blur in the background.",
+      "camera_framing_motion": "Close-up macro shot with a slow 5-degree smooth pan from left to right.",
+      "lighting_atmosphere": "Cyberpunk dark mode glow, 4500K accent light, sleek modern tech aesthetic.",
+      "text_overlay": "ZED EDITOR\nHigh-performance multiplayer code editor written in Rust",
+      "voiceover_script": "Is Zed Editor the ultimate editor for your workflow? Let's analyze the features, pros, cons, and pricing."
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Core Features & Hands-on Demo",
+      "duration_seconds": 10,
+      "visual_prompt": "Medium tracking shot over developer's shoulder typing code into Zed Editor. Screen highlights smooth auto-completion, split panes, and integrated tools. Clean, minimal aesthetic with high contrast UI lines.",
+      "camera_framing_motion": "Medium over-the-shoulder tracking shot, steady push-in towards screen.",
+      "lighting_atmosphere": "Warm minimalist studio lighting, balanced softbox highlights.",
+      "text_overlay": "KEY ADVANTAGES:\n- Blazing fast performance powered by GPU rendering (GPUI)\n- Extremely low memory footprint and instant startup",
+      "voiceover_script": "Key highlights include Blazing fast performance powered by GPU rendering (GPUI), Extremely low memory footprint and instant startup. It delivers smooth performance designed for developer efficiency."
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Pricing & Trade-offs (Free vs Paid)",
+      "duration_seconds": 8,
+      "visual_prompt": "Split screen or dynamic overlay showing pricing badge 'Free & Open Source' alongside editor interface. High tech graphical UI callout boxes appearing with smooth blur transitions.",
+      "camera_framing_motion": "Static centered locked shot with dynamic UI element movement.",
+      "lighting_atmosphere": "High contrast studio lighting, bright crisp callout graphics.",
+      "text_overlay": "PRICING: FREE & OPEN SOURCE\nTRADE-OFFS: Ecosystem of extensions is still maturing compared to VS Code",
+      "voiceover_script": "Pricing structure is Free & Open Source. Trade-offs to consider include Ecosystem of extensions is still maturing compared to VS Code, Currently primary focus on macOS & Linux (Windows in progress)."
+    },
+    {
+      "scene_number": 4,
+      "scene_title": "Final Verdict & Disclaimer",
+      "duration_seconds": 7,
+      "visual_prompt": "Clean end screen featuring IDE Guide logo, YouTube subscribe prompt, and website link ideguide.blogspot.com. Non-sponsorship text notice visible in clean modern typography at bottom.",
+      "camera_framing_motion": "Slow zoom out to reveal channel social cards.",
+      "lighting_atmosphere": "Sleek slate dark background with vibrant blue/cyan branding.",
+      "text_overlay": "VERDICT: The top choice for performance purists who want speed, low latency, and native multiplayer editing.\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+      "voiceover_script": "Verdict: The top choice for performance purists who want speed, low latency, and native multiplayer editing.. Check ideguide.blogspot.com for the full AMP blog review and subscribe to @IDEguide for daily tech breakdowns!"
+    }
+  ]
+}
