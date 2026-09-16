@@ -1,0 +1,66 @@
+{
+  "title": "PyCharm Review - Pros, Cons, Free vs Paid & Best Use Cases",
+  "ide_name": "PyCharm",
+  "category": "Dedicated Python IDE",
+  "pricing": "Freemium (Community Free / Professional $99+/yr)",
+  "youtube_channel": "https://www.youtube.com/@IDEguide",
+  "blogger_url": "https://ideguide.blogspot.com/",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "start_time": "00:00",
+      "end_time": "00:05",
+      "title": "Hook & Introduction",
+      "prompt": "Cinematic close-up of a developer keyboard glowing with custom RGB lighting in a dark room. The screen displays the logo and interface of PyCharm (Dedicated Python IDE). Soft cyan neon accent lights, 4k ultra-detailed developer workstation.",
+      "camera_motion": "slow_pan_right",
+      "framing": "medium_close_up",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "Should you upgrade to PyCharm in 2026? Here is everything you need to know about this Dedicated Python IDE in under 60 seconds!"
+    },
+    {
+      "scene_number": 2,
+      "start_time": "00:05",
+      "end_time": "00:20",
+      "title": "Core Features & Pros",
+      "prompt": "Direct macro shot of crisp code editor text being typed at super-fast speed in PyCharm. Neon syntax highlighting, multi-file side-by-side view, smooth modern developer desktop UI.",
+      "camera_motion": "zoom_in_slow",
+      "framing": "extreme_close_up",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "The premier IDE engineered specifically for Python development, Web frameworks (Django/Flask), Data Science, and scientific computing. Key benefits include: Deep intelligent Python code completion and type checking, Built-in Jupyter notebook and Scientific interactive view, Native Django, Flask, and FastAPI web development support, Advanced database management integrated out of the box."
+    },
+    {
+      "scene_number": 3,
+      "start_time": "00:20",
+      "end_time": "00:35",
+      "title": "Cons & Trade-offs",
+      "prompt": "Split screen technical visualization showing memory usage graphs and code execution comparison in a modern dark-mode software interface.",
+      "camera_motion": "static_hero",
+      "framing": "wide_angle",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "However, keep in mind these trade-offs: Community edition lacks web framework and database tools, Can be resource heavy on smaller hardware, Overkill for simple script editing."
+    },
+    {
+      "scene_number": 4,
+      "start_time": "00:35",
+      "end_time": "00:50",
+      "title": "Pricing & Comparison",
+      "prompt": "Clean infographic visual on a sleek monitor showing Free tier vs Paid subscription features with metallic neon checkmarks.",
+      "camera_motion": "tilt_up",
+      "framing": "medium_shot",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "Pricing Model: Freemium (Community Free / Professional $99+/yr). Is it free or paid? We break down the value for independent developers and teams."
+    },
+    {
+      "scene_number": 5,
+      "start_time": "00:50",
+      "end_time": "01:00",
+      "title": "Verdict & Outro CTA",
+      "prompt": "Dynamic end screen with YouTube @IDEguide subscribe button prompt and Blogger URL overlay on top of an elegant mechanical keyboard shot.",
+      "camera_motion": "pull_back",
+      "framing": "medium_shot",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "Final Verdict: The indispensable tool for serious Python engineers and data science teams. Subscribe to @IDEguide for daily tool breakdowns and read the full AMP review at ideguide.blogspot.com!"
+    }
+  ]
+}

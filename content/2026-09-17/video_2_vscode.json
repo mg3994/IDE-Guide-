@@ -1,0 +1,66 @@
+{
+  "title": "Visual Studio Code Review - Pros, Cons, Free vs Paid & Best Use Cases",
+  "ide_name": "Visual Studio Code",
+  "category": "General Purpose Code Editor",
+  "pricing": "Free & Open Source (MIT Core)",
+  "youtube_channel": "https://www.youtube.com/@IDEguide",
+  "blogger_url": "https://ideguide.blogspot.com/",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "start_time": "00:00",
+      "end_time": "00:05",
+      "title": "Hook & Introduction",
+      "prompt": "Cinematic close-up of a developer keyboard glowing with custom RGB lighting in a dark room. The screen displays the logo and interface of Visual Studio Code (General Purpose Code Editor). Soft cyan neon accent lights, 4k ultra-detailed developer workstation.",
+      "camera_motion": "slow_pan_right",
+      "framing": "medium_close_up",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "Should you upgrade to Visual Studio Code in 2026? Here is everything you need to know about this General Purpose Code Editor in under 60 seconds!"
+    },
+    {
+      "scene_number": 2,
+      "start_time": "00:05",
+      "end_time": "00:20",
+      "title": "Core Features & Pros",
+      "prompt": "Direct macro shot of crisp code editor text being typed at super-fast speed in Visual Studio Code. Neon syntax highlighting, multi-file side-by-side view, smooth modern developer desktop UI.",
+      "camera_motion": "zoom_in_slow",
+      "framing": "extreme_close_up",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "The world's most popular lightweight code editor with an unmatched ecosystem of extensions, GitHub Copilot integration, and remote development capabilities. Key benefits include: Massive extension marketplace with thousands of plugins, Extremely active open-source community, Top-tier remote development (SSH, Containers, WSL), Completely free without core limitations."
+    },
+    {
+      "scene_number": 3,
+      "start_time": "00:20",
+      "end_time": "00:35",
+      "title": "Cons & Trade-offs",
+      "prompt": "Split screen technical visualization showing memory usage graphs and code execution comparison in a modern dark-mode software interface.",
+      "camera_motion": "static_hero",
+      "framing": "wide_angle",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "However, keep in mind these trade-offs: Electron-based memory footprint can grow with many extensions, AI features require separate plugin installations, Default build includes telemetry (VSCodium avoids this)."
+    },
+    {
+      "scene_number": 4,
+      "start_time": "00:35",
+      "end_time": "00:50",
+      "title": "Pricing & Comparison",
+      "prompt": "Clean infographic visual on a sleek monitor showing Free tier vs Paid subscription features with metallic neon checkmarks.",
+      "camera_motion": "tilt_up",
+      "framing": "medium_shot",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "Pricing Model: Free & Open Source (MIT Core). Is it free or paid? We break down the value for independent developers and teams."
+    },
+    {
+      "scene_number": 5,
+      "start_time": "00:50",
+      "end_time": "01:00",
+      "title": "Verdict & Outro CTA",
+      "prompt": "Dynamic end screen with YouTube @IDEguide subscribe button prompt and Blogger URL overlay on top of an elegant mechanical keyboard shot.",
+      "camera_motion": "pull_back",
+      "framing": "medium_shot",
+      "aspect_ratio": "16:9 and 9:16",
+      "voiceover_text": "Final Verdict: The undisputed king of versatility and community support in code editing. Subscribe to @IDEguide for daily tool breakdowns and read the full AMP review at ideguide.blogspot.com!"
+    }
+  ]
+}
