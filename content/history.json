@@ -1,0 +1,30 @@
+{
+  "covered_ides": [
+    "cursor",
+    "neovim",
+    "zed",
+    "vscode",
+    "intellij-idea",
+    "pycharm"
+  ],
+  "generation_log": [
+    {
+      "date": "2026-09-17",
+      "generated_count": 3,
+      "ides": [
+        "Cursor",
+        "Neovim",
+        "Zed"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "generated_count": 3,
+      "ides": [
+        "VS Code",
+        "IntelliJ IDEA",
+        "PyCharm"
+      ]
+    }
+  ]
+}
