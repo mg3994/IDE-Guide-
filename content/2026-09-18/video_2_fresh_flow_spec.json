@@ -1,0 +1,71 @@
+{
+  "channel": "IDE Guide (@IDEguide)",
+  "video_title": "Fresh Showcase: Is it worth using? (Free vs Paid Review)",
+  "target_platforms": [
+    "YouTube Shorts (9:16)",
+    "YouTube Longform (16:9)",
+    "TikTok"
+  ],
+  "ide_metadata": {
+    "name": "Fresh",
+    "category": "Modern Code Editor / Development Tool",
+    "pricing": "Free / Open Source & Commercial Options Available"
+  },
+  "prompts_and_scenes": [
+    {
+      "scene_number": 1,
+      "title": "Hook & Editor Reveal",
+      "timecode": "00:00 - 00:05",
+      "flow_prompt": "Close-up cinematic shot of a dark mode workspace monitor rendering Fresh code editor. Code autocompletes with luminous neon blue highlights. Camera performs a subtle smooth zoom forward. Cyberpunk aesthetic ambient LED background lighting.",
+      "voiceover_script": "Looking for an upgraded code editor? Let's check out Fresh!",
+      "camera": "Slow forward dolly / subtle zoom-in",
+      "lighting": "Dark room, 6500K desk lamp, cyan ambient backlight",
+      "aspect_ratio_preset": "9:16 vertical & 16:9 landscape"
+    },
+    {
+      "scene_number": 2,
+      "title": "Core Feature Demonstration",
+      "timecode": "00:05 - 00:15",
+      "flow_prompt": "High-resolution screen capture style visualization of Fresh interface. Split-screen view showcasing Intelligent code navigation and syntax highlighting and Extensible extension and theme ecosystem. Crisp text rendering with fast terminal execution.",
+      "voiceover_script": "Here is what sets Fresh apart: Intelligent code navigation and syntax highlighting, plus Extensible extension and theme ecosystem.",
+      "camera": "Pan right across editor UI panels",
+      "lighting": "Clean studio lighting, high contrast IDE interface",
+      "aspect_ratio_preset": "9:16 vertical & 16:9 landscape"
+    },
+    {
+      "scene_number": 3,
+      "title": "Pros & Cons Honest Evaluation",
+      "timecode": "00:15 - 00:25",
+      "flow_prompt": "Minimalist sleek HUD graphic overlay on top of editor background. Green checkmark glowing icon for PRO: Modern ergonomic user interface. Transition to subtle amber caution icon for CON: Resource utilization under heavy project workloads.",
+      "voiceover_script": "The biggest advantage? Modern ergonomic user interface. On the flip side, keep in mind: Resource utilization under heavy project workloads.",
+      "camera": "Static center shot with animated UI cards",
+      "lighting": "Soft key light, balanced color contrast",
+      "aspect_ratio_preset": "9:16 vertical & 16:9 landscape"
+    },
+    {
+      "scene_number": 4,
+      "title": "Pricing & Target Audience Verdict",
+      "timecode": "00:25 - 00:35",
+      "flow_prompt": "Dynamic rating badge HUD appearing over developer setup screen with mechanical keyboard. Text badge displays Free / Open Source & Commercial Options Available. Final recommendation card slides in.",
+      "voiceover_script": "Pricing breakdown: Free / Open Source & Commercial Options Available. Who is this best for? Developers seeking an effective, modern workspace tailored for rapid software creation.",
+      "camera": "Cinematic pull-back tilt shot",
+      "lighting": "Warm ambient desktop illumination",
+      "aspect_ratio_preset": "9:16 vertical & 16:9 landscape"
+    },
+    {
+      "scene_number": 5,
+      "title": "Disclaimer & Channel Call to Action",
+      "timecode": "00:35 - 00:40",
+      "flow_prompt": "Elegant dark background with YouTube subscribe animation button and IDE Guide logo. Transparent text card with non-sponsorship disclosure.",
+      "voiceover_script": "Subscribe to IDE Guide for daily editor breakdowns! This review is independent and not sponsored.",
+      "camera": "Subtle float animation",
+      "lighting": "Branded dark studio theme",
+      "aspect_ratio_preset": "9:16 vertical & 16:9 landscape"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "channel_links": {
+    "blogger": "https://ideguide.blogspot.com/",
+    "youtube": "https://www.youtube.com/@IDEguide"
+  }
+}

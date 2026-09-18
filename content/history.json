@@ -1,0 +1,35 @@
+{
+  "covered_slugs": [
+    "fresh",
+    "oni",
+    "kodexplorer"
+  ],
+  "daily_logs": {
+    "2026-09-18": [
+      {
+        "slot": 1,
+        "ide_name": "Oni",
+        "slug": "oni",
+        "amp_html": "content/2026-09-18/post_1_oni_amp.html",
+        "video_spec_json": "content/2026-09-18/video_1_oni_flow_spec.json",
+        "video_spec_md": "content/2026-09-18/video_1_oni_flow_spec.md"
+      },
+      {
+        "slot": 2,
+        "ide_name": "Fresh",
+        "slug": "fresh",
+        "amp_html": "content/2026-09-18/post_2_fresh_amp.html",
+        "video_spec_json": "content/2026-09-18/video_2_fresh_flow_spec.json",
+        "video_spec_md": "content/2026-09-18/video_2_fresh_flow_spec.md"
+      },
+      {
+        "slot": 3,
+        "ide_name": "Kodexplorer",
+        "slug": "kodexplorer",
+        "amp_html": "content/2026-09-18/post_3_kodexplorer_amp.html",
+        "video_spec_json": "content/2026-09-18/video_3_kodexplorer_flow_spec.json",
+        "video_spec_md": "content/2026-09-18/video_3_kodexplorer_flow_spec.md"
+      }
+    ]
+  }
+}
