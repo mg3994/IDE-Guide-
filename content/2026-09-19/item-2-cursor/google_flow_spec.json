@@ -1,0 +1,54 @@
+{
+  "title": "Cursor AI Code Editor Review: Good vs Bad | IDE Guide",
+  "youtube_channel": "@IDEguide",
+  "blogger_url": "https://ideguide.blogspot.com/",
+  "target_format": "YouTube Short (9:16 vertical 1080x1920) & Main Video (16:9)",
+  "ide_name": "Cursor AI Code Editor",
+  "vendor": "Anysphere",
+  "category": "AI-First Code Editor",
+  "pricing_type": "Freemium ($20/mo Pro)",
+  "voiceover_script": "Thinking about trying Cursor AI Code Editor? Let's break down the good, the bad, and who it's actually best for in 60 seconds! Cursor AI Code Editor is a powerful ai-first code editor. On the positive side, Deeply integrated Claude 3.5 Sonnet & GPT-4o multi-file codebase editing.; Instant codebase indexing with semantic search (.cursorrules support).. However, keep in mind: Requires active subscription for heavy power-user AI indexing.; Proprietary cloud features require sending code embeddings to backend.. Pricing structure is Freemium ($20/mo Pro). Our verdict: Software engineers wanting high-productivity AI coding assistance with full VS Code extension support.. Subscribe to IDE Guide on YouTube and visit ideguide.blogspot.com for full technical breakdowns!",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "timestamp": "00:00 - 00:06",
+      "camera_framing": "Extreme close-up macro lens macro shot, rack focus onto mechanical keyboard and glowing dark mode monitor code editor.",
+      "lighting": "High-contrast dark developer studio, cyan and magenta ambient backlight glow.",
+      "visual_prompt": "Cinematic 4K shot of modern code editor displaying Cursor AI Code Editor interface with vibrant syntax highlighting in dark workstation room, neon LED rim light.",
+      "narration": "Thinking about trying Cursor AI Code Editor? Let's break down the good, the bad, and who it's actually best for in 60 seconds!"
+    },
+    {
+      "scene_number": 2,
+      "timestamp": "00:06 - 00:20",
+      "camera_framing": "Over-the-shoulder medium shot, fast typing and smooth screen recording simulation showing code completion.",
+      "lighting": "Soft screen glow highlighting developer face and hands, subtle background bokeh.",
+      "visual_prompt": "A skilled developer typing rapidly in Cursor AI Code Editor, showcasing smooth UI animations, auto-completion popups, and crisp code layout on high-resolution monitor.",
+      "narration": "Cursor AI Code Editor is a ai-first code editor. On the positive side: Deeply integrated Claude 3.5 Sonnet & GPT-4o multi-file codebase editing.; Instant codebase indexing with semantic search (.cursorrules support).."
+    },
+    {
+      "scene_number": 3,
+      "timestamp": "00:20 - 00:35",
+      "camera_framing": "Side angle close-up with dynamic split-screen comparison aesthetic, subtle red warning accent hue.",
+      "lighting": "Deep dark theme with soft amber accent lighting on desk setup.",
+      "visual_prompt": "Close-up of developer reviewing telemetry settings and resource usage metrics for Cursor AI Code Editor on sleek laptop screen.",
+      "narration": "However, keep in mind: Requires active subscription for heavy power-user AI indexing.; Proprietary cloud features require sending code embeddings to backend.."
+    },
+    {
+      "scene_number": 4,
+      "timestamp": "00:35 - 00:50",
+      "camera_framing": "Medium wide desktop setup pan, showing dual monitors and clean developer setup.",
+      "lighting": "Warm ambient studio lighting, balanced desk lamp highlight.",
+      "visual_prompt": "Elegant widescreen view of a modern software engineering desk setup with Cursor AI Code Editor open, highlighting pricing badge: Freemium ($20/mo Pro).",
+      "narration": "Pricing structure is Freemium ($20/mo Pro). Our verdict: Software engineers wanting high-productivity AI coding assistance with full VS Code extension support.."
+    },
+    {
+      "scene_number": 5,
+      "timestamp": "00:50 - 01:00",
+      "camera_framing": "Frontal card graphics overlay with channel branding @IDEguide and Blogger URL.",
+      "lighting": "Bright cinematic backlight with subtle particle float.",
+      "visual_prompt": "Clean motion graphics displaying YouTube handle @IDEguide and Website ideguide.blogspot.com with non-sponsorship disclosure badge.",
+      "narration": "Subscribe to IDE Guide on YouTube and visit ideguide.blogspot.com for full technical breakdowns!"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}

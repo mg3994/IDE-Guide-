@@ -1,0 +1,54 @@
+{
+  "title": "JetBrains IntelliJ IDEA Review: Good vs Bad | IDE Guide",
+  "youtube_channel": "@IDEguide",
+  "blogger_url": "https://ideguide.blogspot.com/",
+  "target_format": "YouTube Short (9:16 vertical 1080x1920) & Main Video (16:9)",
+  "ide_name": "JetBrains IntelliJ IDEA",
+  "vendor": "JetBrains",
+  "category": "Enterprise Java / Polyglot IDE",
+  "pricing_type": "Freemium (Free Community / Paid Ultimate)",
+  "voiceover_script": "Thinking about trying JetBrains IntelliJ IDEA? Let's break down the good, the bad, and who it's actually best for in 60 seconds! JetBrains IntelliJ IDEA is a powerful enterprise java / polyglot ide. On the positive side, Unrivaled refactoring, static code analysis, and smart code completion.; First-class framework integration (Spring, Jakarta EE, React, Angular).. However, keep in mind: Heavy RAM and CPU resource consumption on huge monorepos.; Steep learning curve with extensive toolbars and configuration panels.. Pricing structure is Freemium (Free Community / Paid Ultimate). Our verdict: Enterprise Java, Kotlin, and full-stack developers requiring top-tier refactoring and deep static analysis.. Subscribe to IDE Guide on YouTube and visit ideguide.blogspot.com for full technical breakdowns!",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "timestamp": "00:00 - 00:06",
+      "camera_framing": "Extreme close-up macro lens macro shot, rack focus onto mechanical keyboard and glowing dark mode monitor code editor.",
+      "lighting": "High-contrast dark developer studio, cyan and magenta ambient backlight glow.",
+      "visual_prompt": "Cinematic 4K shot of modern code editor displaying JetBrains IntelliJ IDEA interface with vibrant syntax highlighting in dark workstation room, neon LED rim light.",
+      "narration": "Thinking about trying JetBrains IntelliJ IDEA? Let's break down the good, the bad, and who it's actually best for in 60 seconds!"
+    },
+    {
+      "scene_number": 2,
+      "timestamp": "00:06 - 00:20",
+      "camera_framing": "Over-the-shoulder medium shot, fast typing and smooth screen recording simulation showing code completion.",
+      "lighting": "Soft screen glow highlighting developer face and hands, subtle background bokeh.",
+      "visual_prompt": "A skilled developer typing rapidly in JetBrains IntelliJ IDEA, showcasing smooth UI animations, auto-completion popups, and crisp code layout on high-resolution monitor.",
+      "narration": "JetBrains IntelliJ IDEA is a enterprise java / polyglot ide. On the positive side: Unrivaled refactoring, static code analysis, and smart code completion.; First-class framework integration (Spring, Jakarta EE, React, Angular).."
+    },
+    {
+      "scene_number": 3,
+      "timestamp": "00:20 - 00:35",
+      "camera_framing": "Side angle close-up with dynamic split-screen comparison aesthetic, subtle red warning accent hue.",
+      "lighting": "Deep dark theme with soft amber accent lighting on desk setup.",
+      "visual_prompt": "Close-up of developer reviewing telemetry settings and resource usage metrics for JetBrains IntelliJ IDEA on sleek laptop screen.",
+      "narration": "However, keep in mind: Heavy RAM and CPU resource consumption on huge monorepos.; Steep learning curve with extensive toolbars and configuration panels.."
+    },
+    {
+      "scene_number": 4,
+      "timestamp": "00:35 - 00:50",
+      "camera_framing": "Medium wide desktop setup pan, showing dual monitors and clean developer setup.",
+      "lighting": "Warm ambient studio lighting, balanced desk lamp highlight.",
+      "visual_prompt": "Elegant widescreen view of a modern software engineering desk setup with JetBrains IntelliJ IDEA open, highlighting pricing badge: Freemium (Free Community / Paid Ultimate).",
+      "narration": "Pricing structure is Freemium (Free Community / Paid Ultimate). Our verdict: Enterprise Java, Kotlin, and full-stack developers requiring top-tier refactoring and deep static analysis.."
+    },
+    {
+      "scene_number": 5,
+      "timestamp": "00:50 - 01:00",
+      "camera_framing": "Frontal card graphics overlay with channel branding @IDEguide and Blogger URL.",
+      "lighting": "Bright cinematic backlight with subtle particle float.",
+      "visual_prompt": "Clean motion graphics displaying YouTube handle @IDEguide and Website ideguide.blogspot.com with non-sponsorship disclosure badge.",
+      "narration": "Subscribe to IDE Guide on YouTube and visit ideguide.blogspot.com for full technical breakdowns!"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
