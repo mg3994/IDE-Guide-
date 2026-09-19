@@ -1,0 +1,34 @@
+{
+  "covered_ides": [
+    "vscode",
+    "cursor",
+    "intellij-idea"
+  ],
+  "history": [
+    {
+      "id": "vscode",
+      "name": "Visual Studio Code",
+      "date": "2026-09-19",
+      "path": "content/2026-09-19/item-1-vscode"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor AI Code Editor",
+      "date": "2026-09-19",
+      "path": "content/2026-09-19/item-2-cursor"
+    },
+    {
+      "id": "intellij-idea",
+      "name": "JetBrains IntelliJ IDEA",
+      "date": "2026-09-19",
+      "path": "content/2026-09-19/item-3-intellij-idea"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor AI Code Editor",
+      "date": "2026-09-19",
+      "path": "content/custom/2026-09-19-cursor",
+      "source": "cli_agent_skill"
+    }
+  ]
+}
