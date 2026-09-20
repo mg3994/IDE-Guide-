@@ -1,0 +1,55 @@
+{
+  "title": "IDE Guide: Is Cursor Worth Using in 2026? (Pros, Cons & Pricing)",
+  "target_platform": "YouTube Shorts / Longform (@IDEguide)",
+  "aspect_ratio": "9:16",
+  "ide_name": "Cursor",
+  "pricing_model": "Freemium (Free hobby tier with basic requests, $20/month Pro tier for fast premium queries).",
+  "pros": [
+    "Native integration with Claude 3.5 Sonnet and GPT-4o for inline editing.",
+    "Full compatibility with VS Code extensions and keybindings.",
+    "Smart multi-file code indexing and codebase-aware AI suggestions."
+  ],
+  "cons": [
+    "Requires a monthly subscription for heavy AI query workloads.",
+    "Closed-source core backend component."
+  ],
+  "recommendation": "Best for developers seeking cutting-edge AI pair-programming and seamless VS Code transition.",
+  "visual_prompts": {
+    "lighting": "Cinematic dark-mode studio workstation setup, 5600K key light, subtle cyan/magenta background neon accent glow.",
+    "camera_motion": "Slow smooth zoom into code editor window, camera pan highlighting key UI features and syntax theme.",
+    "framing": "Vertical 9:16 aspect ratio, macro close-up shot focused on code completion and editor interface."
+  },
+  "narration_script": [
+    {
+      "timestamp": "00:00-00:05",
+      "visual": "Fast cut into Cursor dark mode interface showing code editing.",
+      "audio": "Looking for a new code editor? Here is everything you need to know about Cursor!"
+    },
+    {
+      "timestamp": "00:05-00:18",
+      "visual": "Panning view of key interface features and layout.",
+      "audio": "An AI-first code editor built as a fork of Visual Studio Code, featuring deep LLM integration with Claude 3.5 Sonnet, inline AI edits, and codebase indexing."
+    },
+    {
+      "timestamp": "00:18-00:32",
+      "visual": "Green highlight overlay demonstrating top pros.",
+      "audio": "Key Pros: Native integration with Claude 3.5 Sonnet and GPT-4o for inline editing. Plus, Full compatibility with VS Code extensions and keybindings."
+    },
+    {
+      "timestamp": "00:32-00:42",
+      "visual": "Red highlight overlay detailing cons.",
+      "audio": "Things to consider: Requires a monthly subscription for heavy AI query workloads."
+    },
+    {
+      "timestamp": "00:42-00:52",
+      "visual": "Pricing table visual badge graphic.",
+      "audio": "Pricing breakdown: Freemium (Free hobby tier with basic requests, $20/month Pro tier for fast premium queries)."
+    },
+    {
+      "timestamp": "00:52-00:60",
+      "visual": "Summary screen displaying logo for Cursor and YouTube handle @IDEguide.",
+      "audio": "Final verdict: Best for developers seeking cutting-edge AI pair-programming and seamless VS Code transition. Subscribe to @IDEguide for daily dev specs!"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
