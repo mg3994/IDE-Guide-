@@ -1,0 +1,55 @@
+{
+  "title": "IDE Guide: Is React-ace Editor Worth Using in 2026? (Pros, Cons & Pricing)",
+  "target_platform": "YouTube Shorts / Longform (@IDEguide)",
+  "aspect_ratio": "9:16",
+  "ide_name": "React-ace Editor",
+  "pricing_model": "Free and Open Source (MIT License).",
+  "pros": [
+    "Popular open-source project with over 4,206 GitHub stars.",
+    "Extensible community ecosystem and active development.",
+    "Transparent open development roadmap."
+  ],
+  "cons": [
+    "May require manual configuration depending on setup.",
+    "Ecosystem features depend on community contributions."
+  ],
+  "recommendation": "Best for developers looking for open-source React-ace Editor tooling and customizable workflows.",
+  "visual_prompts": {
+    "lighting": "Cinematic dark-mode studio workstation setup, 5600K key light, subtle cyan/magenta background neon accent glow.",
+    "camera_motion": "Slow smooth zoom into code editor window, camera pan highlighting key UI features and syntax theme.",
+    "framing": "Vertical 9:16 aspect ratio, macro close-up shot focused on code completion and editor interface."
+  },
+  "narration_script": [
+    {
+      "timestamp": "00:00-00:05",
+      "visual": "Fast cut into React-ace Editor dark mode interface showing code editing.",
+      "audio": "Looking for a new code editor? Here is everything you need to know about React-ace Editor!"
+    },
+    {
+      "timestamp": "00:05-00:18",
+      "visual": "Panning view of key interface features and layout.",
+      "audio": "React Ace Component"
+    },
+    {
+      "timestamp": "00:18-00:32",
+      "visual": "Green highlight overlay demonstrating top pros.",
+      "audio": "Key Pros: Popular open-source project with over 4,206 GitHub stars. Plus, Extensible community ecosystem and active development."
+    },
+    {
+      "timestamp": "00:32-00:42",
+      "visual": "Red highlight overlay detailing cons.",
+      "audio": "Things to consider: May require manual configuration depending on setup."
+    },
+    {
+      "timestamp": "00:42-00:52",
+      "visual": "Pricing table visual badge graphic.",
+      "audio": "Pricing breakdown: Free and Open Source (MIT License)."
+    },
+    {
+      "timestamp": "00:52-00:60",
+      "visual": "Summary screen displaying logo for React-ace Editor and YouTube handle @IDEguide.",
+      "audio": "Final verdict: Best for developers looking for open-source React-ace Editor tooling and customizable workflows. Subscribe to @IDEguide for daily dev specs!"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}

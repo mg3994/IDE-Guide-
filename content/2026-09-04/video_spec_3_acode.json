@@ -1,0 +1,55 @@
+{
+  "title": "IDE Guide: Is Acode Worth Using in 2026? (Pros, Cons & Pricing)",
+  "target_platform": "YouTube Shorts / Longform (@IDEguide)",
+  "aspect_ratio": "9:16",
+  "ide_name": "Acode",
+  "pricing_model": "Freemium (Free open-source version on F-Droid / Play Store paid tier).",
+  "pros": [
+    "Optimized touch interface for code editing on Android phones and tablets.",
+    "Plugin system supporting syntax highlighting and FTP file management.",
+    "Low battery and RAM usage."
+  ],
+  "cons": [
+    "Mobile screen real estate limits heavy multi-window development.",
+    "Compilation depends on external terminal apps like Termux."
+  ],
+  "recommendation": "Best for developers editing web code and quick scripts on Android mobile devices.",
+  "visual_prompts": {
+    "lighting": "Cinematic dark-mode studio workstation setup, 5600K key light, subtle cyan/magenta background neon accent glow.",
+    "camera_motion": "Slow smooth zoom into code editor window, camera pan highlighting key UI features and syntax theme.",
+    "framing": "Vertical 9:16 aspect ratio, macro close-up shot focused on code completion and editor interface."
+  },
+  "narration_script": [
+    {
+      "timestamp": "00:00-00:05",
+      "visual": "Fast cut into Acode dark mode interface showing code editing.",
+      "audio": "Looking for a new code editor? Here is everything you need to know about Acode!"
+    },
+    {
+      "timestamp": "00:05-00:18",
+      "visual": "Panning view of key interface features and layout.",
+      "audio": "A powerful, lightweight code editor for Android devices supporting HTML, JavaScript, Python, and mobile web development on the go."
+    },
+    {
+      "timestamp": "00:18-00:32",
+      "visual": "Green highlight overlay demonstrating top pros.",
+      "audio": "Key Pros: Optimized touch interface for code editing on Android phones and tablets. Plus, Plugin system supporting syntax highlighting and FTP file management."
+    },
+    {
+      "timestamp": "00:32-00:42",
+      "visual": "Red highlight overlay detailing cons.",
+      "audio": "Things to consider: Mobile screen real estate limits heavy multi-window development."
+    },
+    {
+      "timestamp": "00:42-00:52",
+      "visual": "Pricing table visual badge graphic.",
+      "audio": "Pricing breakdown: Freemium (Free open-source version on F-Droid / Play Store paid tier)."
+    },
+    {
+      "timestamp": "00:52-00:60",
+      "visual": "Summary screen displaying logo for Acode and YouTube handle @IDEguide.",
+      "audio": "Final verdict: Best for developers editing web code and quick scripts on Android mobile devices. Subscribe to @IDEguide for daily dev specs!"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
