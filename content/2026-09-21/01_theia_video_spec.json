@@ -1,0 +1,57 @@
+{
+  "title": "Theia - Is It Worth Using? (Pros, Cons, Paid vs Free)",
+  "channel": "@IDEguide",
+  "youtube_url": "https://www.youtube.com/@IDEguide",
+  "aspect_ratios": {
+    "shorts": "9:16",
+    "landscape": "16:9"
+  },
+  "target_duration_seconds": 60,
+  "visual_style": {
+    "theme": "Dark cyberpunk developer aesthetic with high contrast glowing syntax highlighting",
+    "lighting": "Ambient blue (#0284c7) and purple (#9333ea) backlight with volumetric soft fog",
+    "camera_angles": [
+      "Macro extreme close-up on code typing on mechanical keyboard",
+      "Cinematic slow zoom onto IDE editor workspace",
+      "Wide shot of sleek dual-monitor developer desk setup"
+    ],
+    "color_palette": [
+      "#0f172a",
+      "#0284c7",
+      "#9333ea",
+      "#10b981",
+      "#ef4444"
+    ]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "Hook",
+      "duration_seconds": 10,
+      "google_flow_visual_prompt": "Close-up cinematic shot of Theia IDE screen showing dark mode code editor with vibrant glowing syntax. Camera slow zoom-in as cursor types code rapidly.",
+      "voiceover_script": "Is Theia the ultimate code editor for developers? Let's break down its key features, pricing, and pros vs cons in 60 seconds!"
+    },
+    {
+      "scene_id": 2,
+      "name": "Core Features & Overview",
+      "duration_seconds": 20,
+      "google_flow_visual_prompt": "Smooth pan across Theia UI showcasing sidebar, terminal, and intelligent suggestions. High contrast lighting highlighting key interface features.",
+      "voiceover_script": "Theia offers Open-source code base accessible for community contributions alongside Cross-platform compatibility. Built specifically to boost developer productivity with clean interface design."
+    },
+    {
+      "scene_id": 3,
+      "name": "Pricing & Pros vs Cons",
+      "duration_seconds": 20,
+      "google_flow_visual_prompt": "Split screen visual: Left side highlighting green checkmarks for pros (Transparent open-source development, Community driven features), right side highlighting red cross for cons (Documentation varies by contributor activity, May require self-building for bleeding edge features). Overlay text showing pricing model: Free.",
+      "voiceover_script": "Regarding pricing: it's free \u2014 Open-source software published on GitHub (Eclipse Public License 2.0).. On the plus side, Transparent open-source development. However, keep in mind Documentation varies by contributor activity."
+    },
+    {
+      "scene_id": 4,
+      "name": "Verdict & Call to Action",
+      "duration_seconds": 10,
+      "google_flow_visual_prompt": "Sleek animation of IDE Guide logo with YouTube subscribe icon and Blogger link ideguide.blogspot.com. Dark elegant background with blue glow.",
+      "voiceover_script": "Subscribe to @IDEguide for unbiased daily code editor reviews and visit ideguide.blogspot.com for full technical guides!"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
