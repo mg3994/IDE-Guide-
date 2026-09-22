@@ -1,0 +1,17 @@
+{
+  "history": [
+    {
+      "date": "2026-09-22",
+      "ides": [
+        "Cursor",
+        "Zed",
+        "Neovim"
+      ]
+    }
+  ],
+  "covered_ides": [
+    "zed",
+    "neovim",
+    "cursor"
+  ]
+}
