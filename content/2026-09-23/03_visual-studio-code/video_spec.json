@@ -1,0 +1,83 @@
+{
+  "title": "Should You Use Visual Studio Code? (Free / Open Source Editor Guide)",
+  "channel": "@IDEguide",
+  "youtube_url": "https://www.youtube.com/@IDEguide",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "format": "YouTube Video & Shorts Spec",
+  "resolutions": {
+    "shorts": "1080x1920 (9:16)",
+    "standard": "1920x1080 (16:9)"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 5,
+      "scene_title": "Hook & Visual Showcase",
+      "camera_angle_and_framing": "Cinematic over-the-shoulder shot of developer workstation with dark room ambient glowing LEDs.",
+      "lighting_and_atmosphere": "Soft neon cyan key light highlighting keycaps and ultra-wide monitor displaying editor UI.",
+      "action_and_motion": "Smooth camera zoom toward screen showing code auto-completing smoothly in real-time.",
+      "visual_cues_and_badges": [
+        "IDE Badge: Visual Studio Code",
+        "Price Tag: Free / Open Source"
+      ],
+      "google_flow_prompt": "Cinematic medium close-up of dark mode editor software Visual Studio Code running on a high resolution screen, neon ambient lighting, smooth zoom in, clean developer aesthetics, 4k resolution.",
+      "narration_voiceover": "Looking for your next primary code editor? Today we are breaking down Visual Studio Code, rated as Free / Open Source.",
+      "on_screen_text_overlays": [
+        "VISUAL STUDIO CODE",
+        "Pricing: Free / Open Source"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 15,
+      "scene_title": "Core Strengths & Features Showcase",
+      "camera_angle_and_framing": "Split screen screen-recording and studio developer workstation close-up.",
+      "lighting_and_atmosphere": "Bright, high contrast dark theme editor interface with highlighted syntax tree.",
+      "action_and_motion": "Fast-paced panning across key strengths: Specialized feature set tailored for Visual Studio Code, Modern developer interface",
+      "visual_cues_and_badges": [
+        "PROS HIGHLIGHT"
+      ],
+      "google_flow_prompt": "Close-up screen animation of code editing interface in Visual Studio Code, fast responsive typing, sleek UI elements pop up with green checkmarks, professional tech review video style.",
+      "narration_voiceover": "Here is what sets Visual Studio Code apart: Specialized feature set tailored for Visual Studio Code. Plus, Extensible architecture.",
+      "on_screen_text_overlays": [
+        "Specialized feature set tailored for Visual Studio Code",
+        "Modern developer interface",
+        "Extensible architecture"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 10,
+      "scene_title": "Cons & Tradeoffs",
+      "camera_angle_and_framing": "Focused close-up on monitor with subtle amber highlight warning indicator.",
+      "lighting_and_atmosphere": "Slight moody warm lighting overlaying screen corner.",
+      "action_and_motion": "Smooth slide-in of drawbacks card.",
+      "visual_cues_and_badges": [
+        "TRADEOFFS"
+      ],
+      "google_flow_prompt": "Clean UI mockup screen showcasing technical configuration panel in Visual Studio Code, subtle red warning icon overlay, high quality modern visual graphics.",
+      "narration_voiceover": "What are the downsides? Ecosystem context depends on specific language toolchains is something to keep in mind.",
+      "on_screen_text_overlays": [
+        "Ecosystem context depends on specific language toolchains"
+      ]
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 10,
+      "scene_title": "Verdict & Best Use Case",
+      "camera_angle_and_framing": "Full frame high-impact visual card with channel branding @IDEguide.",
+      "lighting_and_atmosphere": "Balanced studio lights, vibrant tech theme background.",
+      "action_and_motion": "Checkmark animation sealing the final recommendation.",
+      "visual_cues_and_badges": [
+        "FINAL VERDICT",
+        "NOT SPONSORED"
+      ],
+      "google_flow_prompt": "Sleek modern scorecard graphics overlay displaying final recommendation for Visual Studio Code, subscribe button animation for @IDEguide channel, studio lighting.",
+      "narration_voiceover": "Final verdict: Visual Studio Code is best for Software engineers exploring high-efficiency tools in Visual Studio Code.. Subscribe to IDE Guide for daily developer tool breakdowns!",
+      "on_screen_text_overlays": [
+        "Best For: Software engineers exploring high-efficiency tools in Visual Studio Code.",
+        "Subscribe @IDEguide"
+      ]
+    }
+  ]
+}
