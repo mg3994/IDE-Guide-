@@ -1,0 +1,14 @@
+{
+  "covered_ides": [
+    "cursor",
+    "zed",
+    "vscode"
+  ],
+  "daily_logs": {
+    "2026-03-30": [
+      "Cursor IDE",
+      "Zed Editor",
+      "Visual Studio Code"
+    ]
+  }
+}
