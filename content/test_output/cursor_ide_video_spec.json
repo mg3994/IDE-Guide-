@@ -1,0 +1,45 @@
+{
+  "ide_name": "Cursor IDE",
+  "youtube_channel": "https://www.youtube.com/@IDEguide",
+  "title_options": [
+    "Cursor IDE in 2026: Is It Worth It? (Honest Review)",
+    "Why Developers Are (Or Aren't) Switching to Cursor IDE",
+    "Cursor IDE - Good vs Bad Breakdown (Freemium)"
+  ],
+  "shorts_script_60s": "Thinking of using Cursor IDE? Here is what you need to know in 60 seconds! The GOOD: Native multi-file AI edits with Cmd+K and instant inline diffs. The BAD: Requires cloud query processing for advanced AI models (privacy concerns for closed codebases). PRICING: Freemium. VERDICT: Best overall AI code editor in 2026 for developers seeking seamless LLM integration in a familiar VS Code environment. Subscribe to IDE Guide for daily developer tool breakdowns!",
+  "full_video_scenes": [
+    {
+      "scene_number": 1,
+      "duration": "0:00 - 0:10",
+      "section": "Hook & Introduction",
+      "voiceover": "Is Cursor IDE the editor you should be using today? Let's break down the good, the bad, and the pricing.",
+      "google_flow_prompt": "Cinematic close-up tracking shot of a glowing mechanical keyboard and sleek dark monitor displaying Cursor IDE code editor with vibrant dynamic syntax highlighting, cyberpunk neon ambient desk lighting (#007acc), 4K resolution, 60fps.",
+      "aspect_ratio": "16:9 for YouTube / 9:16 for Shorts"
+    },
+    {
+      "scene_number": 2,
+      "duration": "0:10 - 0:40",
+      "section": "The Good (Pros)",
+      "voiceover": "Key strengths include: Native multi-file AI edits with Cmd+K and instant inline diffs. Also, Deep repository indexing with vector embeddings for semantic context search.",
+      "google_flow_prompt": "Split-screen comparison shot showing smooth UI performance, instant code autocompletion, and rapid file search in Cursor IDE. Macro lens camera movement over glowing editor UI elements.",
+      "aspect_ratio": "16:9 for YouTube / 9:16 for Shorts"
+    },
+    {
+      "scene_number": 3,
+      "duration": "0:40 - 1:10",
+      "section": "The Bad (Cons) & Pricing",
+      "voiceover": "On the flip side: Requires cloud query processing for advanced AI models (privacy concerns for closed codebases). Regarding pricing, it is Freemium.",
+      "google_flow_prompt": "Aesthetic over-the-shoulder shot of a software developer pondering code on screen, subtle orange warning accents highlighting performance/pricing breakdown charts, cinematic soft focus background.",
+      "aspect_ratio": "16:9 for YouTube / 9:16 for Shorts"
+    },
+    {
+      "scene_number": 4,
+      "duration": "1:10 - 1:30",
+      "section": "Final Verdict & Outro",
+      "voiceover": "Our verdict: Best overall AI code editor in 2026 for developers seeking seamless LLM integration in a familiar VS Code environment. Check out our full AMP article on ideguide.blogspot.com and subscribe to @IDEguide!",
+      "google_flow_prompt": "Dynamic push-in shot of IDE Guide channel branding logo end-screen with high-tech particles, links to @IDEguide channel and blog, professional tech studio aesthetic.",
+      "aspect_ratio": "16:9 for YouTube / 9:16 for Shorts"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
