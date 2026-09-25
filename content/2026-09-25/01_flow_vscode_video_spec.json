@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "Is Visual Studio Code Worth It in 2026? The Good, The Bad & Pricing Explained",
+    "target_channel": "https://www.youtube.com/@IDEguide",
+    "target_blog": "https://ideguide.blogspot.com/",
+    "ide_name": "Visual Studio Code",
+    "category": "Extensible General Purpose Editor",
+    "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+    "generated_date": "2026-09-25",
+    "package_index": 1
+  },
+  "google_flow_prompt_config": {
+    "style": "Cinematic modern tech review, clean 4K workstation, cyber neon subtle lighting",
+    "aspect_ratio_shorts": "9:16 (1080x1920)",
+    "aspect_ratio_long": "16:9 (3840x2160)",
+    "camera_style": "Macro depth-of-field, sleek panning over mechanical keyboard and high-res code display",
+    "audio_voiceover_tone": "Energetic, articulate, objective technical guide"
+  },
+  "youtube_shorts_spec_60s": {
+    "duration": "60 Seconds",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "timestamp": "00:00 - 00:05",
+        "google_flow_video_prompt": "Close-up high-fps shot of hands typing code in Visual Studio Code on an ultra-wide curved monitor. Cyberpunk dark blue accent lighting, soft neon backlight, cinematic shallow depth of field. Text overlay in bold electric white: 'Visual Studio Code in 60 SECONDS!'",
+        "camera_motion": "Slow zoom in toward glowing IDE interface",
+        "voiceover_script": "Is Visual Studio Code actually worth using in 2026? Let's break down the good, the bad, and whether it's free or paid!"
+      },
+      {
+        "scene_number": 2,
+        "timestamp": "00:05 - 00:25",
+        "google_flow_video_prompt": "Split screen graphic showing Visual Studio Code key feature highlights with green checkmarks. Sleek futuristic glassmorphism UI cards popping up on screen with smooth animations. Show code snippets flashing with syntax highlighting.",
+        "camera_motion": "Pan left to right smoothly across feature metrics",
+        "voiceover_script": "First, the good! Massive ecosystem of over 50,000 extensions. Plus, Unrivaled language support and LSP integration."
+      },
+      {
+        "scene_number": 3,
+        "timestamp": "00:25 - 00:45",
+        "google_flow_video_prompt": "Clean dark slate background with red warning aura. Sleek glass card showing limitations with red X icons. Macro lens panning down glowing mechanical keyboard switches.",
+        "camera_motion": "Tilt down with subtle camera shake on transition",
+        "voiceover_script": "Now for the catch! Requires heavy extension configuration for full IDE feature parity."
+      },
+      {
+        "scene_number": 4,
+        "timestamp": "00:45 - 00:60",
+        "google_flow_video_prompt": "3D dollar sign graphic transforming into '100% Free'. YouTube subscriber button graphic for @IDEguide animated with pulse effect, along with Blogger link ideguide.blogspot.com.",
+        "camera_motion": "Fast forward zoom ending on subscribe badge",
+        "voiceover_script": "Pricing check: 100% Free. Ideal for Web developers, Python scripts, multi-language polyglot engineers. Subscribe to @IDEguide and visit ideguide.blogspot.com for the full breakdown! Remember, IDE Guide is 100% independent and non-sponsored!"
+      }
+    ]
+  },
+  "youtube_longform_spec_3min": {
+    "duration": "3 - 5 Minutes",
+    "visual_style": "Pro Developer Studio Review",
+    "scene_breakdown": [
+      {
+        "section": "Hook & Non-Sponsorship Disclosure",
+        "flow_prompt": "Professional dark studio setup, RGB lighting backdrop, macro lens shot of IDE interface Visual Studio Code running on macOS / Linux workspace.",
+        "narration": "Welcome back to IDE Guide! Today we are taking an objective look at Visual Studio Code. Quick disclaimer before we start: IDE Guide is completely independent and not sponsored by any editor developer. All opinions are strictly objective."
+      },
+      {
+        "section": "Key Strengths & Features",
+        "flow_prompt": "Dynamic screen recording overlay with glowing highlighted code lines in Visual Studio Code. Cinematic camera drift across developer desk with code flowing.",
+        "narration": "Visual Studio Code is categorized as a Extensible General Purpose Editor. Here are the top reasons developers choose it: Massive ecosystem of over 50,000 extensions; Unrivaled language support and LSP integration; Built-in Git GUI, terminal, and debugging capabilities; Fast startup and low resource overhead compared to heavy IDEs"
+      },
+      {
+        "section": "Cons & Weaknesses",
+        "flow_prompt": "Minimalist UI illustration showing performance meters, RAM consumption, and feature gaps highlighted in subtle amber red.",
+        "narration": "However, no editor is perfect. Here are the main drawbacks you need to know: Requires heavy extension configuration for full IDE feature parity; Electron-based memory consumption can grow with heavy plugins; Telemetry collection enabled by default (can be disabled)"
+      },
+      {
+        "section": "Free vs Paid & Target Audience",
+        "flow_prompt": "Comparison matrix table animated on dark futuristic HUD display showing pricing tiers: 100% Free under Free / Open Source Core (MIT / Proprietary build).",
+        "narration": "In terms of cost: 100% Free. Who is it best for? Web developers, Python scripts, multi-language polyglot engineers."
+      },
+      {
+        "section": "Final Verdict & Outro",
+        "flow_prompt": "Cinematic logo reveal of @IDEguide and Blogger URL ideguide.blogspot.com with floating code particles.",
+        "narration": "Final rating: 4.8/5.0. Check out the full written AMP post on ideguide.blogspot.com and don't forget to hit subscribe on @IDEguide for daily editor comparisons!"
+      }
+    ]
+  }
+}
