@@ -1,0 +1,20 @@
+{
+  "generated_dates": {
+    "2026-09-25": [
+      "01_amp_vscode_blog_post.html",
+      "01_flow_vscode_video_spec.json",
+      "01_flow_vscode_video_spec.md",
+      "02_amp_cursor_blog_post.html",
+      "02_flow_cursor_video_spec.json",
+      "02_flow_cursor_video_spec.md",
+      "03_amp_zed_blog_post.html",
+      "03_flow_zed_video_spec.json",
+      "03_flow_zed_video_spec.md"
+    ]
+  },
+  "covered_ides": [
+    "vscode",
+    "cursor",
+    "zed"
+  ]
+}
