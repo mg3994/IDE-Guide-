@@ -1,0 +1,54 @@
+{
+  "title": "Zed Editor Review: Good vs Bad & Pricing Guide",
+  "target_ide": "Zed Editor",
+  "youtube_channel": "https://www.youtube.com/@IDEguide",
+  "blogger_post_url": "https://ideguide.blogspot.com/",
+  "format": "YouTube Video & Shorts Spec (16:9 & 9:16)",
+  "pricing_model": "Free / Open Source",
+  "hashtags": [
+    "#ZedEditor",
+    "#IDEguide",
+    "#CodeEditor",
+    "#SoftwareEngineering",
+    "#CodingSetup"
+  ],
+  "description": "Is Zed Editor the best editor for your workflow? We breakdown the pros, cons, pricing model, and ideal developer use cases.\n\nRead our full blog post: https://ideguide.blogspot.com/\nSubscribe to @IDEguide for daily editor comparisons!\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "timecode": "0:00 - 0:06",
+      "visual_prompt": "Close-up high tech cinematic shot of developer hands typing on RGB mechanical keyboard, monitor showing Zed Editor dark UI with glowing code syntax, Minimalist dark slate editor workspace, ultra-smooth 120hz scrolling lines of Rust code, glowing golden cursor, ultra-clean high frame rate UI, 4K ultra realistic lighting.",
+      "camera_movement": "Slow smooth push-in dolly shot towards editor screen",
+      "onscreen_text": "ZED EDITOR\nIs It Worth It?",
+      "voiceover_script": "Looking for the honest truth about Zed Editor? Let's break down the good, the bad, and whether it's worth your time.",
+      "audio_cues": "Upbeat ambient synth wave music, mechanical keyboard typing sound effect"
+    },
+    {
+      "scene_number": 2,
+      "timecode": "0:06 - 0:18",
+      "visual_prompt": "Macro lens view of lines of code highlight automatically in Zed Editor, split screen showcasing primary features and ultra-responsive editing workspace, clean modern desk aesthetic.",
+      "camera_movement": "Panning right across code lines with shallow depth of field",
+      "onscreen_text": "THE GOOD:\n\u2022 Written in Rust and GPUI rendered at 120+ FPS for blistering fast performance\n\u2022 Native multiplayer live-collaborative editing built into the core editor",
+      "voiceover_script": "First, the strengths. Zed Editor excels at written in rust and gpui rendered at 120+ fps for blistering fast performance and offers native multiplayer live-collaborative editing built into the core editor.",
+      "audio_cues": "Smooth UI click sound effect"
+    },
+    {
+      "scene_number": 3,
+      "timecode": "0:18 - 0:28",
+      "visual_prompt": "Developer examining software setting and resource usage on glowing display in clean dark studio, subtle warm red rim light accents.",
+      "camera_movement": "Static medium shot with slight handheld drift",
+      "onscreen_text": "THE BAD & PRICING:\n\u2022 Smaller extension ecosystem compared to VS Code\n\u2022 Model: Free / Open Source",
+      "voiceover_script": "On the flip side, keep in mind that smaller extension ecosystem compared to vs code. As for pricing, it's structured as 100% Free open source code editor; opt-in paid team collaboration features planned..",
+      "audio_cues": "Subtle transition whoosh"
+    },
+    {
+      "scene_number": 4,
+      "timecode": "0:28 - 0:35",
+      "visual_prompt": "Over-the-shoulder wide shot of developer smiling in illuminated gaming/coding station, YouTube subscribe icon and blog logo overlay.",
+      "camera_movement": "Slow crane pull-back",
+      "onscreen_text": "VERDICT: Best for Rust, C++, Web, and performance-focused developers demanding instant sub-millisecond typing response\nSubscribe @IDEguide | Blog: ideguide.blogspot.com",
+      "voiceover_script": "Overall, Developers who prioritize raw typing performance, zero lag, and real-time team pairing. Check out our blog ideguide.blogspot.com for the full article, and subscribe to IDE Guide for daily reviews! Remember, we are 100% independent and non-sponsored.",
+      "audio_cues": "Outro chime and synth fade out"
+    }
+  ]
+}

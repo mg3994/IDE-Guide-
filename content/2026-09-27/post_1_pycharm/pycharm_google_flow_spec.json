@@ -1,0 +1,54 @@
+{
+  "title": "JetBrains PyCharm Review: Good vs Bad & Pricing Guide",
+  "target_ide": "JetBrains PyCharm",
+  "youtube_channel": "https://www.youtube.com/@IDEguide",
+  "blogger_post_url": "https://ideguide.blogspot.com/",
+  "format": "YouTube Video & Shorts Spec (16:9 & 9:16)",
+  "pricing_model": "Freemium",
+  "hashtags": [
+    "#JetBrainsPyCharm",
+    "#IDEguide",
+    "#CodeEditor",
+    "#SoftwareEngineering",
+    "#CodingSetup"
+  ],
+  "description": "Is JetBrains PyCharm the best editor for your workflow? We breakdown the pros, cons, pricing model, and ideal developer use cases.\n\nRead our full blog post: https://ideguide.blogspot.com/\nSubscribe to @IDEguide for daily editor comparisons!\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "timecode": "0:00 - 0:06",
+      "visual_prompt": "Close-up high tech cinematic shot of developer hands typing on RGB mechanical keyboard, monitor showing JetBrains PyCharm dark UI with glowing code syntax, JetBrains Darcula dark theme, glowing green Python execution terminal, interactive scientific plot charts on right pane, professional dual-monitor setup, 4K ultra realistic lighting.",
+      "camera_movement": "Slow smooth push-in dolly shot towards editor screen",
+      "onscreen_text": "JETBRAINS PYCHARM\nIs It Worth It?",
+      "voiceover_script": "Looking for the honest truth about JetBrains PyCharm? Let's break down the good, the bad, and whether it's worth your time.",
+      "audio_cues": "Upbeat ambient synth wave music, mechanical keyboard typing sound effect"
+    },
+    {
+      "scene_number": 2,
+      "timecode": "0:06 - 0:18",
+      "visual_prompt": "Macro lens view of lines of code highlight automatically in JetBrains PyCharm, split screen showcasing primary features and ultra-responsive editing workspace, clean modern desk aesthetic.",
+      "camera_movement": "Panning right across code lines with shallow depth of field",
+      "onscreen_text": "THE GOOD:\n\u2022 Unrivaled Python deep code analysis, auto-imports, and smart refactoring\n\u2022 Built-in database manager, interactive Jupyter Notebook support, and virtual environment manager",
+      "voiceover_script": "First, the strengths. JetBrains PyCharm excels at unrivaled python deep code analysis, auto-imports, and smart refactoring and offers built-in database manager, interactive jupyter notebook support, and virtual environment manager.",
+      "audio_cues": "Smooth UI click sound effect"
+    },
+    {
+      "scene_number": 3,
+      "timecode": "0:18 - 0:28",
+      "visual_prompt": "Developer examining software setting and resource usage on glowing display in clean dark studio, subtle warm red rim light accents.",
+      "camera_movement": "Static medium shot with slight handheld drift",
+      "onscreen_text": "THE BAD & PRICING:\n\u2022 Heavy Java JVM resource usage; can be slow to start on low-end machines\n\u2022 Model: Freemium",
+      "voiceover_script": "On the flip side, keep in mind that heavy java jvm resource usage; can be slow to start on low-end machines. As for pricing, it's structured as Community Edition is 100% Free (Open Source). Professional Edition is ~$10-$25/month with Web/Django/Database tools..",
+      "audio_cues": "Subtle transition whoosh"
+    },
+    {
+      "scene_number": 4,
+      "timecode": "0:28 - 0:35",
+      "visual_prompt": "Over-the-shoulder wide shot of developer smiling in illuminated gaming/coding station, YouTube subscribe icon and blog logo overlay.",
+      "camera_movement": "Slow crane pull-back",
+      "onscreen_text": "VERDICT: Best for Python engineers, Data Scientists, Django/FastAPI backend developers\nSubscribe @IDEguide | Blog: ideguide.blogspot.com",
+      "voiceover_script": "Overall, Professional Python developers working on complex data science or full-stack web applications. Check out our blog ideguide.blogspot.com for the full article, and subscribe to IDE Guide for daily reviews! Remember, we are 100% independent and non-sponsored.",
+      "audio_cues": "Outro chime and synth fade out"
+    }
+  ]
+}
