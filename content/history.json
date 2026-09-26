@@ -1,0 +1,82 @@
+{
+  "covered_ids": [
+    "cursor",
+    "vscode",
+    "zed",
+    "pycharm",
+    "windsurf",
+    "neovim",
+    "sublimetext"
+  ],
+  "daily_runs": [
+    {
+      "date": "2025-01-01",
+      "posts": [
+        {
+          "idx": 1,
+          "ide_id": "cursor",
+          "ide_name": "Cursor AI Code Editor",
+          "post_dir": "content/2025-01-01/post_1_cursor"
+        },
+        {
+          "idx": 2,
+          "ide_id": "vscode",
+          "ide_name": "Visual Studio Code",
+          "post_dir": "content/2025-01-01/post_2_vscode"
+        },
+        {
+          "idx": 3,
+          "ide_id": "zed",
+          "ide_name": "Zed Editor",
+          "post_dir": "content/2025-01-01/post_3_zed"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "posts": [
+        {
+          "idx": 1,
+          "ide_id": "pycharm",
+          "ide_name": "JetBrains PyCharm",
+          "post_dir": "content/2026-09-27/post_1_pycharm"
+        },
+        {
+          "idx": 2,
+          "ide_id": "windsurf",
+          "ide_name": "Windsurf AI IDE (Cascade)",
+          "post_dir": "content/2026-09-27/post_2_windsurf"
+        },
+        {
+          "idx": 3,
+          "ide_id": "neovim",
+          "ide_name": "Neovim",
+          "post_dir": "content/2026-09-27/post_3_neovim"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "posts": [
+        {
+          "idx": 1,
+          "ide_id": "sublimetext",
+          "ide_name": "Sublime Text 4",
+          "post_dir": "content/2026-09-27/post_1_sublimetext"
+        },
+        {
+          "idx": 2,
+          "ide_id": "cursor",
+          "ide_name": "Cursor AI Code Editor",
+          "post_dir": "content/2026-09-27/post_2_cursor"
+        },
+        {
+          "idx": 3,
+          "ide_id": "vscode",
+          "ide_name": "Visual Studio Code",
+          "post_dir": "content/2026-09-27/post_3_vscode"
+        }
+      ]
+    }
+  ]
+}

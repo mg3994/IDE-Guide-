@@ -1,0 +1,186 @@
+{
+  "editors": [
+    {
+      "id": "cursor",
+      "name": "Cursor AI Code Editor",
+      "vendor": "Anysphere",
+      "category": "AI Native IDE",
+      "pricing_model": "Freemium",
+      "pricing_details": "Free tier with 200 GPT-4o uses/month; Pro at $20/month for unlimited completions & Claude 3.5 Sonnet access.",
+      "is_free": false,
+      "is_paid": true,
+      "website": "https://www.cursor.com/",
+      "target_audience": "Full-stack developers, AI enthusiasts, and engineers seeking high-speed AI inline refactoring",
+      "pros": [
+        "Seamless fork of VS Code with full extension compatibility",
+        "Multi-file codebase indexing and context-aware edits (Cmd+K / Cmd+I)",
+        "Instant codebase search using vector embeddings",
+        "Integrates top models: Claude 3.5 Sonnet, GPT-4o, and custom Cursor models"
+      ],
+      "cons": [
+        "Requires active subscription for unlimited high-tier model usage",
+        "Cloud-based indexing requires sending context snippets to remote servers (privacy concern for strict enterprise)",
+        "Can occasionally suggest overly eager changes across multiple files"
+      ],
+      "best_for": "Developers who want cutting-edge AI pair programming directly inside a familiar VS Code environment.",
+      "visual_theme": "Modern sleek dark UI, pulsing neon blue code cursor, ambient dark grey glassmorphism workspace, illuminated floating AI prompt input overlay",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+    },
+    {
+      "id": "vscode",
+      "name": "Visual Studio Code",
+      "vendor": "Microsoft",
+      "category": "General Purpose Code Editor",
+      "pricing_model": "Free / Open Source (MIT Base)",
+      "pricing_details": "100% Free for personal and commercial use.",
+      "is_free": true,
+      "is_paid": false,
+      "website": "https://code.visualstudio.com/",
+      "target_audience": "Web, cloud, Python, JavaScript, TypeScript, and general multi-language developers",
+      "pros": [
+        "Massive extension marketplace with thousands of free themes, linters, and plugins",
+        "Lightweight core startup with high customization capability",
+        "Built-in Git integration, terminal, and remote debugging (SSH / Containers)",
+        "Completely free with gigantic community support"
+      ],
+      "cons": [
+        "Electron-based app can consume significant RAM when loaded with heavy extensions",
+        "Out of the box experience requires installing extensions for specialized language support",
+        "Not a full zero-config IDE compared to JetBrains suites"
+      ],
+      "best_for": "Every developer from beginners to seasoned pros who value versatility and an unmatched extension ecosystem.",
+      "visual_theme": "Classic dark blue theme, crisp sidebar file tree, terminal window split at bottom, colorful syntax highlighting with clean developer desk setup",
+      "image_url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713"
+    },
+    {
+      "id": "zed",
+      "name": "Zed Editor",
+      "vendor": "Zed Industries",
+      "category": "High-Performance Editor",
+      "pricing_model": "Free / Open Source",
+      "pricing_details": "100% Free open source code editor; opt-in paid team collaboration features planned.",
+      "is_free": true,
+      "is_paid": false,
+      "website": "https://zed.dev/",
+      "target_audience": "Rust, C++, Web, and performance-focused developers demanding instant sub-millisecond typing response",
+      "pros": [
+        "Written in Rust and GPUI rendered at 120+ FPS for blistering fast performance",
+        "Native multiplayer live-collaborative editing built into the core editor",
+        "Extremely low memory footprint and instant startup time",
+        "Built-in AI model support (Claude, OpenAI, Ollama local models)"
+      ],
+      "cons": [
+        "Smaller extension ecosystem compared to VS Code",
+        "Currently primary platform support focused on macOS and Linux (Windows in progress)",
+        "Less mature UI customization options"
+      ],
+      "best_for": "Developers who prioritize raw typing performance, zero lag, and real-time team pairing.",
+      "visual_theme": "Minimalist dark slate editor workspace, ultra-smooth 120hz scrolling lines of Rust code, glowing golden cursor, ultra-clean high frame rate UI",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97"
+    },
+    {
+      "id": "pycharm",
+      "name": "JetBrains PyCharm",
+      "vendor": "JetBrains",
+      "category": "Full-Featured Python IDE",
+      "pricing_model": "Freemium",
+      "pricing_details": "Community Edition is 100% Free (Open Source). Professional Edition is ~$10-$25/month with Web/Django/Database tools.",
+      "is_free": false,
+      "is_paid": true,
+      "website": "https://www.jetbrains.com/pycharm/",
+      "target_audience": "Python engineers, Data Scientists, Django/FastAPI backend developers",
+      "pros": [
+        "Unrivaled Python deep code analysis, auto-imports, and smart refactoring",
+        "Built-in database manager, interactive Jupyter Notebook support, and virtual environment manager",
+        "Out-of-the-box support for Django, Flask, FastAPI, and scientific libraries",
+        "Robust debugger and test runner"
+      ],
+      "cons": [
+        "Heavy Java JVM resource usage; can be slow to start on low-end machines",
+        "Professional features (Web & DB tooling) require paid license subscription",
+        "Steeper learning curve due to dense feature set"
+      ],
+      "best_for": "Professional Python developers working on complex data science or full-stack web applications.",
+      "visual_theme": "JetBrains Darcula dark theme, glowing green Python execution terminal, interactive scientific plot charts on right pane, professional dual-monitor setup",
+      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf AI IDE (Cascade)",
+      "vendor": "Codeium",
+      "category": "Agentic AI IDE",
+      "pricing_model": "Freemium",
+      "pricing_details": "Free tier with Codeium AI chat; Pro tier at $15-$20/month for advanced Cascade flows.",
+      "is_free": false,
+      "is_paid": true,
+      "website": "https://codeium.com/windsurf",
+      "target_audience": "Full-stack developers seeking deep autonomous agent workflows and automated terminal command execution",
+      "pros": [
+        "Cascade AI flow provides deep step-by-step agentic problem solving",
+        "Superb understanding of multi-repository relationships and terminal output",
+        "Very fast response times powered by Codeium infrastructure",
+        "Built on VS Code foundation for seamless extension migration"
+      ],
+      "cons": [
+        "Cascade flow tokens consume quotas quickly on complex tasks",
+        "Newer entry in the market with evolving user interface tweaks",
+        "Requires cloud connectivity for AI agent execution"
+      ],
+      "best_for": "Developers looking for a true agentic coding assistant that can run terminal commands and write code autonomously.",
+      "visual_theme": "Futuristic cyan and deep ocean dark aesthetic, glowing animated Cascade AI flow diagram in side panel, automated code edits applying in real time",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+    },
+    {
+      "id": "neovim",
+      "name": "Neovim",
+      "vendor": "Open Source Community",
+      "category": "Modal Terminal Editor",
+      "pricing_model": "Free / Open Source",
+      "pricing_details": "100% Free and open source forever.",
+      "is_free": true,
+      "is_paid": false,
+      "website": "https://neovim.io/",
+      "target_audience": "Keyboard-centric developers, DevOps engineers, Linux enthusiasts, and modal editing purists",
+      "pros": [
+        "Zero mouse dependency; lightning-fast modal editing efficiency",
+        "Infinitely customizable using Lua scripts and modern plugin managers (Lazy.nvim)",
+        "Built-in Language Server Protocol (LSP) client for rich IDE auto-completions",
+        "Runs directly inside terminal with negligible RAM usage (<50MB)"
+      ],
+      "cons": [
+        "Steep initial learning curve requiring muscle memory for keybindings",
+        "Requires effort and time to configure custom setup or distribution (NfVim / LazyVim)",
+        "No default GUI out of the box (though Neovide/GUIs exist)"
+      ],
+      "best_for": "Developers who want complete keyboard mastery, custom tailored setups, and blisteringly fast editing anywhere.",
+      "visual_theme": "Retro-modern hacker aesthetic, dark terminal background with glowing violet and neon text, zero UI chrome, matrix-like blazing fast typing speed",
+      "image_url": "https://images.unsplash.com/photo-1629654297299-c8506221ca97"
+    },
+    {
+      "id": "sublimetext",
+      "name": "Sublime Text 4",
+      "vendor": "Sublime HQ",
+      "category": "Lightweight Text & Code Editor",
+      "pricing_model": "Paid (Unlimited Evaluation)",
+      "pricing_details": "$99 per license for 3 years of updates; full feature evaluation with occasional pop-up.",
+      "is_free": false,
+      "is_paid": true,
+      "website": "https://www.sublimetext.com/",
+      "target_audience": "Developers and writers who prioritize ultra-fast file opening, multi-cursor editing, and minimal resource usage",
+      "pros": [
+        "Instantaneous startup time and file opening even on massive log/code files",
+        "GPU accelerated rendering engine for butter-smooth scrolling",
+        "Pioneered multi-cursor editing and Goto Anything navigation",
+        "Extremely low CPU and RAM consumption"
+      ],
+      "cons": [
+        "License fee required for continuous nag-free usage",
+        "Lacks built-in terminal or deep debugger without custom package setup",
+        "Smaller plugin ecosystem compared to VS Code"
+      ],
+      "best_for": "Developers needing a dependable, ultra-fast secondary editor or primary minimalist coding tool.",
+      "visual_theme": "Sleek Monokai dark palette, smooth GPU scrolling, multi-cursor editing highlights across hundreds of lines, high contrast vibrant text",
+      "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+    }
+  ]
+}
