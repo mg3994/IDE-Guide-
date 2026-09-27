@@ -1,0 +1,29 @@
+{
+  "covered_ides": [
+    "Visual Studio Code",
+    "Cursor",
+    "Zed"
+  ],
+  "daily_runs": [
+    {
+      "date": "2026-09-27",
+      "items": [
+        {
+          "ide_name": "Visual Studio Code",
+          "blog_file": "content/2026-09-27/post_1_visual_studio_code_amp.html",
+          "video_file": "content/2026-09-27/video_1_visual_studio_code_spec.json"
+        },
+        {
+          "ide_name": "Cursor",
+          "blog_file": "content/2026-09-27/post_2_cursor_amp.html",
+          "video_file": "content/2026-09-27/video_2_cursor_spec.json"
+        },
+        {
+          "ide_name": "Zed",
+          "blog_file": "content/2026-09-27/post_3_zed_amp.html",
+          "video_file": "content/2026-09-27/video_3_zed_spec.json"
+        }
+      ]
+    }
+  ]
+}

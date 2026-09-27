@@ -1,0 +1,80 @@
+{
+  "ide_name": "Zed",
+  "long_form_video": {
+    "title": "Is Zed Worth It? Complete Developer Guide & Feature Breakdown",
+    "aspect_ratio": "16:9",
+    "target_platform": "YouTube Long-Form",
+    "channel": "@IDEguide",
+    "prompts_and_scenes": [
+      {
+        "scene_id": 1,
+        "duration_sec": 10,
+        "visual_prompt": "Macro cinematic pan of a sleek mechanical keyboard with glowing RGB illumination, transitioning to dark mode IDE window showing Zed interface with vibrant syntax highlighting.",
+        "framing_and_lighting": "35mm anamorphic, dramatic side lighting, rich dark blue and neon purple glow, smooth 24fps motion.",
+        "voiceover_transcript": "Looking for your next primary code editor? Today on IDE Guide, we're diving deep into Zed by Zed Industries."
+      },
+      {
+        "scene_id": 2,
+        "duration_sec": 20,
+        "visual_prompt": "Split screen visual displaying key features of Zed: rapid code completion popups, terminal commands executing, and extension settings.",
+        "framing_and_lighting": "Clean UI showcase, crisp screen recording overlay, slate gray studio backdrop.",
+        "voiceover_transcript": "Here are the standout features. Zed offers strong developer ergonomics, fast execution, and integrated productivity tooling."
+      },
+      {
+        "scene_id": 3,
+        "duration_sec": 15,
+        "visual_prompt": "Close up on system metrics monitor showing RAM and CPU usage gauges alongside Zed workload.",
+        "framing_and_lighting": "Technical futuristic UI overlay, orange and amber lighting accents.",
+        "voiceover_transcript": "On the flip side, consider memory consumption and ecosystem maturity before making the switch."
+      },
+      {
+        "scene_id": 4,
+        "duration_sec": 15,
+        "visual_prompt": "Graphic card popup showing pricing details (Free / Open Source) and license tier.",
+        "framing_and_lighting": "Minimalist graphic card design, smooth glassmorphism motion.",
+        "voiceover_transcript": "Pricing breakdown: Zed is available under Free / Open Source. Make sure to evaluate if free vs paid features align with your team size."
+      },
+      {
+        "scene_id": 5,
+        "duration_sec": 10,
+        "visual_prompt": "Final montage with subscribe button, channel branding @IDEguide, and on-screen disclaimer text.",
+        "framing_and_lighting": "Modern YouTube endscreen slate with subtle animated particles.",
+        "voiceover_transcript": "Subscribe to @IDEguide for daily editor breakdowns. Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+      }
+    ],
+    "non_sponsorship_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+  },
+  "shorts_video": {
+    "title": "Should You Switch to Zed? (60s Review)",
+    "aspect_ratio": "9:16",
+    "target_platform": "YouTube Shorts",
+    "channel": "@IDEguide",
+    "prompts_and_scenes": [
+      {
+        "scene_id": 1,
+        "duration_sec": 5,
+        "visual_prompt": "Vertical 9:16 vertical video showing hands typing at lightning speed on a backlit keyboard with Zed UI on a ultra-wide monitor.",
+        "voiceover_transcript": "Should you switch to Zed in 2026?"
+      },
+      {
+        "scene_id": 2,
+        "duration_sec": 20,
+        "visual_prompt": "Fast-paced cuts showing code autocomplete, instant search, and extensions panel in Zed.",
+        "voiceover_transcript": "Pros: Extremely responsive workflow, great language support, and clean developer experience."
+      },
+      {
+        "scene_id": 3,
+        "duration_sec": 20,
+        "visual_prompt": "Quick cons callout overlay with badge: Free / Open Source.",
+        "voiceover_transcript": "Cons and Pricing: Available under Free / Open Source. Watch out for extension compatibility depending on your language stack."
+      },
+      {
+        "scene_id": 4,
+        "duration_sec": 15,
+        "visual_prompt": "Full screen @IDEguide subscribe graphic and disclaimer block.",
+        "voiceover_transcript": "Hit subscribe for more IDE comparisons! Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+      }
+    ],
+    "non_sponsorship_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+  }
+}
