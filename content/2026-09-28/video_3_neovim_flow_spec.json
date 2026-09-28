@@ -1,0 +1,59 @@
+{
+  "channel": "@IDEguide",
+  "ide_name": "Neovim",
+  "category": "Extensible Modal Text Editor",
+  "pricing_model": "100% Free & Open Source",
+  "google_flow_prompts": {
+    "landscape_16_9": [
+      {
+        "scene": 1,
+        "title": "Hook & Intro",
+        "duration_seconds": 15,
+        "visual_prompt": "Cinematic slow push-in camera movement over a modern dark mode code editor displaying Neovim interface. Neon cyan syntax highlighting glowing on high resolution 8K screen, soft bokeh studio background.",
+        "voiceover_script": "Is Neovim the ultimate Extensible Modal Text Editor for your dev setup? Let's break down the good, the bad, and whether it is worth your time!"
+      },
+      {
+        "scene": 2,
+        "title": "Key Features & Showcase",
+        "duration_seconds": 30,
+        "visual_prompt": "Dynamic pan left to right across Neovim code window showing rapid autocomplete and crisp text rendering. Minimalist mahogany desk setup, warm aesthetic ambient backlighting.",
+        "voiceover_script": "Here is what makes Neovim stand out: Ultra-lightweight, runs in terminal or GUI wrappers, Infinitely customizable via Lua scripting."
+      },
+      {
+        "scene": 3,
+        "title": "Pros, Cons & Pricing Tier",
+        "duration_seconds": 30,
+        "visual_prompt": "Clean glassmorphic split screen infographic showing Free vs Paid features for Neovim. Left side highlights pros, right side highlights tradeoffs. Modern tech typography.",
+        "voiceover_script": "When it comes to pricing, Neovim operates under a 100% Free & Open Source model. Important tradeoffs to keep in mind include Steep learning curve for modal navigation and configuration, Requires manual setup for complex IDE features out of the box."
+      },
+      {
+        "scene": 4,
+        "title": "Verdict & Outro",
+        "duration_seconds": 15,
+        "visual_prompt": "Smooth tilt up to developer smiling in modern workspace, lower third showing ideguide.blogspot.com and YouTube @IDEguide subscription button.",
+        "voiceover_script": "Final Verdict: Unbeatable for keyboard purists, terminal lovers, and power developers seeking total control over their editing environment. Read our full AMP article at ideguide.blogspot.com and subscribe to @IDEguide for daily editor breakdowns!"
+      }
+    ],
+    "vertical_shorts_9_16": [
+      {
+        "scene": 1,
+        "duration_seconds": 15,
+        "visual_prompt": "Vertical 9:16 macro shot of Neovim IDE interface with glowing syntax animations and fast-paced motion graphics overlaying key specs.",
+        "voiceover_script": "Should you switch to Neovim? Here is the 30-second breakdown on this Extensible Modal Text Editor!"
+      },
+      {
+        "scene": 2,
+        "duration_seconds": 30,
+        "visual_prompt": "Vertical fast-cuts between code editing in Neovim, feature checklist, and price comparison badge: 100% Free & Open Source.",
+        "voiceover_script": "Top Pros: Ultra-lightweight, runs in terminal or GUI wrappers, Infinitely customizable via Lua scripting. Main Tradeoff: Steep learning curve for modal navigation and configuration, Requires manual setup for complex IDE features out of the box. Pricing tier: 100% Free & Open Source."
+      },
+      {
+        "scene": 3,
+        "duration_seconds": 15,
+        "visual_prompt": "Vertical closing frame with animated text 'Full Review at ideguide.blogspot.com' and @IDEguide handle.",
+        "voiceover_script": "Check the link in bio for our full AMP review on Blogger and subscribe to @IDEguide!"
+      }
+    ]
+  },
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}

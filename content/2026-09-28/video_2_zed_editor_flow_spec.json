@@ -1,0 +1,59 @@
+{
+  "channel": "@IDEguide",
+  "ide_name": "Zed Editor",
+  "category": "High-Performance Code Editor",
+  "pricing_model": "Free & Open Source (Paid AI features available)",
+  "google_flow_prompts": {
+    "landscape_16_9": [
+      {
+        "scene": 1,
+        "title": "Hook & Intro",
+        "duration_seconds": 15,
+        "visual_prompt": "Cinematic slow push-in camera movement over a modern dark mode code editor displaying Zed Editor interface. Neon cyan syntax highlighting glowing on high resolution 8K screen, soft bokeh studio background.",
+        "voiceover_script": "Is Zed Editor the ultimate High-Performance Code Editor for your dev setup? Let's break down the good, the bad, and whether it is worth your time!"
+      },
+      {
+        "scene": 2,
+        "title": "Key Features & Showcase",
+        "duration_seconds": 30,
+        "visual_prompt": "Dynamic pan left to right across Zed Editor code window showing rapid autocomplete and crisp text rendering. Minimalist mahogany desk setup, warm aesthetic ambient backlighting.",
+        "voiceover_script": "Here is what makes Zed Editor stand out: Extremely fast boot time and lightweight memory footprint, Native GPU-accelerated text rendering."
+      },
+      {
+        "scene": 3,
+        "title": "Pros, Cons & Pricing Tier",
+        "duration_seconds": 30,
+        "visual_prompt": "Clean glassmorphic split screen infographic showing Free vs Paid features for Zed Editor. Left side highlights pros, right side highlights tradeoffs. Modern tech typography.",
+        "voiceover_script": "When it comes to pricing, Zed Editor operates under a Free & Open Source (Paid AI features available) model. Important tradeoffs to keep in mind include Ecosystem of extensions is still maturing compared to VS Code, Limited platform availability on older operating systems."
+      },
+      {
+        "scene": 4,
+        "title": "Verdict & Outro",
+        "duration_seconds": 15,
+        "visual_prompt": "Smooth tilt up to developer smiling in modern workspace, lower third showing ideguide.blogspot.com and YouTube @IDEguide subscription button.",
+        "voiceover_script": "Final Verdict: Ideal for performance enthusiasts, Rust/C++/Go developers, and teams looking for real-time pair programming speed. Read our full AMP article at ideguide.blogspot.com and subscribe to @IDEguide for daily editor breakdowns!"
+      }
+    ],
+    "vertical_shorts_9_16": [
+      {
+        "scene": 1,
+        "duration_seconds": 15,
+        "visual_prompt": "Vertical 9:16 macro shot of Zed Editor IDE interface with glowing syntax animations and fast-paced motion graphics overlaying key specs.",
+        "voiceover_script": "Should you switch to Zed Editor? Here is the 30-second breakdown on this High-Performance Code Editor!"
+      },
+      {
+        "scene": 2,
+        "duration_seconds": 30,
+        "visual_prompt": "Vertical fast-cuts between code editing in Zed Editor, feature checklist, and price comparison badge: Free & Open Source (Paid AI features available).",
+        "voiceover_script": "Top Pros: Extremely fast boot time and lightweight memory footprint, Native GPU-accelerated text rendering. Main Tradeoff: Ecosystem of extensions is still maturing compared to VS Code, Limited platform availability on older operating systems. Pricing tier: Free & Open Source (Paid AI features available)."
+      },
+      {
+        "scene": 3,
+        "duration_seconds": 15,
+        "visual_prompt": "Vertical closing frame with animated text 'Full Review at ideguide.blogspot.com' and @IDEguide handle.",
+        "voiceover_script": "Check the link in bio for our full AMP review on Blogger and subscribe to @IDEguide!"
+      }
+    ]
+  },
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
