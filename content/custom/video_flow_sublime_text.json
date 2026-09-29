@@ -1,0 +1,54 @@
+{
+  "channel": "IDE Guide (@IDEguide)",
+  "target_platform": "YouTube Shorts (9:16) & YouTube Video (16:9)",
+  "ide_name": "Sublime Text",
+  "date": "2026-09-29",
+  "pricing_category": "PAID / FREEMIUM MODEL",
+  "disclaimer_required": true,
+  "google_flow_prompts": {
+    "style_preset": "Dark mode developer workspace, cinematic neon syntax, macro camera movement, 4K resolution, 60fps",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "timecode": "00:00 - 00:05",
+        "title": "Hook / Editor Intro",
+        "visual_prompt": "Macro cinematic pan across Sublime Text user interface showing vibrant dark mode code in General Purpose, Web, Systems, subtle neon backlight glow, smooth camera track forward, 4k hyper-realistic",
+        "camera_motion": "Slow forward dolly track into editor cursor",
+        "voiceover": "Is Sublime Text worth using for your projects in 2026? Let's break down the good, the bad, and the pricing!",
+        "text_overlay": "Sublime Text - Complete Review",
+        "audio_sfx": "Upbeat futuristic synth beat with mechanical keyboard clack SFX"
+      },
+      {
+        "scene_number": 2,
+        "timecode": "00:05 - 00:20",
+        "title": "Pricing & Key Strengths",
+        "visual_prompt": "Split screen shot showing Sublime Text handling complex code refactoring on left and floating badge on right reading 'PAID / FREEMIUM MODEL', dramatic studio lighting",
+        "camera_motion": "Rack focus from pricing card to active editor window",
+        "voiceover": "First off, pricing: 9 one-time license for individual use Main advantage? Extensible architecture with rich plugin capabilities and High performance code navigation and syntax parsing.",
+        "text_overlay": "STATUS: PAID / FREEMIUM MODEL\n\u2705 Extensible architecture with rich plugin capabilities",
+        "audio_sfx": "Digital pop SFX on bullet reveal"
+      },
+      {
+        "scene_number": 3,
+        "timecode": "00:20 - 00:40",
+        "title": "Limitations & Trade-offs",
+        "visual_prompt": "Close-up profile of developer reviewing diagnostics panel in Sublime Text, amber highlight on warnings, sleek dark aesthetic",
+        "camera_motion": "Slow pan right across side dock panels",
+        "voiceover": "However, keep in mind: Initial configuration curve for custom setups",
+        "text_overlay": "\u26a0\ufe0f CONSIDERATION: Initial configuration curve for custom setups",
+        "audio_sfx": "Subtle warning chime SFX"
+      },
+      {
+        "scene_number": 4,
+        "timecode": "00:40 - 00:60",
+        "title": "Final Recommendation & Non-Sponsored Callout",
+        "visual_prompt": "Cinematic wide view of dark developer studio desk with dual monitors displaying Sublime Text and YouTube IDE Guide logo, soft neon rim lighting",
+        "camera_motion": "Slow tilt upwards and zoom back to end card",
+        "voiceover": "Verdict? Developers seeking customized workflow solutions. Remember, IDE Guide is independent and not sponsored by any editor vendor. Subscribe to @IDEguide for unbiased developer tools guides!",
+        "text_overlay": "IDE Guide \u2022 Independent Review\nSubscribe @IDEguide | ideguide.blogspot.com",
+        "audio_sfx": "Smooth fade out synth music with click subscribe chime"
+      }
+    ]
+  },
+  "non_sponsorship_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
