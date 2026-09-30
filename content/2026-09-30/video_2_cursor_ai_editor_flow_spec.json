@@ -1,0 +1,54 @@
+{
+  "title": "IDE Guide: Cursor AI Editor - Quick Review & Guide",
+  "channel": "@IDEguide",
+  "target_platform": "YouTube Shorts / Video",
+  "aspect_ratio": "9:16 (Shorts) / 16:9 (Standard)",
+  "visual_style": {
+    "theme": "Sleek Dark Mode Developer Aesthetics",
+    "lighting": "Cinematic soft studio neon, high contrast code syntax highlighting",
+    "color_palette": [
+      "#1e1e1e",
+      "#00d2ff",
+      "#7b2cbf"
+    ],
+    "framing": "Macro zooms on code snippets, smooth scrolling camera pans"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 5,
+      "visual_description": "Dynamic zoom shot into modern dark-mode IDE interface showing Cursor AI Editor logo and syntax highlighting with neon cyan lighting.",
+      "voiceover_narration": "Looking for your next code editor? Let's break down Cursor AI Editor in 60 seconds on IDE Guide!",
+      "text_overlay": "IDE REVIEW: CURSOR AI EDITOR"
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 10,
+      "visual_description": "Close-up screen recording of Cursor AI Editor autocompleting complex Python/TypeScript code seamlessly.",
+      "voiceover_narration": "Cursor AI Editor offers AI-Native Code Editor - Deep repository indexing. It is designed to boost developer flow.",
+      "text_overlay": "KEY FEATURE: AI Productivity & Speed"
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 12,
+      "visual_description": "Split screen graph showing Price vs Performance metrics.",
+      "voiceover_narration": "Pricing model: Free Tier available / $20/mo Pro Subscription. Great value depending on your project scale.",
+      "text_overlay": "PRICING: Free Tier available / $20/mo Pro Subscription"
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 12,
+      "visual_description": "Side-by-side comparative green checkmark and red x icon overlay over IDE workspace.",
+      "voiceover_narration": "The Good: Deep repository indexing. The Bad: Requires subscription for unlimited fast queries.",
+      "text_overlay": "PROS vs CONS"
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 8,
+      "visual_description": "Subtle pan to IDE Guide channel brand card with YouTube channel @IDEguide and Blogger link.",
+      "voiceover_narration": "Subscribe to @IDEguide on YouTube and check ideguide.blogspot.com for full technical breakdown!",
+      "text_overlay": "SUBSCRIBE @IDEguide | ideguide.blogspot.com"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
