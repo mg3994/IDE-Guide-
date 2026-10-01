@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "title": "Is Helix Editor Actually Worth It in 2026? (Good vs Bad)",
+    "channel": "@IDEguide",
+    "target_ide": "Helix Editor",
+    "format": "Shorts (9:16 vertical) & YouTube Showcase",
+    "date": "2026-10-01",
+    "duration_seconds": 60
+  },
+  "google_flow_prompts": {
+    "style_preset": "High-Tech Dark OLED Studio",
+    "lighting_environment": "Cyberpunk Cyan & Blue LED backlight, subtle dark ambient contrast",
+    "camera_framing": "Vertical 9:16 macro closeups, smooth panning across developer monitor and keyboard",
+    "rendering_quality": "4K 60fps photorealistic UI demonstration with neon light reflections"
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "timestamp": "00:00 - 00:08",
+      "visual_description": "Cinematic fast zoom into a glowing ultra-wide monitor displaying Helix Editor. Code lines populate smoothly with real-time syntax highlighting.",
+      "voiceover_script": "Looking for your next primary code editor? Today on IDE Guide, we review Helix Editor by helix-editor.",
+      "b_roll": "Close-up macro shot of mechanical keyboard keypresses and IDE splash screen."
+    },
+    {
+      "shot_number": 2,
+      "timestamp": "00:08 - 00:22",
+      "visual_description": "Split-screen glowing highlight showing key features and top positive pros with green checkmark graphics floating in 3D.",
+      "voiceover_script": "Here is what makes it great: Tailored feature set for modern software development workflows in Helix Editor. Plus, Flexible plugin and workspace customization support.",
+      "b_roll": "Screen recording demonstrating quick code auto-completion and key editor shortcuts."
+    },
+    {
+      "shot_number": 3,
+      "timestamp": "00:22 - 00:38",
+      "visual_description": "Overlay shifts to dark red accents with subtle animated warning badge icons highlighting limitations.",
+      "voiceover_script": "However, keep these drawbacks in mind: Requires initial configuration for specialized project build tools",
+      "b_roll": "CPU/RAM resource monitor gauge overlay showing memory footprint."
+    },
+    {
+      "shot_number": 4,
+      "timestamp": "00:38 - 00:50",
+      "visual_description": "Comparison matrix UI showing free vs paid tier badges and target audience profiles.",
+      "voiceover_script": "Pricing model: Free / Open Source / Commercial. It is best suited for Developers, software engineers, and technical teams using Helix Editor.",
+      "b_roll": "Clean pricing card graphic and developer avatar icon."
+    },
+    {
+      "shot_number": 5,
+      "timestamp": "00:50 - 01:00",
+      "visual_description": "Outro card displaying IDE Guide logo, YouTube subscribe prompt (@IDEguide), and text disclaimer banner.",
+      "voiceover_script": "Subscribe to IDE Guide for daily objective editor breakdowns! Full non-sponsorship disclaimer in description.",
+      "b_roll": "Animated Subscribe button click and URL callout to ideguide.blogspot.com."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
