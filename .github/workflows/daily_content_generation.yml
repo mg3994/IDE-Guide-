@@ -1,0 +1,48 @@
+name: Daily Content Generation Workflow
+
+on:
+  schedule:
+    # Runs daily at 21:30 UTC (03:00 AM IST)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest
+
+      - name: Run Content Generation Engine
+        run: |
+          python3 scripts/generate_daily_content.py
+
+      - name: Validate AMP HTML Posts
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          for post in content/$TODAY/*.html; do
+            echo "Validating $post..."
+            python3 scripts/amp_validator.py "$post"
+          done
+
+      - name: Run Test Suite
+        run: |
+          PYTHONPATH=. pytest tests/
+
+      - name: Commit and Push Daily Content
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/
+          git commit -m "chore(content): generate daily content package for $(date -u +%Y-%m-%d)" || exit 0
+          git push
