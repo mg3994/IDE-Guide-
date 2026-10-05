@@ -1,0 +1,42 @@
+{
+  "video_title": "Should You Use Zed? 60-Second IDE Guide",
+  "target_platform": "YouTube Shorts (9:16) & Main Video (16:9)",
+  "ide_name": "Zed",
+  "pricing_model": "Free (Open Source)",
+  "voiceover_script": "Looking for the perfect code editor? Today on IDE Guide, we're testing Zed! A high-performance, multi-player code editor written in Rust by the creators of Atom. Pricing model is Free (Open Source). Top strengths include Insanely fast sub-millisecond startup & typing, Built-in multiplayer pair programming. However, keep in mind Ecosystem extensions still maturing. Best suited for Performance purists, Rust, C++, and Go engineers who value speed. Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "google_flow_scenes": [
+    {
+      "scene": 1,
+      "timestamp": "00:00 - 00:05",
+      "visual_prompt": "Cinematic ultra-sharp close up of modern dark mode IDE interface displaying Zed logo, glowing neon cyan syntax highlights, fluid code cursor movement, soft purple rim lighting, 4k digital render.",
+      "framing_motion": "Slow zoom into code cursor with rack focus",
+      "text_overlay": "Is Zed Worth It?",
+      "audio_script": "Looking for the perfect code editor? Today on IDE Guide, we're testing Zed!"
+    },
+    {
+      "scene": 2,
+      "timestamp": "00:05 - 00:20",
+      "visual_prompt": "Isometric 3D view of developer workstation with double monitors showing Zed editor, fast autocompletion popup appearing, smooth terminal execution window below, dark slate color palette.",
+      "framing_motion": "Pan left across active code editor window",
+      "text_overlay": "Pricing: Free (Open Source)",
+      "audio_script": "A high-performance, multi-player code editor written in Rust by the creators of Atom. Pricing model is Free (Open Source)."
+    },
+    {
+      "scene": 3,
+      "timestamp": "00:20 - 00:45",
+      "visual_prompt": "Split screen visualization of pros and cons, glowing green checkmarks alongside red speed/memory gauges, high contrast dark futuristic UI background.",
+      "framing_motion": "Static macro shot with animated side-by-side comparison graphics",
+      "text_overlay": "Pros vs Cons Breakdown",
+      "audio_script": "Top strengths include Insanely fast sub-millisecond startup & typing, Built-in multiplayer pair programming."
+    },
+    {
+      "scene": 4,
+      "timestamp": "00:45 - 00:60",
+      "visual_prompt": "Clean studio background with subtle floating code particles, clear text summary overlay with YouTube channel logo @IDEguide, disclaimer footer banner visible.",
+      "framing_motion": "Fade out to channel watermark",
+      "text_overlay": "Verdict: Great for Performance purists, Rust, C++, and Go engineers who value speed",
+      "audio_script": "Best suited for Performance purists, Rust, C++, and Go engineers who value speed. Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
