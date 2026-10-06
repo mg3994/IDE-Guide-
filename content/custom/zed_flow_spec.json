@@ -1,0 +1,36 @@
+{
+  "channel": "@IDEguide",
+  "tool_name": "Zed",
+  "pricing_category": "Free / Open Source",
+  "target_aspect_ratio": "16:9 Widescreen & 9:16 Vertical",
+  "visual_prompt_specifications": {
+    "framing": "Modern dark mode workspace showing active Zed code editor and terminal window",
+    "lighting": "Cinematic ambient studio lighting with deep blue and purple accents",
+    "camera_motion": "Smooth pan across workspace with subtle focal depth effect",
+    "color_palette": "Slate dark background, electric blue text highlights"
+  },
+  "narration_script": [
+    {
+      "scene": 1,
+      "duration_sec": 5,
+      "visual_prompt": "Close-up overview shot of Zed interface",
+      "text_overlay": "Zed",
+      "voiceover": "Here is our complete assessment of Zed."
+    },
+    {
+      "scene": 2,
+      "duration_sec": 8,
+      "visual_prompt": "Graphics card overlay displaying pricing details and core features",
+      "text_overlay": "Pricing: Free / Open Source",
+      "voiceover": "100% Free and open source on GitHub."
+    },
+    {
+      "scene": 3,
+      "duration_sec": 10,
+      "visual_prompt": "Comparative card listing key strengths and limitations",
+      "text_overlay": "Pros & Cons",
+      "voiceover": "Strengths include Tailored productivity features for developer workflows. Consider that May require custom configuration for specialized stack needs."
+    }
+  ],
+  "non_sponsorship_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}

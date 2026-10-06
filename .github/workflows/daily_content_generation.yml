@@ -1,0 +1,36 @@
+name: Daily Content Generation
+
+on:
+  schedule:
+    # 21:30 UTC = 03:00 AM IST
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-daily-content:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Generate Daily Content
+        run: |
+          python scripts/generate_daily_content.py
+
+      - name: Commit and Push Generated Content
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: generate daily AMP blog posts and Google Flow video specs" && git push)
