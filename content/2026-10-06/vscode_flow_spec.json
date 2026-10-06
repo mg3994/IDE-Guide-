@@ -1,0 +1,43 @@
+{
+  "channel": "@IDEguide",
+  "tool_name": "Visual Studio Code",
+  "pricing_category": "Free / Open Source (Core)",
+  "target_aspect_ratio": "16:9 Widescreen (YouTube Main) & 9:16 Vertical (Shorts)",
+  "visual_prompt_specifications": {
+    "framing": "Cinematic close-up of developer workstation, active dark theme interface, responsive syntax highlighting",
+    "lighting": "Cool studio ambient light (6000K) with subtle neon accent rim lights reflecting on keycaps",
+    "camera_motion": "Smooth push-in shot toward terminal output, followed by dynamic slow pan across code completions",
+    "color_palette": "Deep dark navy blue, cyan highlights, green code success accents"
+  },
+  "narration_script": [
+    {
+      "scene": 1,
+      "duration_sec": 5,
+      "visual_prompt": "Ultra close up shot of Visual Studio Code dark mode UI launching with high contrast syntax theme",
+      "text_overlay": "Visual Studio Code - Ultimate Overview",
+      "voiceover": "Looking for your next code editor? Today we analyze Visual Studio Code by Microsoft."
+    },
+    {
+      "scene": 2,
+      "duration_sec": 8,
+      "visual_prompt": "Dynamic split screen highlighting top performance metrics and key features",
+      "text_overlay": "Pricing: Free / Open Source (Core)",
+      "voiceover": "Pricing model: 100% Free for individual & commercial use."
+    },
+    {
+      "scene": 3,
+      "duration_sec": 12,
+      "visual_prompt": "Side-by-side graphical checklist highlighting key strengths vs limitations",
+      "text_overlay": "Pros & Cons Breakdown",
+      "voiceover": "Key advantages include Massive extension ecosystem and Excellent multi-language support. However, keep in mind Electron-based resource usage can be heavy on large monorepos."
+    },
+    {
+      "scene": 4,
+      "duration_sec": 7,
+      "visual_prompt": "Futuristic overlay showing target developer profile and final rating badge",
+      "text_overlay": "Rating: 4.8/5.0 | Best For: Developer Workflows",
+      "voiceover": "Ideal choice if you are: Web, cloud, and general multi-language software development."
+    }
+  ],
+  "non_sponsorship_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
