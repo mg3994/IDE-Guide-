@@ -1,0 +1,83 @@
+{
+  "title": "Is Cursor AI Worth It? (Honest Developer Review)",
+  "channel": "@IDEguide",
+  "category": "AI-Native Code Editor",
+  "pricing_model": "Freemium ($20/mo Pro plan for advanced model usage)",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "youtube_shorts_spec": {
+    "aspect_ratio": "9:16",
+    "duration_seconds": 60,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "duration_seconds": 10,
+        "visual_prompt": "Cinematic dark setup showing Cursor AI launching rapidly with vivid syntax highlighting.",
+        "camera_motion": "Fast push-in towards code window",
+        "lighting": "Dark ambient aesthetic with blue accent neon lighting",
+        "voiceover_script": "Is Cursor AI the ultimate code editor for you? Let's break down the truth in 60 seconds."
+      },
+      {
+        "scene_number": 2,
+        "duration_seconds": 25,
+        "visual_prompt": "Close-up demonstration of key feature: Cmd+K Inline Edit in action.",
+        "camera_motion": "Smooth pan across the active editing workspace",
+        "lighting": "High clarity monitor glow with sharp high contrast",
+        "voiceover_script": "What makes it stand out? Features like Cmd+K Inline Edit, Composer Multi-file Generation deliver serious productivity gains."
+      },
+      {
+        "scene_number": 3,
+        "duration_seconds": 15,
+        "visual_prompt": "Split screen comparison showing pros on left green highlights and cons on right red highlights.",
+        "camera_motion": "Static macro camera angle",
+        "lighting": "Balanced studio illumination",
+        "voiceover_script": "On the downside: Requires subscription for unlimited fast AI queries Pricing is: Freemium ($20/mo Pro plan for advanced model usage)."
+      },
+      {
+        "scene_number": 4,
+        "duration_seconds": 10,
+        "visual_prompt": "Closing screen with YouTube channel brand badge @IDEguide and independent disclaimer text.",
+        "camera_motion": "Slow zoom out to full logo setup",
+        "lighting": "Bright cinematic spotlight effect",
+        "voiceover_script": "Subscribe to IDE Guide for unbiased tech breakdowns. Disclaimer: This review is completely independent and not sponsored."
+      }
+    ]
+  },
+  "youtube_video_spec": {
+    "aspect_ratio": "16:9",
+    "duration_seconds": 180,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "duration_seconds": 30,
+        "visual_prompt": "Full screen workspace overview of Cursor AI running a complex developer project.",
+        "camera_motion": "Slow panning across the full 4K workstation monitor",
+        "lighting": "Modern tech studio atmosphere",
+        "voiceover_script": "Welcome back to IDE Guide. Today we're taking an in-depth look at Cursor AI, a AI-Native Code Editor."
+      },
+      {
+        "scene_number": 2,
+        "duration_seconds": 90,
+        "visual_prompt": "Deep dive recording demonstrating top features: Cmd+K Inline Edit, Composer Multi-file Generation, Codebase Context Chat.",
+        "camera_motion": "Dynamic zooms into code execution terminal and autocomplete menus",
+        "lighting": "Focused workstation lighting",
+        "voiceover_script": "Let's explore its core features. Native deep integration of Claude 3.5 Sonnet & GPT-4o Furthermore, Full codebase context indexing and multi-file editing."
+      },
+      {
+        "scene_number": 3,
+        "duration_seconds": 40,
+        "visual_prompt": "Critique segment displaying memory benchmark, pricing charts, and potential bottlenecks.",
+        "camera_motion": "Pan across performance analytics graph",
+        "lighting": "Neutral contrast display",
+        "voiceover_script": "Now for the trade-offs: Requires subscription for unlimited fast AI queries Regarding costs, Cursor AI uses a Freemium ($20/mo Pro plan for advanced model usage) model."
+      },
+      {
+        "scene_number": 4,
+        "duration_seconds": 20,
+        "visual_prompt": "Final verdict summary slide with non-sponsorship guarantee badge.",
+        "camera_motion": "Smooth center fade",
+        "lighting": "Clean studio lighting",
+        "voiceover_script": "Verdict: Ideal for Developers looking for maximum AI-assisted velocity and code generation. Remember, IDE Guide is fully independent and never sponsored by editor vendors."
+      }
+    ]
+  }
+}

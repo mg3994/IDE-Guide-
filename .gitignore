@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+content/20*
+content/custom_*
+content/test_*
