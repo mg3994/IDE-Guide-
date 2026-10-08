@@ -1,0 +1,30 @@
+{
+  "covered_ides": [
+    "vs code",
+    "intellij",
+    "cursor",
+    "neovim",
+    "zed",
+    "sublime text"
+  ],
+  "daily_logs": [
+    {
+      "date": "2025-02-15",
+      "timestamp_utc": "2026-10-08T22:26:47.810203+00:00",
+      "generated_ides": [
+        "Visual Studio Code",
+        "JetBrains IntelliJ IDEA",
+        "Cursor AI Code Editor"
+      ]
+    },
+    {
+      "date": "2025-02-16",
+      "timestamp_utc": "2026-10-08T22:27:04.030542+00:00",
+      "generated_ides": [
+        "Neovim",
+        "Zed Editor",
+        "Sublime Text 4"
+      ]
+    }
+  ]
+}
