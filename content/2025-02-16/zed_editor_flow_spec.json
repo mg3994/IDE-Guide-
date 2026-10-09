@@ -1,0 +1,51 @@
+{
+  "channel": "IDE Guide (@IDEguide)",
+  "video_title": "Zed Editor - Is It Worth Using? (Good vs Bad & Pricing)",
+  "target_platform": "YouTube Shorts (9:16) & YouTube Video (16:9)",
+  "aspect_ratio": "16:9 / 9:16",
+  "duration_seconds": 60,
+  "ide_name": "Zed Editor",
+  "visual_style": {
+    "lighting": "Modern tech studio ambient lighting, dark theme editor contrast with cyan/teal neon accents",
+    "camera_framing": "Close-up macro of code cursor typing, over-the-shoulder coding shot, side-by-side spec comparison card",
+    "color_palette": [
+      "#1e1e2e",
+      "#89dceb",
+      "#cdd6f4",
+      "#f38ba8"
+    ]
+  },
+  "timeline_scenes": [
+    {
+      "scene": 1,
+      "timestamp": "00:00 - 00:10",
+      "narration": "Is Zed Editor the ultimate code editor for your workflow, or does it hog too much memory? Let's break down the good, the bad, and the pricing.",
+      "google_flow_prompt": "Macro cinematic zoom into a dark-themed computer monitor displaying Zed Editor code editor with syntax highlighted Python code, soft background depth of field, neon key lighting, 4k ultra realistic."
+    },
+    {
+      "scene": 2,
+      "timestamp": "00:10 - 00:25",
+      "narration": "First, the good: Blazing fast Rust-based GPUI rendering at 120 FPS. Plus, Built-in collaborative multiplayer editing.",
+      "google_flow_prompt": "Split screen visual showing high speed developer workflow, glowing checkmarks appearing next to speed and extensibility metrics, sleek dark UI animation."
+    },
+    {
+      "scene": 3,
+      "timestamp": "00:25 - 00:40",
+      "narration": "Now for the bad: Ecosystem still growing compared to VS Code. Be mindful when running massive projects.",
+      "google_flow_prompt": "Close up camera shift to memory graph meter turning amber red, showing high RAM usage warning overlay on clean developer desk setup."
+    },
+    {
+      "scene": 4,
+      "timestamp": "00:40 - 00:55",
+      "narration": "Pricing breakdown: Free & Open Source (GPL/Apache 2.0). Verdict: Performance enthusiasts, Rust developers, and real-time pair programmers.",
+      "google_flow_prompt": "Futuristic holographic badge displaying 'Free / Open Source' floating over mechanical keyboard on dark wooden studio table."
+    },
+    {
+      "scene": 5,
+      "timestamp": "00:55 - 01:00",
+      "narration": "Subscribe to IDE Guide for daily objective IDE breakdowns!",
+      "google_flow_prompt": "Sleek ending card with YouTube subscribe animation, text displaying IDE Guide, dark mode aesthetic."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
