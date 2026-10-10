@@ -1,0 +1,29 @@
+{
+  "covered_ides": [
+    "windsurf",
+    "cursor",
+    "zed"
+  ],
+  "daily_logs": {
+    "2026-10-10": [
+      {
+        "id": "cursor",
+        "name": "Cursor AI Code Editor",
+        "post": "post1_cursor.html",
+        "video_spec": "video1_cursor_google_flow.json"
+      },
+      {
+        "id": "zed",
+        "name": "Zed Code Editor",
+        "post": "post2_zed.html",
+        "video_spec": "video2_zed_google_flow.json"
+      },
+      {
+        "id": "windsurf",
+        "name": "Windsurf Editor (Codeium)",
+        "post": "post3_windsurf.html",
+        "video_spec": "video3_windsurf_google_flow.json"
+      }
+    ]
+  }
+}
