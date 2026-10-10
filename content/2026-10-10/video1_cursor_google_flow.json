@@ -1,0 +1,65 @@
+{
+  "channel": "@IDEguide",
+  "title": "Should You Use Cursor AI Code Editor in 2026? Pros, Cons & Paid vs Free Breakdown!",
+  "ide_name": "Cursor AI Code Editor",
+  "category": "AI-First Code Editor",
+  "pricing_status": "Freemium ($20/mo Pro)",
+  "is_free": false,
+  "license": "Proprietary (VS Code Fork)",
+  "target_audience": "Software Developers, Devs, Computer Science Students",
+  "target_format": "YouTube Short / Reel (9:16 vertical) & Widescreen (16:9)",
+  "duration_seconds": 60,
+  "visual_style": {
+    "environment": "Dark mode modern developer studio, glowing ultra-wide monitor, subtle neon rim lighting",
+    "camera": "Dynamic 4K camera movements, smooth dolly push-ins, macro closeups on editor UI",
+    "pacing": "Fast-paced, energetic technical commentary"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "timestamp": "0:00 - 0:10",
+      "purpose": "Hook & IDE Introduction",
+      "google_flow_prompt": "Cinematic dark-mode developer setup with a glowing screen showing Cursor AI Code Editor UI. Cyberpunk dark blue and purple ambient lighting. Smooth slow zoom into the editor code interface, crisp syntax highlighting, 8k resolution, photorealistic.",
+      "screen_action": "Display Cursor AI Code Editor logo with title overlay: 'Cursor AI Code Editor: Best choice or overrated?'",
+      "voiceover_script": "Is Cursor AI Code Editor actually worth your time, or is it just hype? Let's break down the pros, cons, and pricing in 60 seconds!",
+      "text_overlay": "Cursor AI Code Editor Review"
+    },
+    {
+      "scene_id": 2,
+      "timestamp": "0:10 - 0:25",
+      "purpose": "The Good (Pros)",
+      "google_flow_prompt": "Ultra-detailed close up shot of developer hands typing rapidly on a mechanical keyboard in a modern illuminated desk setting. On-screen interface showing lightning fast code suggestions and refactoring in Cursor AI Code Editor.",
+      "screen_action": "Highlight top feature: Deep repository-wide codebase indexing and context understanding.",
+      "voiceover_script": "Here's what makes it awesome: First, Deep repository-wide codebase indexing and context understanding. Plus, Native multi-file edits via Cmd+K and Composer.",
+      "text_overlay": "PROS: High Efficiency & Great UX"
+    },
+    {
+      "scene_id": 3,
+      "timestamp": "0:25 - 0:40",
+      "purpose": "The Bad (Cons)",
+      "google_flow_prompt": "Split screen transition showing memory monitor graph peaking alongside developer inspecting code settings. Dynamic camera tilt with subtle warm warning orange lighting accents.",
+      "screen_action": "Show caution badge and callout: Requires monthly subscription for high-fast Claude 3.5 Sonnet queries.",
+      "voiceover_script": "But watch out for the downside: Requires monthly subscription for high-fast Claude 3.5 Sonnet queries.",
+      "text_overlay": "CONS: Key Drawbacks"
+    },
+    {
+      "scene_id": 4,
+      "timestamp": "0:40 - 0:55",
+      "purpose": "Pricing & Who It's Best For",
+      "google_flow_prompt": "Clean sleek 3D graphic overlay of pricing card floating above developer workstation with smooth light reflections. Text badges for Freemium ($20/mo Pro).",
+      "screen_action": "Display Pricing Badge: Freemium ($20/mo Pro) | Best For: Full-stack and AI-assisted developers seeking ultra-fast code generation and refactoring.",
+      "voiceover_script": "Pricing-wise, it's Freemium ($20/mo Pro). It is best suited for Full-stack and AI-assisted developers seeking ultra-fast code generation and refactoring..",
+      "text_overlay": "PRICING: Freemium ($20/mo Pro)"
+    },
+    {
+      "scene_id": 5,
+      "timestamp": "0:55 - 1:00",
+      "purpose": "Call to Action & Non-Sponsorship Disclaimer",
+      "google_flow_prompt": "Cinematic end screen with IDE Guide logo bouncing subtly over a clean dark ambient coding background. On-screen disclaimer text box.",
+      "screen_action": "Subscribe to @IDEguide & Read Full Review on ideguide.blogspot.com",
+      "voiceover_script": "Subscribe to IDE Guide for daily unbiased dev tool reviews! We are 100% independent and unsponsored.",
+      "text_overlay": "Subscribe to @IDEguide | ideguide.blogspot.com"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
