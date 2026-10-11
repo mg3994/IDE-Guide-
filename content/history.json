@@ -1,0 +1,11 @@
+{
+  "covered_ide_ids": [
+    "vscode",
+    "cursor",
+    "intellij_idea",
+    "pycharm",
+    "zed",
+    "neovim"
+  ],
+  "last_updated": "2026-10-11T22:30:42.069749+00:00"
+}
