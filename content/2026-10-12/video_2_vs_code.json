@@ -1,0 +1,60 @@
+{
+  "title": "Visual Studio Code - Complete Developer Breakdown",
+  "target_platform": "YouTube Shorts & Standard Video (@IDEguide)",
+  "ratio": "9:16 vertical & 16:9 widescreen",
+  "ide_name": "Visual Studio Code",
+  "pricing_type": "Free & Open Source Core",
+  "google_flow_prompts": [
+    {
+      "scene_number": 1,
+      "scene_title": "Hook & Visual Intro",
+      "duration_seconds": 5,
+      "visual_prompt": "Ultra-detailed 4K cinematic close-up of Visual Studio Code interface on a dark curved monitor, vivid neon code highlight animation, camera slow pan right with shallow depth of field.",
+      "camera_movement": "Cinematic slow pan right",
+      "lighting": "Dark aesthetic workspace, neon blue and ambient LED desktop backlighting",
+      "voiceover_script": "Is Visual Studio Code the best code editor for developers right now? Here is the honest breakdown in 60 seconds.",
+      "text_overlay": "Visual Studio Code Review | IDE Guide"
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Overview & Best Use Case",
+      "duration_seconds": 15,
+      "visual_prompt": "Over-the-shoulder shot of a software developer typing code in Visual Studio Code, showing smooth autocompletion and file explorer navigation.",
+      "camera_movement": "Over-the-shoulder steady tracking shot",
+      "lighting": "Clean studio lighting, crisp high-contrast monitor output",
+      "voiceover_script": "Developed as a Extensible Code Editor, Visual Studio Code excels at fast iteration. It's best for Web developers, generalists, and open-source contributors.",
+      "text_overlay": "Category: Extensible Code Editor\nBest For: Web developers, generalists, and open-source contributors."
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "The Good (Key Features)",
+      "duration_seconds": 18,
+      "visual_prompt": "Split dynamic screen highlighting key strengths of Visual Studio Code: Massive extension ecosystem, Lightweight startup with customizable UI, Built-in Git and terminal integration. Smooth green checkmark graphic overlay.",
+      "camera_movement": "Dynamic screen split transition",
+      "lighting": "Bright green accent glow on features list",
+      "voiceover_script": "The good? You get Massive extension ecosystem, plus Lightweight startup with customizable UI. Efficiency and speed are top-notch.",
+      "text_overlay": "PROS:\n- Massive extension ecosystem\n- Lightweight startup with customizable UI"
+    },
+    {
+      "scene_number": 4,
+      "scene_title": "The Bad & Pricing",
+      "duration_seconds": 12,
+      "visual_prompt": "Red accent screen callout showing trade-offs: High memory consumption with dozens of active extensions. Followed by price tag display: Free & Open Source Core.",
+      "camera_movement": "Fast push zoom to price tag badge",
+      "lighting": "Subtle dark red ambient accent lighting",
+      "voiceover_script": "The bad? Watch out for High memory consumption with dozens of active extensions. Price-wise, it offers Free & Open Source Core.",
+      "text_overlay": "CONS: High memory consumption with dozens of active extensions\nPRICING: Free & Open Source Core"
+    },
+    {
+      "scene_number": 5,
+      "scene_title": "Verdict & Non-Sponsorship Disclaimer",
+      "duration_seconds": 10,
+      "visual_prompt": "Clean studio camera view of modern developer desk with glowing IDE Guide logo. Clear transparent banner with objective disclaimer text.",
+      "camera_movement": "Slow zoom out to full studio desk",
+      "lighting": "Warm ambient studio illumination",
+      "voiceover_script": "Subscribe to IDE Guide for daily editor reviews. Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+      "text_overlay": "IDE Guide - Independent Review\nSubscribe @IDEguide"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
