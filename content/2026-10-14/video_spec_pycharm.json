@@ -1,0 +1,72 @@
+{
+  "ide_id": "pycharm",
+  "ide_name": "PyCharm",
+  "channel": "@IDEguide",
+  "youtube_url": "https://www.youtube.com/@IDEguide",
+  "blogger_url": "https://ideguide.blogspot.com/",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "shorts_spec": {
+    "title": "PyCharm - Is it worth it? (1-Min Review)",
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "duration_seconds": 45,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "google_flow_prompt": "Ultra clean cinematic studio shot of a workstation glowing in dark mode with PyCharm interface open, high contrast macro lens on screen.",
+        "framing": "Vertical 9:16 Close-Up",
+        "camera_angle": "Slow forward dolly push",
+        "audio_narration": "Looking for the best code editor? Let's break down PyCharm in 45 seconds!",
+        "overlay_text": "PyCharm\nSpecialized Python IDE"
+      },
+      {
+        "scene_number": 2,
+        "google_flow_prompt": "Detailed interface view of PyCharm showing code auto-complete and key features in action, mechanical keyboard blurred in foreground.",
+        "framing": "Vertical 9:16 Medium Shot",
+        "camera_angle": "Pan right across editor tabs",
+        "audio_narration": "Here are the top pros: First-class Python virtualenv, Conda, and Docker container support, Integrated Jupyter Notebook support in Professional edition.",
+        "overlay_text": "TOP ADVANTAGES"
+      },
+      {
+        "scene_number": 3,
+        "google_flow_prompt": "Split comparison visual displaying pricing details for PyCharm: Freemium / Paid.",
+        "framing": "Vertical 9:16 Center Focus",
+        "camera_angle": "Static macro view",
+        "audio_narration": "Pricing model: Community Edition Free, Professional Edition $99+/year. Overall verdict: Top choice for professional Python and Django developers.",
+        "overlay_text": "PRICING: Freemium / Paid"
+      }
+    ]
+  },
+  "full_video_spec": {
+    "title": "PyCharm Comprehensive Breakdown - Features, Pros, Cons & Pricing",
+    "aspect_ratio": "16:9",
+    "resolution": "1920x1080",
+    "duration_seconds": 300,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "google_flow_prompt": "Sleek developer setup with ambient RGB lighting, widescreen display rendering PyCharm IDE in high resolution.",
+        "framing": "Horizontal 16:9 Wide Shot",
+        "camera_angle": "Over-the-shoulder developer view",
+        "audio_narration": "Welcome back to IDE Guide! Today we analyze PyCharm built by JetBrains.",
+        "overlay_text": "IDE GUIDE EVALUATION: PyCharm"
+      },
+      {
+        "scene_number": 2,
+        "google_flow_prompt": "Dynamic screen recording animation showing PyCharm code navigation, extension hub, and auto-complete speed.",
+        "framing": "Horizontal 16:9 Full Screen UI",
+        "camera_angle": "Smooth zoom into terminal",
+        "audio_narration": "Key features include: Python Debugger, Django/FastAPI Support, Jupyter Notebook Integration, Conda/Docker Support.",
+        "overlay_text": "KEY FEATURES & WORKFLOW"
+      },
+      {
+        "scene_number": 3,
+        "google_flow_prompt": "High quality graphical breakdown card displaying Pros vs Cons for PyCharm.",
+        "framing": "Horizontal 16:9 Split Graphics",
+        "camera_angle": "Static presentation view",
+        "audio_narration": "On the pros side: First-class Python virtualenv, Conda, and Docker container support, Integrated Jupyter Notebook support in Professional edition, Powerful Django/FastAPI/Flask framework debugging and routing tools, Built-in code inspector catching Python PEP8 violations instantly. On the cons side: Heavy resource utilization compared to VS Code Python extension, Professional features locked behind subscription, Initial project indexing time.",
+        "overlay_text": "PROS & CONS ASSESSMENT"
+      }
+    ]
+  }
+}

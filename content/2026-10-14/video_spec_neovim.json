@@ -1,0 +1,72 @@
+{
+  "ide_id": "neovim",
+  "ide_name": "Neovim",
+  "channel": "@IDEguide",
+  "youtube_url": "https://www.youtube.com/@IDEguide",
+  "blogger_url": "https://ideguide.blogspot.com/",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "shorts_spec": {
+    "title": "Neovim - Is it worth it? (1-Min Review)",
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "duration_seconds": 45,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "google_flow_prompt": "Ultra clean cinematic studio shot of a workstation glowing in dark mode with Neovim interface open, high contrast macro lens on screen.",
+        "framing": "Vertical 9:16 Close-Up",
+        "camera_angle": "Slow forward dolly push",
+        "audio_narration": "Looking for the best code editor? Let's break down Neovim in 45 seconds!",
+        "overlay_text": "Neovim\nModal Terminal Code Editor"
+      },
+      {
+        "scene_number": 2,
+        "google_flow_prompt": "Detailed interface view of Neovim showing code auto-complete and key features in action, mechanical keyboard blurred in foreground.",
+        "framing": "Vertical 9:16 Medium Shot",
+        "camera_angle": "Pan right across editor tabs",
+        "audio_narration": "Here are the top pros: Ultra-fast startup and practically zero memory overhead, Infinite customizability using Lua configuration.",
+        "overlay_text": "TOP ADVANTAGES"
+      },
+      {
+        "scene_number": 3,
+        "google_flow_prompt": "Split comparison visual displaying pricing details for Neovim: Free / Open Source.",
+        "framing": "Vertical 9:16 Center Focus",
+        "camera_angle": "Static macro view",
+        "audio_narration": "Pricing model: 100% Free (Vim License / Apache). Overall verdict: The ultimate customizable tool for developers who love terminal speed.",
+        "overlay_text": "PRICING: Free / Open Source"
+      }
+    ]
+  },
+  "full_video_spec": {
+    "title": "Neovim Comprehensive Breakdown - Features, Pros, Cons & Pricing",
+    "aspect_ratio": "16:9",
+    "resolution": "1920x1080",
+    "duration_seconds": 300,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "google_flow_prompt": "Sleek developer setup with ambient RGB lighting, widescreen display rendering Neovim IDE in high resolution.",
+        "framing": "Horizontal 16:9 Wide Shot",
+        "camera_angle": "Over-the-shoulder developer view",
+        "audio_narration": "Welcome back to IDE Guide! Today we analyze Neovim built by Community Open Source.",
+        "overlay_text": "IDE GUIDE EVALUATION: Neovim"
+      },
+      {
+        "scene_number": 2,
+        "google_flow_prompt": "Dynamic screen recording animation showing Neovim code navigation, extension hub, and auto-complete speed.",
+        "framing": "Horizontal 16:9 Full Screen UI",
+        "camera_angle": "Smooth zoom into terminal",
+        "audio_narration": "Key features include: Lua Scripting, Native LSP Client, Treesitter Syntax Highlighting, Asynchronous Plugin Architecture.",
+        "overlay_text": "KEY FEATURES & WORKFLOW"
+      },
+      {
+        "scene_number": 3,
+        "google_flow_prompt": "High quality graphical breakdown card displaying Pros vs Cons for Neovim.",
+        "framing": "Horizontal 16:9 Split Graphics",
+        "camera_angle": "Static presentation view",
+        "audio_narration": "On the pros side: Ultra-fast startup and practically zero memory overhead, Infinite customizability using Lua configuration, Built-in Language Server Protocol (LSP) support, Keyboard-driven workflow eliminating mouse usage. On the cons side: Extremely steep learning curve for modal editing, Requires manual setup and plugin management for IDE features, Not GUI-native out of the box.",
+        "overlay_text": "PROS & CONS ASSESSMENT"
+      }
+    ]
+  }
+}
