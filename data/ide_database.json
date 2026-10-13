@@ -1,0 +1,232 @@
+[
+  {
+    "id": "vscode",
+    "name": "Visual Studio Code (VS Code)",
+    "vendor": "Microsoft",
+    "category": "General Purpose Code Editor",
+    "pricing_type": "Free / Open Source (Core)",
+    "pricing_details": "Free (MIT License core / Freeware build)",
+    "target_audience": "Web, Cloud, Full-Stack, Python, Node.js developers",
+    "pros": [
+      "Extremely rich ecosystem with thousands of extensions",
+      "Lightweight, snappy performance with fast startup",
+      "Deep Git integration and terminal support",
+      "Massive community support and continuous monthly updates"
+    ],
+    "cons": [
+      "Requires heavy extension setup for full IDE capabilities",
+      "Memory footprint can grow high with many extensions active",
+      "Default telemetries require manual opt-out"
+    ],
+    "verdict": "Best all-rounder free code editor for modern multi-language development.",
+    "key_features": ["IntelliSense auto-completion", "Built-in Git control", "Extension Marketplace", "Integrated Terminal", "Remote SSH & Containers"],
+    "tags": ["web", "python", "javascript", "free", "popular"]
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "vendor": "Anysphere",
+    "category": "AI-Native Code Editor",
+    "pricing_type": "Freemium / Paid",
+    "pricing_details": "Free tier with limits, Pro at $20/month",
+    "target_audience": "Developers seeking deep AI-assisted coding and auto-refactoring",
+    "pros": [
+      "Deep codebase indexing for multi-file context awareness",
+      "Native AI inline editing, chat, and auto-complete",
+      "Forked from VS Code, compatible with all VS Code extensions",
+      "Blazing fast AI context lookup and prompt execution"
+    ],
+    "cons": [
+      "Paid plans required for heavy LLM usage",
+      "Proprietary AI features rely on cloud processing",
+      "Can occasionally generate hallucinated code edits"
+    ],
+    "verdict": "Best AI-native editor for developer productivity and codebase navigation.",
+    "key_features": ["Codebase Context Chat", "Inline AI Editing (Cmd+K)", "Cursor Tab Auto-Complete", "VS Code Extension Compatibility"],
+    "tags": ["ai", "productivity", "paid", "vscode-fork"]
+  },
+  {
+    "id": "intellij-idea",
+    "name": "IntelliJ IDEA",
+    "vendor": "JetBrains",
+    "category": "Full-Featured Enterprise IDE",
+    "pricing_type": "Freemium / Paid",
+    "pricing_details": "Community Edition Free, Ultimate Edition $169+/year",
+    "target_audience": "Java, Kotlin, Scala, Enterprise Backend, and Microservices Developers",
+    "pros": [
+      "Industry-leading smart code analysis and refactoring engine",
+      "Deep out-of-the-box support for Spring Boot, Maven, and Gradle",
+      "Advanced database tools and built-in HTTP client",
+      "Unrivaled code navigation in large multi-module projects"
+    ],
+    "cons": [
+      "High RAM consumption (requires 16GB+ RAM for large projects)",
+      "Steep learning curve and subscription cost for Ultimate features",
+      "Slower initial indexing on large projects"
+    ],
+    "verdict": "The undisputed gold standard for Java and enterprise JVM development.",
+    "key_features": ["Advanced Java/Kotlin Refactoring", "Database Console", "Spring Framework Integration", "Smart Code Completion"],
+    "tags": ["java", "kotlin", "enterprise", "jetbrains", "paid"]
+  },
+  {
+    "id": "pycharm",
+    "name": "PyCharm",
+    "vendor": "JetBrains",
+    "category": "Specialized Python IDE",
+    "pricing_type": "Freemium / Paid",
+    "pricing_details": "Community Edition Free, Professional Edition $99+/year",
+    "target_audience": "Python, Data Science, Django, Fast API, and Machine Learning Engineers",
+    "pros": [
+      "First-class Python virtualenv, Conda, and Docker container support",
+      "Integrated Jupyter Notebook support in Professional edition",
+      "Powerful Django/FastAPI/Flask framework debugging and routing tools",
+      "Built-in code inspector catching Python PEP8 violations instantly"
+    ],
+    "cons": [
+      "Heavy resource utilization compared to VS Code Python extension",
+      "Professional features locked behind subscription",
+      "Initial project indexing time"
+    ],
+    "verdict": "Top choice for professional Python and Django developers.",
+    "key_features": ["Python Debugger", "Django/FastAPI Support", "Jupyter Notebook Integration", "Conda/Docker Support"],
+    "tags": ["python", "datascience", "django", "jetbrains"]
+  },
+  {
+    "id": "neovim",
+    "name": "Neovim",
+    "vendor": "Community Open Source",
+    "category": "Modal Terminal Code Editor",
+    "pricing_type": "Free / Open Source",
+    "pricing_details": "100% Free (Vim License / Apache)",
+    "target_audience": "Power users, CLI enthusiasts, and developers who demand extreme efficiency",
+    "pros": [
+      "Ultra-fast startup and practically zero memory overhead",
+      "Infinite customizability using Lua configuration",
+      "Built-in Language Server Protocol (LSP) support",
+      "Keyboard-driven workflow eliminating mouse usage"
+    ],
+    "cons": [
+      "Extremely steep learning curve for modal editing",
+      "Requires manual setup and plugin management for IDE features",
+      "Not GUI-native out of the box"
+    ],
+    "verdict": "The ultimate customizable tool for developers who love terminal speed.",
+    "key_features": ["Lua Scripting", "Native LSP Client", "Treesitter Syntax Highlighting", "Asynchronous Plugin Architecture"],
+    "tags": ["terminal", "vim", "free", "lightweight", "fast"]
+  },
+  {
+    "id": "zed",
+    "name": "Zed Editor",
+    "vendor": "Zed Industries",
+    "category": "High-Performance Code Editor",
+    "pricing_type": "Free / Open Source",
+    "pricing_details": "Free (GPL / AGPL core)",
+    "target_audience": "Developers who prioritize raw editor speed and minimal UI latency",
+    "pros": [
+      "Written in Rust with GPU acceleration for 120 FPS rendering",
+      "Instant startup time with near-zero lag",
+      "Built-in multiplayer pair programming tools",
+      "Native AI integration (Claude, OpenAI, Ollama)"
+    ],
+    "cons": [
+      "Smaller extension ecosystem compared to VS Code",
+      "Linux and Windows support newer than macOS release",
+      "Fewer legacy plugin integrations"
+    ],
+    "verdict": "The fastest modern code editor on the market with a bright future.",
+    "key_features": ["GPU-Accelerated Rendering", "Rust Core Engine", "Collaborative CRDT Editing", "Native AI Chat"],
+    "tags": ["rust", "fast", "gpu", "free", "lightweight"]
+  },
+  {
+    "id": "windsurf",
+    "name": "Windsurf",
+    "vendor": "Codeium",
+    "category": "Agentic AI IDE",
+    "pricing_type": "Freemium / Paid",
+    "pricing_details": "Free tier available, Pro at $15/month",
+    "target_audience": "Developers looking for autonomous AI cascade flows and deep code synthesis",
+    "pros": [
+      "Cascade Agent mode capable of multi-step code generation and terminal execution",
+      "Deep real-time codebase indexing",
+      "Seamless integration with Codeium's fast AI models",
+      "VS Code compatible ecosystem"
+    ],
+    "cons": [
+      "Subscription required for heavy agentic credits",
+      "Cloud dependency for AI agent execution",
+      "Requires user supervision for complex multi-file edits"
+    ],
+    "verdict": "Cutting-edge AI agent IDE that actively collaborates with developers.",
+    "key_features": ["Cascade AI Agent", "Supercomplete Auto-Complete", "Terminal Execution AI", "VS Code Engine"],
+    "tags": ["ai", "codeium", "agentic", "paid"]
+  },
+  {
+    "id": "webstorm",
+    "name": "WebStorm",
+    "vendor": "JetBrains",
+    "category": "JavaScript & TypeScript IDE",
+    "pricing_type": "Paid (Free for Non-Commercial)",
+    "pricing_details": "Free for personal non-commercial, $69/year commercial",
+    "target_audience": "Frontend, React, Vue, Angular, Node.js, and Full-Stack JS/TS Developers",
+    "pros": [
+      "Best-in-class JavaScript, TypeScript, and JSX refactoring",
+      "Auto-importing and real-time type checking without delay",
+      "Integrated testing tools for Jest, Vitest, and Cypress",
+      "Out-of-the-box support for modern JS frameworks"
+    ],
+    "cons": [
+      "Higher memory consumption than lightweight web editors",
+      "Commercial license required for paid corporate projects",
+      "Slight initial load times"
+    ],
+    "verdict": "The premier IDE for serious JavaScript and TypeScript professionals.",
+    "key_features": ["TypeScript Refactoring", "React/Vue/Angular Directives", "Built-in Test Runner", "Git & HTTP Client"],
+    "tags": ["javascript", "typescript", "react", "jetbrains"]
+  },
+  {
+    "id": "sublime-text",
+    "name": "Sublime Text 4",
+    "vendor": "Sublime HQ",
+    "category": "Ultra-Fast Text & Code Editor",
+    "pricing_type": "Paid Shareware",
+    "pricing_details": "Free evaluation without time limit, $99 per license",
+    "target_audience": "Developers wanting instant, fluid text editing without lag",
+    "pros": [
+      "Near-instantaneous startup speed and file opening",
+      "GPU rendering hardware acceleration",
+      "Multi-caret selection and editing pioneer",
+      "Extensive Package Control system"
+    ],
+    "cons": [
+      "Lacks full IDE features like native debugging out of the box",
+      "License pop-up reminders on free evaluation",
+      "Smaller ecosystem than VS Code"
+    ],
+    "verdict": "Unmatched text-editing responsiveness and clean UI minimalism.",
+    "key_features": ["GPU Accelerated Canvas", "Multiple Selections", "Goto Anything (Cmd+P)", "Python API Plugins"],
+    "tags": ["fast", "lightweight", "shareware", "c++"]
+  },
+  {
+    "id": "xcode",
+    "name": "Xcode",
+    "vendor": "Apple",
+    "category": "Apple Platform IDE",
+    "pricing_type": "Free",
+    "pricing_details": "Free on macOS App Store",
+    "target_audience": "iOS, macOS, watchOS, visionOS, and Swift developers",
+    "pros": [
+      "Essential tool for building native Apple platform applications",
+      "SwiftUI interactive live previews and visual canvas",
+      "Integrated Instruments tool for CPU/Memory profiling",
+      "Direct app submission to Apple App Store Connect"
+    ],
+    "cons": [
+      "Exclusive to macOS hardware",
+      "Large download size (12GB+)",
+      "Occasional indexing crashes and simulator sluggishness"
+    ],
+    "verdict": "The mandatory, feature-rich IDE for all Apple ecosystem developers.",
+    "key_features": ["SwiftUI Previews", "Instruments Profiler", "Interface Builder", "iOS Simulator"],
+    "tags": ["swift", "apple", "ios", "macos", "free"]
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "covered_ides": [
+    "vscode",
+    "cursor",
+    "intellij-idea",
+    "pycharm",
+    "neovim",
+    "zed"
+  ],
+  "daily_runs": [
+    {
+      "date": "2026-10-13",
+      "ides": [
+        "vscode",
+        "cursor",
+        "intellij-idea"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "ides": [
+        "pycharm",
+        "neovim",
+        "zed"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "ides": [
+        "windsurf",
+        "webstorm",
+        "sublime-text"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "ides": [
+        "vscode",
+        "cursor",
+        "intellij-idea"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "ides": [
+        "pycharm",
+        "neovim",
+        "zed"
+      ]
+    }
+  ]
+}
