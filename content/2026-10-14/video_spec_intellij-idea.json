@@ -1,0 +1,50 @@
+{
+  "channel": "@IDEguide",
+  "video_title": "IntelliJ IDEA in 60 Seconds: Pros, Cons, and Verdict!",
+  "target_platform": "YouTube Shorts / Google Flow AI Video",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 60,
+  "ide_metadata": {
+    "name": "IntelliJ IDEA",
+    "pricing": "Freemium (Community Free / Ultimate Paid)",
+    "category": "Enterprise IDE"
+  },
+  "prompts": [
+    {
+      "scene_id": 1,
+      "timeframe": "0-10s",
+      "visual_prompt": "Close-up high-tech macro shot of code syntax on dark screen inside IntelliJ IDEA editor interface. Dramatic blue and neon purple rim light. Cinematic slow zoom in.",
+      "audio_script": "Are you thinking about switching to IntelliJ IDEA? Here is what you need to know in 60 seconds!",
+      "on_screen_text": "IntelliJ IDEA: Ultimate Guide"
+    },
+    {
+      "scene_id": 2,
+      "timeframe": "10-25s",
+      "visual_prompt": "Smooth screen recording animation showcasing key feature of IntelliJ IDEA. Clean developer desk with mechanical keyboard in foreground.",
+      "audio_script": "The Good: Industry-standard Java refactoring and code analysis, and Deep Framework support (Spring, Kotlin, Java EE).",
+      "on_screen_text": "PROS: Industry-standard Java refactoring and code analysis"
+    },
+    {
+      "scene_id": 3,
+      "timeframe": "25-40s",
+      "visual_prompt": "Red subtle glow accent light focusing on developer terminal window with speed test comparison graphics.",
+      "audio_script": "The Bad: Keep in mind that Resource intensive (high RAM footprint).",
+      "on_screen_text": "CONS: Resource intensive (high RAM footprint)"
+    },
+    {
+      "scene_id": 4,
+      "timeframe": "40-55s",
+      "visual_prompt": "Split screen showing pricing badge and developer typing smoothly at high speed.",
+      "audio_script": "Pricing model is Freemium (Community Free / Ultimate Paid). Best for: Enterprise Java, Kotlin, and Scala backend engineers.",
+      "on_screen_text": "Pricing: Freemium (Community Free / Ultimate Paid)"
+    },
+    {
+      "scene_id": 5,
+      "timeframe": "55-60s",
+      "visual_prompt": "IDE Guide logo animation with YouTube subscribe prompt overlay.",
+      "audio_script": "Subscribe to IDE Guide for daily objective editor reviews!",
+      "on_screen_text": "Subscribe to @IDEguide"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
