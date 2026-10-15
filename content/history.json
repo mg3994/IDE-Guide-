@@ -1,0 +1,87 @@
+{
+  "covered_ids": [
+    "vscode",
+    "cursor-ai",
+    "intellij-idea",
+    "neovim",
+    "zed-editor",
+    "pycharm",
+    "windsurf",
+    "sublime-text",
+    "replit"
+  ],
+  "runs": [
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T22:31:19.658904+00:00",
+      "generated_items": [
+        {
+          "ide_id": "vscode",
+          "ide_name": "Visual Studio Code",
+          "blog_post": "/tmp/tmpx_81jsqr/vscode_blog_post.html",
+          "google_flow_spec": "/tmp/tmpx_81jsqr/vscode_google_flow_spec.json"
+        },
+        {
+          "ide_id": "cursor-ai",
+          "ide_name": "Cursor AI",
+          "blog_post": "/tmp/tmpx_81jsqr/cursor-ai_blog_post.html",
+          "google_flow_spec": "/tmp/tmpx_81jsqr/cursor-ai_google_flow_spec.json"
+        },
+        {
+          "ide_id": "intellij-idea",
+          "ide_name": "JetBrains IntelliJ IDEA",
+          "blog_post": "/tmp/tmpx_81jsqr/intellij-idea_blog_post.html",
+          "google_flow_spec": "/tmp/tmpx_81jsqr/intellij-idea_google_flow_spec.json"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T22:32:08.674861+00:00",
+      "generated_items": [
+        {
+          "ide_id": "neovim",
+          "ide_name": "Neovim",
+          "blog_post": "/tmp/tmpo_zwnhn2/neovim_blog_post.html",
+          "google_flow_spec": "/tmp/tmpo_zwnhn2/neovim_google_flow_spec.json"
+        },
+        {
+          "ide_id": "zed-editor",
+          "ide_name": "Zed Editor",
+          "blog_post": "/tmp/tmpo_zwnhn2/zed-editor_blog_post.html",
+          "google_flow_spec": "/tmp/tmpo_zwnhn2/zed-editor_google_flow_spec.json"
+        },
+        {
+          "ide_id": "pycharm",
+          "ide_name": "PyCharm",
+          "blog_post": "/tmp/tmpo_zwnhn2/pycharm_blog_post.html",
+          "google_flow_spec": "/tmp/tmpo_zwnhn2/pycharm_google_flow_spec.json"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T22:32:58.531849+00:00",
+      "generated_items": [
+        {
+          "ide_id": "windsurf",
+          "ide_name": "Windsurf Editor",
+          "blog_post": "/tmp/tmpc39q8mfq/windsurf_blog_post.html",
+          "google_flow_spec": "/tmp/tmpc39q8mfq/windsurf_google_flow_spec.json"
+        },
+        {
+          "ide_id": "sublime-text",
+          "ide_name": "Sublime Text 4",
+          "blog_post": "/tmp/tmpc39q8mfq/sublime-text_blog_post.html",
+          "google_flow_spec": "/tmp/tmpc39q8mfq/sublime-text_google_flow_spec.json"
+        },
+        {
+          "ide_id": "replit",
+          "ide_name": "Replit",
+          "blog_post": "/tmp/tmpc39q8mfq/replit_blog_post.html",
+          "google_flow_spec": "/tmp/tmpc39q8mfq/replit_google_flow_spec.json"
+        }
+      ]
+    }
+  ]
+}
