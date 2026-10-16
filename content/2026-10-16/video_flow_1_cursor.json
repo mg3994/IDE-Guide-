@@ -1,0 +1,45 @@
+{
+  "title": "Cursor AI - Pros, Cons & Pricing Breakdown | IDE Guide",
+  "target_channel": "@IDEguide",
+  "formats": [
+    "YouTube Shorts (9:16)",
+    "YouTube Video (16:9)"
+  ],
+  "ide_metadata": {
+    "id": "cursor",
+    "name": "Cursor AI",
+    "category": "AI-Powered Code Editor",
+    "pricing_type": "Freemium"
+  },
+  "flow_visual_prompts": [
+    {
+      "scene": 1,
+      "name": "Hook & Overview",
+      "duration_seconds": 5,
+      "visual_prompt": "Cinematic 4K dolly shot of modern dark-mode desk setup showing Cursor AI code editor on ultra-wide monitor with ambient neon purple and cyan LED backlight, sleek developer vibe, sharp focus.",
+      "voiceover_script": "Is Cursor AI the best AI-Powered Code Editor for your coding setup today? Let's break down the good, the bad, and the pricing in 60 seconds!"
+    },
+    {
+      "scene": 2,
+      "name": "The Good (Pros)",
+      "duration_seconds": 15,
+      "visual_prompt": "Macro close-up screen recording effect of Cursor AI showcasing fast code completion, smooth syntax highlighting, and instant response. Modern high-tech UI graphic overlays.",
+      "voiceover_script": "First, the good: Native AI integration built directly into VS Code fork. Plus, Multi-file edit prediction and agentic repository chat."
+    },
+    {
+      "scene": 3,
+      "name": "The Bad (Cons)",
+      "duration_seconds": 15,
+      "visual_prompt": "Split contrast screen animation with high-tech red glow warning indicator highlighting drawbacks of Cursor AI, fast camera pan across workspace.",
+      "voiceover_script": "On the downside: Proprietary backend for AI features. Keep in mind that Requires monthly subscription for heavy AI feature access."
+    },
+    {
+      "scene": 4,
+      "name": "Pricing & Verdict",
+      "duration_seconds": 15,
+      "visual_prompt": "Dynamic graphic card animated in 3D displaying 'FREEMIUM' price tag and key recommendation badge, transitioning to IDE Guide YouTube subscribe button.",
+      "voiceover_script": "Pricing model is Freemium. Free tier available; Pro plan at $20/month for unlimited Claude 3.5 Sonnet & GPT-4o usage. Final verdict: Developers wanting bleeding-edge AI code generation directly integrated into a familiar VS Code workflow."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
