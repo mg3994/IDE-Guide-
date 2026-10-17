@@ -1,0 +1,45 @@
+{
+  "title": "Sublime Text - Pros, Cons & Pricing Breakdown | IDE Guide",
+  "target_channel": "@IDEguide",
+  "formats": [
+    "YouTube Shorts (9:16)",
+    "YouTube Video (16:9)"
+  ],
+  "ide_metadata": {
+    "id": "sublime_text",
+    "name": "Sublime Text",
+    "category": "Code Editor / IDE",
+    "pricing_type": "Paid"
+  },
+  "flow_visual_prompts": [
+    {
+      "scene": 1,
+      "name": "Hook & Overview",
+      "duration_seconds": 5,
+      "visual_prompt": "Cinematic 4K dolly shot of modern dark-mode desk setup showing Sublime Text code editor on ultra-wide monitor with ambient neon purple and cyan LED backlight, sleek developer vibe, sharp focus.",
+      "voiceover_script": "Is Sublime Text the best Code Editor / IDE for your coding setup today? Let's break down the good, the bad, and the pricing in 60 seconds!"
+    },
+    {
+      "scene": 2,
+      "name": "The Good (Pros)",
+      "duration_seconds": 15,
+      "visual_prompt": "Macro close-up screen recording effect of Sublime Text showcasing fast code completion, smooth syntax highlighting, and instant response. Modern high-tech UI graphic overlays.",
+      "voiceover_script": "First, the good: Tailored for efficient code editor / ide workflows. Plus, Extensible architecture and modern development features."
+    },
+    {
+      "scene": 3,
+      "name": "The Bad (Cons)",
+      "duration_seconds": 15,
+      "visual_prompt": "Split contrast screen animation with high-tech red glow warning indicator highlighting drawbacks of Sublime Text, fast camera pan across workspace.",
+      "voiceover_script": "On the downside: Requires initial setup and workflow adjustment. Keep in mind that Resource usage varies based on project size and active extensions."
+    },
+    {
+      "scene": 4,
+      "name": "Pricing & Verdict",
+      "duration_seconds": 15,
+      "visual_prompt": "Dynamic graphic card animated in 3D displaying 'PAID' price tag and key recommendation badge, transitioning to IDE Guide YouTube subscribe button.",
+      "voiceover_script": "Pricing model is Paid. Details for Sublime Text (Standard release). Final verdict: Developers looking for a modern Code Editor / IDE solution with customizable project options."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}

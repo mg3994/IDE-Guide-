@@ -1,0 +1,45 @@
+{
+  "title": "Visual Studio Code - Pros, Cons & Pricing Breakdown | IDE Guide",
+  "target_channel": "@IDEguide",
+  "formats": [
+    "YouTube Shorts (9:16)",
+    "YouTube Video (16:9)"
+  ],
+  "ide_metadata": {
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "category": "Extensible Code Editor",
+    "pricing_type": "Free / Open Source (Core)"
+  },
+  "flow_visual_prompts": [
+    {
+      "scene": 1,
+      "name": "Hook & Overview",
+      "duration_seconds": 5,
+      "visual_prompt": "Cinematic 4K dolly shot of modern dark-mode desk setup showing Visual Studio Code code editor on ultra-wide monitor with ambient neon purple and cyan LED backlight, sleek developer vibe, sharp focus.",
+      "voiceover_script": "Is Visual Studio Code the best Extensible Code Editor for your coding setup today? Let's break down the good, the bad, and the pricing in 60 seconds!"
+    },
+    {
+      "scene": 2,
+      "name": "The Good (Pros)",
+      "duration_seconds": 15,
+      "visual_prompt": "Macro close-up screen recording effect of Visual Studio Code showcasing fast code completion, smooth syntax highlighting, and instant response. Modern high-tech UI graphic overlays.",
+      "voiceover_script": "First, the good: Massive extension marketplace with over 50,000 extensions. Plus, Lightweight core with exceptional startup speed."
+    },
+    {
+      "scene": 3,
+      "name": "The Bad (Cons)",
+      "duration_seconds": 15,
+      "visual_prompt": "Split contrast screen animation with high-tech red glow warning indicator highlighting drawbacks of Visual Studio Code, fast camera pan across workspace.",
+      "voiceover_script": "On the downside: Heavy memory footprint when loading numerous extensions. Keep in mind that Microsoft telemetry included in default binary releases."
+    },
+    {
+      "scene": 4,
+      "name": "Pricing & Verdict",
+      "duration_seconds": 15,
+      "visual_prompt": "Dynamic graphic card animated in 3D displaying 'FREE / OPEN SOURCE (CORE)' price tag and key recommendation badge, transitioning to IDE Guide YouTube subscribe button.",
+      "voiceover_script": "Pricing model is Free / Open Source (Core). 100% Free under MIT license (Code-OSS) with official Microsoft builds available at no charge. Final verdict: Web developers, polyglot programmers, and anyone needing a fast, customizable code editor."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
