@@ -1,0 +1,46 @@
+{
+  "title": "JetBrains PyCharm Review & Comparison (2026-10-18) | IDE Guide",
+  "channel": "@IDEguide",
+  "target_platform": "YouTube Shorts & Main Video",
+  "pricing_badge": "FREEMIUM",
+  "pricing_details": "Community Edition is Free; Professional Edition at $99/year.",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration_seconds": 5,
+      "google_flow_prompt": "Cinematic 4K close-up shot of code editor interface showing JetBrains PyCharm logo and crisp syntax highlighting on dark mode screen with glowing neon cyan accents.",
+      "camera_movement": "Slow subtle push-in zoom towards code editor tab",
+      "lighting": "Cyberpunk dark room glow with soft key light on mechanical keyboard",
+      "on_screen_text": "IS JETBRAINS PYCHARM WORTH IT IN 2026?",
+      "voiceover_script": "Is JetBrains PyCharm actually worth switching to right now? Let's break down the pros, cons, and pricing in 60 seconds."
+    },
+    {
+      "scene_id": 2,
+      "duration_seconds": 15,
+      "google_flow_prompt": "Smooth screen recording style animation showing JetBrains PyCharm executing fast code auto-completion and file indexing in dark theme UI.",
+      "camera_movement": "Static high-definition screen focus with floating feature cards",
+      "lighting": "Clean studio lighting on monitor frame",
+      "on_screen_text": "PROS: Intelligent code completion, refactoring, and debugging",
+      "voiceover_script": "JetBrains PyCharm excels at intelligent code completion, refactoring, and debugging and built-in jupyter notebook and scientific stack integration."
+    },
+    {
+      "scene_id": 3,
+      "duration_seconds": 15,
+      "google_flow_prompt": "Split screen visual contrast showing code editor benchmarking performance and memory usage graphs in dark theme.",
+      "camera_movement": "Pan left to right across feature matrix",
+      "lighting": "Balanced volumetric display lighting",
+      "on_screen_text": "PRICING: Freemium (Community Edition is Free; Professional Edition at $99/year.)",
+      "voiceover_script": "Pricing-wise, it's Freemium. Community Edition is Free; Professional Edition at $99/year."
+    },
+    {
+      "scene_id": 4,
+      "duration_seconds": 10,
+      "google_flow_prompt": "High tech summary graphic showing final score badge and target audience card on minimalist dark workspace.",
+      "camera_movement": "Gentle pull-back shot showing laptop workspace",
+      "lighting": "Warm desk lamp contrast with dark blue background",
+      "on_screen_text": "VERDICT: The definitive IDE for serious Python engineers and data science workflows.",
+      "voiceover_script": "Our verdict: The definitive IDE for serious Python engineers and data science workflows. Subscribe to IDE Guide for daily developer comparisons!"
+    }
+  ]
+}
