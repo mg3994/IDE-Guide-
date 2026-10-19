@@ -1,0 +1,14 @@
+{
+  "covered_ids": [
+    "cursor",
+    "vscode",
+    "intellij_idea",
+    "neovim",
+    "zed",
+    "pycharm",
+    "webstorm",
+    "sublime_text",
+    "windsurf"
+  ],
+  "last_updated": "2026-10-19"
+}
