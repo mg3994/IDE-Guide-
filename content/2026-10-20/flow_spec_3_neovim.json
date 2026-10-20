@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "channel": "@IDEguide",
+    "youtube_url": "https://www.youtube.com/@IDEguide",
+    "ide_name": "Neovim",
+    "date": "2026-10-20",
+    "format": "Short (9:16 Vertical)",
+    "aspect_ratio": "9:16",
+    "target_duration": "60 Seconds",
+    "title": "The Truth About Neovim in 2026! (Pros, Cons & Pricing)"
+  },
+  "visual_and_camera_specifications": {
+    "framing": "Cyberpunk Tech Studio, Vertical/Horizontal 9:16",
+    "lighting": "Deep indigo studio background with vibrant emerald green and electric blue rim lights",
+    "camera_angles": [
+      {
+        "scene": 1,
+        "angle": "Dynamic Zoom-in on IDE startup screen and main logo",
+        "duration": "0-10s"
+      },
+      {
+        "scene": 2,
+        "angle": "Split-screen split view showing memory/RAM graph vs coding speed",
+        "duration": "10-30s"
+      },
+      {
+        "scene": 3,
+        "angle": "Macro close-up on code auto-complete and extension panel",
+        "duration": "30-50s"
+      },
+      {
+        "scene": 4,
+        "angle": "Wide camera shot with graphical overlay summary box",
+        "duration": "50-60s"
+      }
+    ],
+    "graphics_and_cues": "Holographic text overlays showing 'FREE vs PAID', top pros tick list, and final score banner."
+  },
+  "voiceover_script": {
+    "hook": "Stop choosing the wrong editor in 2026! Here is the honest developer verdict on Neovim.",
+    "pricing_segment": "Pricing breakdown: Free (Open Source / Apache 2.0). 100% Free and Open Source.",
+    "pros_segment": "Why developers love it: Ultra-lightweight with near-zero memory footprint (<30MB RAM), Unrivaled keyboard navigation speed and customizable Lua ecosystem, Built-in LSP (Language Server Protocol) and Tree-sitter AST syntax.",
+    "cons_segment": "What you need to watch out for: Steep learning curve for non-modal editor users, Significant initial effort required for custom Lua configuration.",
+    "recommendation_callout": "Final Recommendation: The absolute best choice for terminal purists and keyboard-driven efficiency power users."
+  },
+  "audio_directions": {
+    "background_music": "Energetic upbeat tech synthwave beat (BPM: 120)",
+    "sfx": "Subtle digital click SFX on text overlays and transition sweeps"
+  },
+  "disclaimer_overlay": {
+    "text": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+    "visual_position": "Bottom overlay text banner throughout ending sequence"
+  }
+}
