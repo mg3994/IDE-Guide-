@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "channel": "@IDEguide",
+    "youtube_url": "https://www.youtube.com/@IDEguide",
+    "ide_name": "Eclipse",
+    "repo_url": "https://github.com/topics/eclipse",
+    "date": "2026-10-20",
+    "format": "Short & Video Prompt Specification",
+    "aspect_ratio": "9:16 Vertical / 16:9 Horizontal",
+    "title": "Is Eclipse Worth It? Agentic IDE Review"
+  },
+  "visual_and_camera_specifications": {
+    "framing": "Sleek Dark Tech Studio, Cyberpunk accent glow",
+    "lighting": "Deep indigo studio background with neon blue rim light",
+    "camera_angles": [
+      {
+        "scene": 1,
+        "angle": "Zoom-in on editor splash screen and UI",
+        "duration": "0-10s"
+      },
+      {
+        "scene": 2,
+        "angle": "Macro focus on extension / code completion workflow",
+        "duration": "10-40s"
+      },
+      {
+        "scene": 3,
+        "angle": "Wide camera shot with summary score overlay",
+        "duration": "40-60s"
+      }
+    ],
+    "graphics_and_cues": "Overlays showcasing Eclipse pricing, pros/cons bullet points."
+  },
+  "voiceover_script": {
+    "hook": "Here is what you need to know before using Eclipse in your codebase!",
+    "pricing_segment": "Pricing breakdown: Evaluation Required (Free trial or Open Source / Paid tier).",
+    "pros_segment": "Top pros: Extremely specialized workflows for projects built with Eclipse, Modern interface with integrated developer tools and syntax engine, Extensible architecture supporting key language servers and extensions, Active developer community and regular maintenance updates.",
+    "cons_segment": "Potential cons: Requires initial setup and integration testing for custom projects, Resource consumption depends on active extensions and workspace size.",
+    "recommendation_callout": "Verdict: Eclipse provides robust development capabilities for engineers seeking specialized workflows."
+  },
+  "audio_directions": {
+    "background_music": "Upbeat tech synthwave track",
+    "sfx": "UI click and subtle visual transition sweeps"
+  },
+  "disclaimer_overlay": {
+    "text": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+    "visual_position": "Bottom banner overlay"
+  }
+}

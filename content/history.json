@@ -1,0 +1,10 @@
+{
+  "covered_ides": [
+    "vscode",
+    "cursor",
+    "neovim",
+    "intellij_idea",
+    "pycharm",
+    "zed"
+  ]
+}
