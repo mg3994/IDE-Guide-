@@ -1,0 +1,55 @@
+{
+  "video_meta": {
+    "title": "Cursor AI - Is It Worth Your Code Time? (IDE Guide)",
+    "channel": "@IDEguide",
+    "target_platform": "YouTube Shorts & Video",
+    "aspect_ratio": "9:16",
+    "duration_seconds": 60,
+    "topic": "Cursor AI",
+    "category": "AI-Native Code Editor"
+  },
+  "style_guidelines": {
+    "visual_theme": "Modern Dark Mode Code Editor Aesthetic with Cyber Neon Accents",
+    "camera_style": "Macro zooms on editor code blocks, dynamic fluid panning, 4K crisp code UI rendering",
+    "lighting": "Volumetric ambient purple/blue dark mode studio glow",
+    "audio": {
+      "voiceover_persona": "Tech-savvy, articulate, energetic developer advocate",
+      "background_track": "Upbeat minimalist lo-fi tech groove"
+    }
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "timestamp": "00:00 - 00:10",
+      "flow_prompt": "Close-up macro lens panning over ultra-clean dark theme UI of Cursor AI. Neon highlighted syntax code streaming on screen.",
+      "camera_motion": "Slow inward push zoom towards active line cursor.",
+      "voiceover": "Looking for the ultimate coding tool? Meet Cursor AI, the AI-Native Code Editor taking developer workflows by storm.",
+      "text_overlay": "Cursor AI: Ultimate Overview"
+    },
+    {
+      "scene_id": 2,
+      "timestamp": "00:10 - 00:30",
+      "flow_prompt": "Split screen visual displaying key features of Cursor AI: AI Agent Mode, Multi-file context editing. Smooth UI interaction graphics.",
+      "camera_motion": "Fluid side whip pan between code generation and terminal output.",
+      "voiceover": "What makes it special? Key highlights include AI Agent Mode and Multi-file context editing.",
+      "text_overlay": "Key Features Breakdown"
+    },
+    {
+      "scene_id": 3,
+      "timestamp": "00:30 - 00:45",
+      "flow_prompt": "Side-by-side comparison card comparing pros vs cons with glowing green checkmarks and subtle red indicators.",
+      "camera_motion": "Static focus with dynamic text pop-ins.",
+      "voiceover": "On pricing: Freemium ($20/mo Pro). Major pro: Unmatched AI coding speed. But watch out for: Paid subscription required for heavy usage.",
+      "text_overlay": "Pricing: Freemium ($20/mo Pro)"
+    },
+    {
+      "scene_id": 4,
+      "timestamp": "00:45 - 00:60",
+      "flow_prompt": "Cinematic pull-back shot showing full developer dual-monitor workstation with glowing code on screen.",
+      "camera_motion": "Smooth pull back and fade to channel brand card.",
+      "voiceover": "Is Cursor AI right for you? Developers seeking maximum AI coding velocity and automated code generation. Subscribe to IDE Guide for daily editor breakdowns!",
+      "text_overlay": "Subscribe @IDEguide for Daily IDE Insights"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}

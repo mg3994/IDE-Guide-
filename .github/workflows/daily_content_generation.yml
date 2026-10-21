@@ -1,0 +1,42 @@
+name: Daily Content Generation
+
+on:
+  schedule:
+    # Runs daily at 21:30 UTC (03:00 AM IST)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
+
+      - name: Run test suite
+        run: |
+          PYTHONPATH=. pytest tests/
+
+      - name: Generate daily 3 content packages
+        run: |
+          python scripts/generate_daily_content.py
+
+      - name: Commit and push generated content
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(content): automated daily content generation for Blogger & YouTube"
+          branch: ${{ github.ref_name }}
