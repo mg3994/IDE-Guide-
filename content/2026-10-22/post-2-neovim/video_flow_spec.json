@@ -1,0 +1,67 @@
+{
+  "channel": "@IDEguide",
+  "tool_id": "neovim",
+  "tool_name": "Neovim",
+  "target_formats": [
+    {
+      "type": "YouTube Standard",
+      "aspect_ratio": "16:9",
+      "resolution": "1920x1080",
+      "fps": 60
+    },
+    {
+      "type": "YouTube Shorts",
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920",
+      "fps": 60
+    }
+  ],
+  "visual_aesthetics": {
+    "style": "Dark mode code editor with neon highlight accents (cyan, magenta, yellow)",
+    "lighting": "Soft studio ambient backlight with cool blue edge glow on matte desk setup",
+    "environment": "Sleek developer workspace with high-refresh monitor showcasing code editor UI"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "Hook & Fast Introduction",
+      "duration_seconds": 7,
+      "visual_prompt": "Macro fast camera zoom-in on Neovim clean dark interface launching instantly on crisp monitor screen.",
+      "camera_motion": "Fast smooth push-in",
+      "narration_script": "Is Neovim the best code editor for your developer stack? Let's break down the good, the bad, and the pricing in 60 seconds!"
+    },
+    {
+      "scene_number": 2,
+      "title": "The Good (Pros Showcase)",
+      "duration_seconds": 18,
+      "visual_prompt": "Slow tracking pan across Neovim code editor showing syntax highlighting, intelligent code completion, and extension panel.",
+      "camera_motion": "Smooth left-to-right tracking pan",
+      "narration_script": "The Good: Near-zero latency and ultra-lightweight memory footprint. Plus, Extensible using Lua with a massive community plugin ecosystem."
+    },
+    {
+      "scene_number": 3,
+      "title": "The Bad (Cons & Limitations)",
+      "duration_seconds": 15,
+      "visual_prompt": "Close-up shot of system monitor RAM allocation or complex keybinding config overlay.",
+      "camera_motion": "Static close-up with subtle drift",
+      "narration_script": "The Bad: Steep initial learning curve for modal editing and Lua configuration."
+    },
+    {
+      "scene_number": 4,
+      "title": "Pricing & Licensing",
+      "duration_seconds": 10,
+      "visual_prompt": "Infographic visual graphic highlighting price model: Free & Open Source.",
+      "camera_motion": "Gentle zoom out to reveal comparison badge",
+      "narration_script": "Pricing: Free & Open Source."
+    },
+    {
+      "scene_number": 5,
+      "title": "Verdict & Non-Sponsorship Disclaimer",
+      "duration_seconds": 10,
+      "visual_prompt": "Wide shot of sleek workspace with prominent disclaimer overlay: 'Not Sponsored - Objective Review'.",
+      "camera_motion": "Steady static wide shot",
+      "narration_script": "Verdict: Terminal power users, DevOps engineers, and developers who prefer modal editing. Visit ideguide.blogspot.com for the full AMP breakdown!"
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}

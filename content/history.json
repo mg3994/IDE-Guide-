@@ -1,0 +1,28 @@
+{
+  "covered_ids": [
+    "vscode",
+    "cursor",
+    "zed",
+    "pycharm",
+    "neovim",
+    "intellij"
+  ],
+  "history_log": [
+    {
+      "date": "2026-10-22",
+      "tools": [
+        "vscode",
+        "cursor",
+        "zed"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "tools": [
+        "pycharm",
+        "neovim",
+        "intellij"
+      ]
+    }
+  ]
+}
