@@ -1,0 +1,29 @@
+{
+  "channel": "@IDEguide",
+  "tool_name": "Neovim",
+  "repository_url": null,
+  "target_formats": [
+    {
+      "type": "YouTube Standard",
+      "aspect_ratio": "16:9",
+      "resolution": "1920x1080"
+    },
+    {
+      "type": "YouTube Shorts",
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920"
+    }
+  ],
+  "visual_prompts": {
+    "style": "Dark mode code editor with neon cyan and magenta highlighting",
+    "lighting": "Clean studio lighting with soft ambient rim light on desk workspace",
+    "camera": "Dynamic close-ups, macro code focus, smooth tracking pans"
+  },
+  "narration_script": [
+    "Looking for an inside view on Neovim? Let's break down its top features, performance, and best developer use cases in 60 seconds!",
+    "The Good: Built with modern architecture, fast code parsing, and clean workspace ergonomics.",
+    "The Bad: Plugin ecosystem and keybinding setup may require initial configuration.",
+    "Verdict: Great option for modern software developers. Full AMP review live on ideguide.blogspot.com!"
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
