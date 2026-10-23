@@ -1,0 +1,30 @@
+{
+  "covered": [
+    "vscode",
+    "cursor",
+    "windsurf",
+    "intellij_idea",
+    "zed",
+    "neovim"
+  ],
+  "history": [
+    {
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T22:16:56.775254",
+      "selected_ides": [
+        "vscode",
+        "cursor",
+        "windsurf"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T22:17:14.990637+00:00",
+      "selected_ides": [
+        "intellij_idea",
+        "zed",
+        "neovim"
+      ]
+    }
+  ]
+}
