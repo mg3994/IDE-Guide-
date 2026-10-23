@@ -1,0 +1,43 @@
+name: Daily Content Generation
+
+on:
+  schedule:
+    # Runs daily at 21:30 UTC (03:00 AM IST)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Daily Content Generator
+        run: |
+          PYTHONPATH=. python3 scripts/generate_daily_content.py
+
+      - name: Run AMP HTML & Non-Sponsorship Compliance Checks
+        run: |
+          TODAY=$(date -u +'%Y-%m-%d')
+          for file in content/$TODAY/*.html; do
+            echo "Validating $file..."
+            PYTHONPATH=. python3 scripts/amp_validator.py "$file"
+          done
+
+      - name: Commit and Push Generated Content
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "auto: Daily content package generation for $(date -u +'%Y-%m-%d')"
+            git push
+          fi
