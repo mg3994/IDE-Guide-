@@ -1,0 +1,54 @@
+{
+  "title": "Is Windsurf Editor Worth Using in 2026? | IDE Guide Review",
+  "target_ide": "Windsurf Editor",
+  "format": "9:16 vertical (YouTube Shorts) / 16:9 widescreen compatible",
+  "duration_seconds": 60,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "timecode": "00:00 - 00:05",
+      "visual_prompt": "Cinematic dark mode coding workstation with glowing neon cyan lighting. Close-up shot showing code typing rapidly on screen with Windsurf Editor UI visible.",
+      "camera_movement": "Slow zoom in towards code editor cursor",
+      "narration_script": "Looking for the best code editor in 2026? Let's talk about Windsurf Editor.",
+      "on_screen_text": "IDE GUIDE: Windsurf Editor",
+      "audio_cues": "Upbeat high-tech synth drop."
+    },
+    {
+      "scene_id": 2,
+      "timecode": "00:05 - 00:20",
+      "visual_prompt": "Split screen visual showcasing pricing model label 'Freemium (Free tier / $15/mo Pro)' alongside IDE key interface features with clean motion graphics.",
+      "camera_movement": "Smooth pan across feature panel",
+      "narration_script": "Windsurf Editor is Freemium (Free tier / $15/mo Pro). Here is what makes it stand out for developers.",
+      "on_screen_text": "Pricing: Freemium (Free tier / $15/mo Pro)",
+      "audio_cues": "Rhythmic ambient beat."
+    },
+    {
+      "scene_id": 3,
+      "timecode": "00:20 - 00:40",
+      "visual_prompt": "Demonstration scene showing rapid code autocompletion, multi-file refactoring, and smooth navigation in Windsurf Editor.",
+      "camera_movement": "Dynamic tracking shot across code editor panel",
+      "narration_script": "Pros: Cascade AI agent with continuous codebase awareness. Plus, Smooth transition between command generation and automated refactoring.",
+      "on_screen_text": "PROS: Speed & Intelligence",
+      "audio_cues": "Energetic background track."
+    },
+    {
+      "scene_id": 4,
+      "timecode": "00:40 - 00:50",
+      "visual_prompt": "Close-up analytical view showing trade-offs, resource consumption meters, or plugin setup panel.",
+      "camera_movement": "Static high-contrast macro view",
+      "narration_script": "On the downside: Requires subscription for high-frequency agent requests.",
+      "on_screen_text": "CONS: Key Limitations",
+      "audio_cues": "Subtle low bass chime."
+    },
+    {
+      "scene_id": 5,
+      "timecode": "00:50 - 01:00",
+      "visual_prompt": "End card featuring IDE Guide branding (@IDEguide), website ideguide.blogspot.com, and prominent non-sponsorship disclosure text.",
+      "camera_movement": "Fade in overlay with sleek animation",
+      "narration_script": "Verdict: Best for Engineers wanting agentic multi-step code execution directly inside the editor.. Subscribe to IDE Guide for unbiased editor reviews!",
+      "on_screen_text": "Best For: Engineers wanting agentic multi-step code execution directly inside the editor.\nideguide.blogspot.com",
+      "audio_cues": "Outro music swell."
+    }
+  ],
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
