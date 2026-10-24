@@ -1,0 +1,11 @@
+{
+  "covered_ides": [
+    "Visual Studio Code",
+    "Cursor",
+    "Zed Editor",
+    "PyCharm",
+    "Neovim",
+    "Windsurf Editor"
+  ],
+  "last_updated": "2026-10-24"
+}
