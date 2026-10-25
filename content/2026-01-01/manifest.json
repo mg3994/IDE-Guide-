@@ -1,0 +1,26 @@
+{
+  "date": "2026-01-01",
+  "items": [
+    {
+      "index": 1,
+      "ide": "Visual Studio Code",
+      "blog_file": "content/2026-01-01/post_1_visual_studio_code.html",
+      "video_spec_file": "content/2026-01-01/video_1_visual_studio_code.json",
+      "amp_valid": true
+    },
+    {
+      "index": 2,
+      "ide": "Cursor AI Code Editor",
+      "blog_file": "content/2026-01-01/post_2_cursor_ai_code_editor.html",
+      "video_spec_file": "content/2026-01-01/video_2_cursor_ai_code_editor.json",
+      "amp_valid": true
+    },
+    {
+      "index": 3,
+      "ide": "Zed Editor",
+      "blog_file": "content/2026-01-01/post_3_zed_editor.html",
+      "video_spec_file": "content/2026-01-01/video_3_zed_editor.json",
+      "amp_valid": true
+    }
+  ]
+}

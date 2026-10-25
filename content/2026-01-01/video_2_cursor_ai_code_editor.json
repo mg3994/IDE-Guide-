@@ -1,0 +1,78 @@
+{
+  "channel": "@IDEguide",
+  "video_title": "Cursor AI Code Editor Review: Is it Worth Using in 2025?",
+  "target_ide": "Cursor AI Code Editor",
+  "developer": "Anysphere",
+  "pricing_summary": "Freemium",
+  "formats": {
+    "youtube_shorts": {
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "scenes": [
+        {
+          "scene_number": 1,
+          "duration_sec": 5,
+          "visual_prompt": "Cinematic camera tilt, dark setup studio with neon blue backlighting, close-up code editor showing Cursor AI Code Editor interface with glowing cursor, 4K resolution.",
+          "voiceover_script": "Looking for your next code editor? Here is everything you need to know about Cursor AI Code Editor.",
+          "on_screen_text": "Cursor AI Code Editor Review"
+        },
+        {
+          "scene_number": 2,
+          "duration_sec": 15,
+          "visual_prompt": "Ultra-fast dynamic zoom into code auto-completion and key feature demonstration on dual 4K monitors.",
+          "voiceover_script": "Top feature: Cmd+K Code Generation. Plus, Native codebase RAG indexing.",
+          "on_screen_text": "Pros: Native codebase RAG indexing"
+        },
+        {
+          "scene_number": 3,
+          "duration_sec": 15,
+          "visual_prompt": "Macro shot of telemetry memory performance chart and trade-off comparison graphics.",
+          "voiceover_script": "Pricing is Freemium. But watch out for: Subscription required for heavy AI features.",
+          "on_screen_text": "Pricing: Freemium"
+        },
+        {
+          "scene_number": 4,
+          "duration_sec": 10,
+          "visual_prompt": "Wide cinematic tracking shot of clean desk workstation with IDE Guide logo overlay.",
+          "voiceover_script": "Best for: AI-focused software engineers and fast-paced developers. Subscribe to IDE Guide for more technical editor guides!",
+          "on_screen_text": "Subscribe to @IDEguide"
+        }
+      ]
+    },
+    "youtube_longform": {
+      "aspect_ratio": "16:9",
+      "target_duration_seconds": 240,
+      "scenes": [
+        {
+          "scene_number": 1,
+          "duration_sec": 30,
+          "visual_prompt": "Cinematic wide angle shot of a modern dark-themed developer workstation displaying Cursor AI Code Editor open with syntax highlighted code, soft rim light, cyberpunk aesthetics.",
+          "voiceover_script": "Welcome back to IDE Guide. Today we are conducting a deep-dive technical evaluation of Cursor AI Code Editor.",
+          "on_screen_text": "IDE Guide: Cursor AI Code Editor Deep Dive"
+        },
+        {
+          "scene_number": 2,
+          "duration_sec": 90,
+          "visual_prompt": "Over-the-shoulder camera view of real-time coding session, demonstrating key features, terminal execution, and extension usage.",
+          "voiceover_script": "Let's break down the core features: Cmd+K Code Generation, Codebase Indexing, Cursor Composer, Instant Terminal Debugging.",
+          "on_screen_text": "Key Features & Real-Time Performance"
+        },
+        {
+          "scene_number": 3,
+          "duration_sec": 90,
+          "visual_prompt": "Side-by-side comparative graphics showing performance metrics, RAM allocation, and pricing breakdown.",
+          "voiceover_script": "In terms of pricing, Freemium. Here is how it compares to other editors on the market.",
+          "on_screen_text": "Pricing & Performance Comparison"
+        },
+        {
+          "scene_number": 4,
+          "duration_sec": 30,
+          "visual_prompt": "Cinematic outro with neon glow effects, channel social handles, and disclaimers.",
+          "voiceover_script": "That wraps up our assessment. Check the link in description for our full AMP blog review on ideguide.blogspot.com.",
+          "on_screen_text": "ideguide.blogspot.com | @IDEguide"
+        }
+      ]
+    }
+  },
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
