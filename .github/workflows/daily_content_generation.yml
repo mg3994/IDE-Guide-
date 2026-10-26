@@ -1,0 +1,38 @@
+name: Daily Content Generation (IDE Guide)
+
+on:
+  schedule:
+    # 21:30 UTC = 03:00 AM IST next day
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest
+
+      - name: Run unit tests and validation
+        run: |
+          PYTHONPATH=. pytest tests/
+
+      - name: Generate daily content packages
+        run: |
+          python3 scripts/generate_daily_content.py
+
+      - name: Commit and push generated content
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: generate daily IDE Guide blog posts and video specs [skip ci]"
+          file_pattern: 'content/'

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+content/2026-*/
+content/custom/
+content/test_agent/
