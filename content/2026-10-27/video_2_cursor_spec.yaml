@@ -1,0 +1,51 @@
+meta:
+  ide_name: Cursor
+  slug: cursor
+  pricing: Freemium ($20/mo Pro)
+  category: AI-First IDE
+  video_type: Short
+  aspect_ratio: '9:16'
+  duration_seconds: 60
+  target_channel: YouTube @IDEguide
+google_flow_prompts:
+- scene_id: 1
+  timestamp: 00:00 - 00:05
+  prompt: Cinematic ultra-HD vertical shot of Cursor dark mode UI with glowing syntax
+    highlighting, smooth camera zoom-in, 4K resolution, studio lighting.
+  camera_movement: Slow push-in zoom
+  lighting: Dark mode neon ambient backlight
+  caption: Is Cursor Right For You in 2026?
+- scene_id: 2
+  timestamp: 00:05 - 00:25
+  prompt: Macro view of software engineer coding fast in Cursor on dark mechanical
+    keyboard, high frame rate.
+  camera_movement: Tracking pan left to right
+  lighting: Warm key light with dark background contrast
+  caption: 'Top Feature: Deep AI code generation & editing'
+- scene_id: 3
+  timestamp: 00:25 - 00:45
+  prompt: Split screen high-tech dynamic graphic comparing Cursor benchmark metrics.
+  camera_movement: Static center focus
+  lighting: Clean studio lighting
+  caption: 'Watch Out: Requires subscription for unlimited AI queries'
+- scene_id: 4
+  timestamp: 00:45 - 00:60
+  prompt: Sleek studio setup showing dual vertical monitors, fading into IDE Guide
+    brand end-screen.
+  camera_movement: Tilt overhead
+  lighting: Soft diffuse ambient
+  caption: 'Verdict: The top choice for developers seeking ultra-fast AI-assisted
+    software building.'
+script:
+  voiceover_text: 'Is Cursor worth using? Let''s break it down in 60 seconds! Pricing:
+    Freemium ($20/mo Pro). Pros: Deep AI code generation & editing, Forked from VS
+    Code (supports extensions), Multi-file prompt context. Cons: Requires subscription
+    for unlimited AI queries, Dependent on third-party cloud models. Verdict: The
+    top choice for developers seeking ultra-fast AI-assisted software building. Disclaimer:
+    IDE Guide is an independent technical publication. This content is not sponsored,
+    endorsed, or affiliated with any software vendor or editor developer mentioned
+    above. All reviews and assessments are based strictly on objective developer evaluation.'
+  disclaimer: 'Disclaimer: IDE Guide is an independent technical publication. This
+    content is not sponsored, endorsed, or affiliated with any software vendor or
+    editor developer mentioned above. All reviews and assessments are based strictly
+    on objective developer evaluation.'

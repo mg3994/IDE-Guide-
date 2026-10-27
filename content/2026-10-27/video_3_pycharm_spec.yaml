@@ -1,0 +1,52 @@
+meta:
+  ide_name: JetBrains PyCharm
+  slug: pycharm
+  pricing: Freemium / Paid ($249/yr Professional)
+  category: Python / Data Science
+  video_type: Short
+  aspect_ratio: '9:16'
+  duration_seconds: 60
+  target_channel: YouTube @IDEguide
+google_flow_prompts:
+- scene_id: 1
+  timestamp: 00:00 - 00:05
+  prompt: Cinematic ultra-HD vertical shot of JetBrains PyCharm dark mode UI with
+    glowing syntax highlighting, smooth camera zoom-in, 4K resolution, studio lighting.
+  camera_movement: Slow push-in zoom
+  lighting: Dark mode neon ambient backlight
+  caption: Is JetBrains PyCharm Right For You in 2026?
+- scene_id: 2
+  timestamp: 00:05 - 00:25
+  prompt: Macro view of software engineer coding fast in JetBrains PyCharm on dark
+    mechanical keyboard, high frame rate.
+  camera_movement: Tracking pan left to right
+  lighting: Warm key light with dark background contrast
+  caption: 'Top Feature: Intelligent refactoring and code navigation'
+- scene_id: 3
+  timestamp: 00:25 - 00:45
+  prompt: Split screen high-tech dynamic graphic comparing JetBrains PyCharm benchmark
+    metrics.
+  camera_movement: Static center focus
+  lighting: Clean studio lighting
+  caption: 'Watch Out: Heavy memory footprint'
+- scene_id: 4
+  timestamp: 00:45 - 00:60
+  prompt: Sleek studio setup showing dual vertical monitors, fading into IDE Guide
+    brand end-screen.
+  camera_movement: Tilt overhead
+  lighting: Soft diffuse ambient
+  caption: 'Verdict: Unrivaled IDE for professional Python backend and data engineering
+    teams.'
+script:
+  voiceover_text: 'Is JetBrains PyCharm worth using? Let''s break it down in 60 seconds!
+    Pricing: Freemium / Paid ($249/yr Professional). Pros: Intelligent refactoring
+    and code navigation, Deep Django and database integration, Built-in visual debugger.
+    Cons: Heavy memory footprint, Slower startup times on older hardware. Verdict:
+    Unrivaled IDE for professional Python backend and data engineering teams. Disclaimer:
+    IDE Guide is an independent technical publication. This content is not sponsored,
+    endorsed, or affiliated with any software vendor or editor developer mentioned
+    above. All reviews and assessments are based strictly on objective developer evaluation.'
+  disclaimer: 'Disclaimer: IDE Guide is an independent technical publication. This
+    content is not sponsored, endorsed, or affiliated with any software vendor or
+    editor developer mentioned above. All reviews and assessments are based strictly
+    on objective developer evaluation.'
