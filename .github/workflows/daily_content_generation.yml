@@ -1,0 +1,47 @@
+name: Daily Content Generation
+
+on:
+  schedule:
+    # Runs daily at 21:30 UTC (which corresponds to 03:00 AM IST)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Daily Content Generator
+        run: |
+          python3 scripts/generate_daily_content.py
+
+      - name: Validate Generated AMP HTML Blog Posts
+        run: |
+          TODAY=$(date -u +'%Y-%m-%d')
+          for file in content/$TODAY/*.html; do
+            if [ -f "$file" ]; then
+              python3 scripts/amp_validator.py "$file"
+            fi
+          done
+
+      - name: Commit and Push Generated Content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chmod/content: Daily IDE Guide content generation [$(date -u +'%Y-%m-%d')]"
+            git push
+          fi
