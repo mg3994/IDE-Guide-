@@ -1,0 +1,48 @@
+{
+  "channel": "@IDEguide",
+  "date": "2026-03-30",
+  "title": "Visual Studio Code - Pros, Cons & Pricing Developer Guide",
+  "ide_name": "Visual Studio Code",
+  "category": "Code Editor / Lightweight IDE",
+  "pricing_tier": "Free / Open Source (Core)",
+  "target_audience": "Web developers, full-stack engineers, and multi-language programmers looking for a lightweight setup.",
+  "google_flow_prompts": [
+    {
+      "scene_id": 1,
+      "scene_type": "Hook & Overview",
+      "duration_seconds": 5,
+      "visual_prompt": "Cinematic wide angle shot of modern high-tech developer setup displaying Visual Studio Code UI, dark mode aesthetic, vibrant syntax highlighting, ultra realistic 4k render.",
+      "camera_motion": "Slow forward push-in toward monitor screen",
+      "lighting": "Cyberpunk volumetric ambient blue/cyan lighting",
+      "script": "Is Visual Studio Code still the best choice for your developer workflow in 2026? Let's break down the pros, cons, and pricing!"
+    },
+    {
+      "scene_id": 2,
+      "scene_type": "The Good (Strengths)",
+      "duration_seconds": 12,
+      "visual_prompt": "Macro lens view of Visual Studio Code interface showing fast code execution, intelligent auto-completion, and slick UI panels.",
+      "camera_motion": "Smooth horizontal pan left to right across code view",
+      "lighting": "Clean studio rim light highlighting screen details",
+      "script": "Here is what makes Visual Studio Code great: Massive extension marketplace with thousands of plugins. Plus, Exceptional performance and lightweight footprint."
+    },
+    {
+      "scene_id": 3,
+      "scene_type": "The Bad (Limitations)",
+      "duration_seconds": 10,
+      "visual_prompt": "Close-up tilted frame highlighting complex settings menu or system resource usage indicators in Visual Studio Code.",
+      "camera_motion": "Subtle slow zoom out with slight tilt",
+      "lighting": "Warm warning tint accent",
+      "script": "However, keep in mind: Requires configuration and plugins to reach full IDE status."
+    },
+    {
+      "scene_id": 4,
+      "scene_type": "Pricing & Verdict",
+      "duration_seconds": 8,
+      "visual_prompt": "High contrast motion graphics card displaying Free / Open Source (Core) badge, pros vs cons checklist, and final recommendation rating.",
+      "camera_motion": "Static front-facing center focus",
+      "lighting": "Bright balanced daylight setup",
+      "script": "Pricing model: Free / Open Source (Core). Verdict: Best for Web developers, full-stack engineers, and multi-language programmers looking for a lightweight setup.. Subscribe to IDE Guide for daily developer tool breakdowns!"
+    }
+  ],
+  "disclaimer": "IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
