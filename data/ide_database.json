@@ -1,0 +1,205 @@
+{
+  "vscode": {
+    "name": "Visual Studio Code",
+    "developer": "Microsoft",
+    "category": "Code Editor / Lightweight IDE",
+    "pricing": "Free (Open Source core / Proprietary distribution)",
+    "is_paid": false,
+    "license": "MIT / Proprietary",
+    "target_languages": ["JavaScript", "TypeScript", "Python", "Go", "Rust", "C++", "HTML/CSS"],
+    "ideal_persona": "Full-stack developers, web engineers, and polyglot programmers seeking a highly extensible editor.",
+    "pros": [
+      "Massive ecosystem of extensions and themes",
+      "Built-in Git integration and terminal",
+      "Lightweight startup and memory efficient compared to traditional heavy IDEs",
+      "Extensive customizability and keyboard shortcut remapping"
+    ],
+    "cons": [
+      "Requires setup and configuration with extensions for out-of-the-box IDE functionality",
+      "Extension bloat can slow down performance over time",
+      "Telemetry collection enabled by default (can be disabled or avoided with VSCodium)"
+    ],
+    "verdict": "Best overall free general-purpose editor for web and polyglot software development."
+  },
+  "cursor": {
+    "name": "Cursor",
+    "developer": "Anysphere",
+    "category": "AI-Native IDE",
+    "pricing": "Freemium (Free tier available, Pro at $20/mo)",
+    "is_paid": true,
+    "license": "Proprietary",
+    "target_languages": ["TypeScript", "Python", "Rust", "Go", "JavaScript", "C++"],
+    "ideal_persona": "Developers who want deep, native AI integration, fast code generation, multi-file edits, and instant codebase QA.",
+    "pros": [
+      "Native AI agent capabilities and multi-file code edit mode (Composer)",
+      "Forked from VS Code, compatible with all VS Code extensions and settings",
+      "Instant repo indexing and semantic context retrieval"
+    ],
+    "cons": [
+      "Paid subscription required for unlimited fast AI models",
+      "Cloud dependency for advanced AI generation",
+      "Closed-source proprietary extensions"
+    ],
+    "verdict": "Top recommendation for developers wanting cutting-edge AI pair programming without losing VS Code plugin compatibility."
+  },
+  "zed": {
+    "name": "Zed Editor",
+    "developer": "Zed Industries",
+    "category": "High-Performance Editor",
+    "pricing": "Free (Open Source)",
+    "is_paid": false,
+    "license": "GPL / AGPL",
+    "target_languages": ["Rust", "TypeScript", "Python", "Go", "C++"],
+    "ideal_persona": "Developers prioritizing raw performance, sub-millisecond typing latency, GPU acceleration, and real-time collaboration.",
+    "pros": [
+      "Written in Rust with GPU acceleration for instantaneous responsiveness",
+      "Built-in multiplayer pair programming and screen sharing",
+      "Low RAM usage and blazing fast boot times"
+    ],
+    "cons": [
+      "Smaller extension ecosystem compared to VS Code",
+      "Currently primary focus on macOS and Linux (Windows support in development)"
+    ],
+    "verdict": "The fastest modern text editor available; ideal for performance purists."
+  },
+  "pycharm": {
+    "name": "PyCharm",
+    "developer": "JetBrains",
+    "category": "Python / Data Science IDE",
+    "pricing": "Freemium (Community Free / Professional $249/yr)",
+    "is_paid": true,
+    "license": "Proprietary / Apache (Community)",
+    "target_languages": ["Python", "SQL", "HTML/CSS", "JavaScript", "Cython"],
+    "ideal_persona": "Python backend developers, data scientists, Django/Flask engineers, and enterprise Python teams.",
+    "pros": [
+      "Best-in-class Python refactoring, type checking, and code navigation",
+      "Built-in database tooling, visual debugger, and test runners",
+      "Rich Django, Flask, and scientific stack support (Jupyter)"
+    ],
+    "cons": [
+      "Higher memory consumption (Java/JVM base)",
+      "Slower startup time compared to lightweight code editors"
+    ],
+    "verdict": "Undisputed champion for professional Python developers and web framework specialists."
+  },
+  "neovim": {
+    "name": "Neovim",
+    "developer": "Neovim Core Team",
+    "category": "Terminal Modal Editor",
+    "pricing": "Free (Open Source)",
+    "is_paid": false,
+    "license": "Apache / Vim License",
+    "target_languages": ["Lua", "C", "Python", "Rust", "Go", "All languages via LSP"],
+    "ideal_persona": "Keyboard-driven power users, terminal lovers, and developers who enjoy building highly customized, ultra-fast editing environments.",
+    "pros": [
+      "Zero mouse dependency with unmatched keyboard speed",
+      "Extensible via Lua with full Language Server Protocol (LSP) support",
+      "Runs anywhere in SSH terminals with negligible CPU/RAM footprint"
+    ],
+    "cons": [
+      "Steep learning curve for vim keybindings and modal editing",
+      "Requires initial setup time to configure LSP, linters, and plugins"
+    ],
+    "verdict": "The ultimate customizable text editor for keyboard-driven efficiency."
+  },
+  "windsurf": {
+    "name": "Windsurf",
+    "developer": "Codeium",
+    "category": "AI-Powered Flow IDE",
+    "pricing": "Freemium (Free plan / Pro $15/mo)",
+    "is_paid": true,
+    "license": "Proprietary",
+    "target_languages": ["Python", "TypeScript", "JavaScript", "Go", "Java"],
+    "ideal_persona": "Developers looking for context-aware AI cascades, automatic command execution, and effortless project building.",
+    "pros": [
+      "Cascade AI flow deep context awareness across workspace files",
+      "VS Code base compatibility",
+      "Generous free tier provided by Codeium"
+    ],
+    "cons": [
+      "Proprietary cloud model routing",
+      "Requires internet connectivity for AI features"
+    ],
+    "verdict": "Exceptional AI IDE contender offering deep workflow integration and competitive pricing."
+  },
+  "intellij_idea": {
+    "name": "IntelliJ IDEA",
+    "developer": "JetBrains",
+    "category": "Enterprise JVM IDE",
+    "pricing": "Freemium (Community Free / Ultimate $599/yr)",
+    "is_paid": true,
+    "license": "Proprietary / Apache (Community)",
+    "target_languages": ["Java", "Kotlin", "Scala", "Groovy", "SQL"],
+    "ideal_persona": "Enterprise Java/Kotlin developers, Spring Boot engineers, and backend microservice architects.",
+    "pros": [
+      "Unrivaled Java and Kotlin static analysis, refactoring, and inspection tools",
+      "Comprehensive Spring Framework, Maven, Gradle, and database integration",
+      "Robust debugging and profiling tools built-in"
+    ],
+    "cons": [
+      "High resource usage and memory footprint",
+      "Steep pricing for Ultimate commercial licenses"
+    ],
+    "verdict": "The industry standard for Java and enterprise JVM software engineering."
+  },
+  "webstorm": {
+    "name": "WebStorm",
+    "developer": "JetBrains",
+    "category": "JavaScript & TypeScript IDE",
+    "pricing": "Paid ($69/yr individual / Free non-commercial licensing available)",
+    "is_paid": true,
+    "license": "Proprietary",
+    "target_languages": ["JavaScript", "TypeScript", "HTML/CSS", "React", "Vue", "Angular", "Node.js"],
+    "ideal_persona": "Professional front-end and full-stack JavaScript/TypeScript engineers.",
+    "pros": [
+      "Out-of-the-box refactoring and smart autocompletion for major JS frameworks",
+      "Seamless integration with Vite, Webpack, ESLint, Prettier, and Jest/Vitest",
+      "Integrated Git, debugging, and HTTP client"
+    ],
+    "cons": [
+      "Paid proprietary software",
+      "Heavier than lightweight editors like VS Code or Zed"
+    ],
+    "verdict": "Powerful out-of-the-box JavaScript IDE requiring minimal setup for enterprise web dev."
+  },
+  "sublime_text": {
+    "name": "Sublime Text 4",
+    "developer": "Sublime HQ",
+    "category": "Lightweight Text Editor",
+    "pricing": "Paid ($99 one-time evaluation with prompt)",
+    "is_paid": true,
+    "license": "Proprietary",
+    "target_languages": ["Python", "C++", "HTML/CSS", "JavaScript", "Markdown"],
+    "ideal_persona": "Developers who want extreme speed, instant file opening, and minimal system overhead.",
+    "pros": [
+      "Blazing fast startup time and minimal RAM consumption",
+      "GPU rendering on modern systems",
+      "Multiple selections and powerful search/replace across large codebases"
+    ],
+    "cons": [
+      "Lacks full out-of-the-box IDE capabilities without package configuration",
+      "Paid license prompt on evaluation version"
+    ],
+    "verdict": "The classic gold standard for ultra-fast text editing and quick file tweaks."
+  },
+  "fleet": {
+    "name": "JetBrains Fleet",
+    "developer": "JetBrains",
+    "category": "Distributed Lightweight IDE",
+    "pricing": "Freemium (Public Preview / Subscription)",
+    "is_paid": true,
+    "license": "Proprietary",
+    "target_languages": ["Kotlin", "Python", "TypeScript", "Go", "Rust", "Java"],
+    "ideal_persona": "Developers seeking a lightweight JetBrains editor with smart engine toggles and remote backend support.",
+    "pros": [
+      "Fast startup with optional smart backend processing toggle",
+      "Distributed architecture for remote machine & container development",
+      "Modern minimalist user interface"
+    ],
+    "cons": [
+      "Ecosystem still maturing compared to classic JetBrains IDEs or VS Code",
+      "Preview status with evolving feature set"
+    ],
+    "verdict": "Promising next-generation hybrid editor combining lightweight speed with JetBrains smarts."
+  }
+}
