@@ -1,0 +1,9 @@
+{
+  "last_updated": "2026-10-30T22:26:16.707736+00:00",
+  "total_covered": 3,
+  "covered_ides": [
+    "Cursor",
+    "Visual Studio Code",
+    "Zed"
+  ]
+}

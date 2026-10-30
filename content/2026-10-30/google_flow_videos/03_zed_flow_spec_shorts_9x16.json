@@ -1,0 +1,64 @@
+{
+  "channel": "@IDEguide",
+  "target_platform": "YouTube & Shorts",
+  "ide_name": "Zed",
+  "format": "YouTube Shorts / Vertical Reel",
+  "aspect_ratio": "9:16 (1080x1920)",
+  "estimated_duration": "55 Seconds",
+  "visual_style_theme": "Minimalist sleek gray theme, zero-bloat UI, ultra-crisp GPU typography, subtle collaborative user avatars",
+  "google_flow_prompts": {
+    "master_aesthetic_prompt": "Ultra-detailed developer workstation aesthetic, Minimalist sleek gray theme, zero-bloat UI, ultra-crisp GPU typography, subtle collaborative user avatars, cinematic lighting, volumetric dust motes, 35mm lens, depth of field, photorealistic 8k render, 9:16.",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "timestamp": "00:00 - 00:06",
+        "title": "The Hook",
+        "voiceover": "Stop blindly choosing your code editor. Today we test Zed\u2014High-Performance Multiplayer Code Editor Written in Rust. Is it worth your time, or a total memory hog?",
+        "flow_visual_prompt": "Cinematic 9:16 dynamic macro shot of illuminated fingers flying across a mechanical keyboard, camera rapidly panning into a dark 4K monitor displaying Zed code view. Lighting: Neon cyan and amber accent rim light, 60fps high shutter speed, photorealistic.",
+        "on_screen_text": "ZED: HONEST TRUTH",
+        "sound_design": "High energy digital riser followed by a deep sub bass impact."
+      },
+      {
+        "scene_number": 2,
+        "timestamp": "00:06 - 00:22",
+        "title": "The Good (Strengths)",
+        "voiceover": "Here is why engineers love Zed: First, Engineered in Rust with GPU-accelerated rendering for instantaneous startup and zero keystroke latency. Second, Native real-time collaborative editing (multiplayer pairing) without third-party plugins.",
+        "flow_visual_prompt": "Ultra-smooth 60fps tracking shot of text editing in Zed with buttery smooth cursor animations and zero latency typing under soft studio lighting.",
+        "on_screen_text": "PROS: Engineered in Rust with GPU-accelerate...",
+        "sound_design": "Rhythmic modern lo-fi tech beat with crisp keystroke clicks."
+      },
+      {
+        "scene_number": 3,
+        "timestamp": "00:22 - 00:38",
+        "title": "The Bad (Downsides)",
+        "voiceover": "Now for the painful truth: Extension ecosystem is still young and catching up to VS Code. Additionally, Historically focused on macOS, with Linux and Windows support in active rollout.",
+        "flow_visual_prompt": "Cinematic 9:16 close-up of a split screen showing system resource graphs surging in red with warning diagnostics, moody industrial lighting, shallow depth of field, 8k render.",
+        "on_screen_text": "CONS: Extension ecosystem is still young and...",
+        "sound_design": "Sudden low pass filter on music with subtle alert chime."
+      },
+      {
+        "scene_number": 4,
+        "timestamp": "00:38 - 00:55",
+        "title": "Pricing & Independent Verdict",
+        "voiceover": "Pricing model: Free / Open Source. 100% Free and Open Source (GPL/Apache 2.0); optional hosted AI model proxy features with pay-per-token or bring-your-own-key.. Verdict: Best for Developers who prioritize raw editing speed, instantaneous responsiveness, and minimal system resource consumption.. We are 100% independent and unsponsored\u2014subscribe to IDE Guide for honest dev reviews.",
+        "flow_visual_prompt": "Clean minimalist studio shot 9:16 displaying high-contrast typography badges for 'Free / Open Source' and Zed logo banner, soft cinematic bokeh, smooth dolly back.",
+        "on_screen_text": "PRICE: FREE / OPEN SOURCE | SUBSCRIBE @IDEguide",
+        "sound_design": "Upbeat synthesizer swell ending with an authoritative kick drum."
+      }
+    ]
+  },
+  "youtube_metadata": {
+    "title": "Zed Review (2026): Is It Good or Bad? | Free vs Paid Explained",
+    "description": "Our independent breakdown of Zed (High-Performance Multiplayer Code Editor Written in Rust).\n\nIn this video we explore:\n- Standout strengths and workflow boosts\n- Critical drawbacks and performance hurdles\n- Pricing tiers (Free / Open Source)\n- Who should actually use it\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.\n\nSubscribe to @IDEguide for daily code editor benchmarks and developer guides!",
+    "tags": [
+      "Zed",
+      "IDE Guide",
+      "Code Editor Review",
+      "Programming",
+      "Free / Open Source",
+      "High Performance Editor",
+      "Developer Productivity"
+    ]
+  },
+  "independent_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}

@@ -1,0 +1,64 @@
+{
+  "channel": "@IDEguide",
+  "target_platform": "YouTube & Shorts",
+  "ide_name": "Visual Studio Code (VS Code)",
+  "format": "Full YouTube Video Feature",
+  "aspect_ratio": "16:9 (1920x1080)",
+  "estimated_duration": "4 Minutes 30 Seconds",
+  "visual_style_theme": "Clean classic VS Code dark modern theme with blue status bar, rich syntax highlighting and active sidebar",
+  "google_flow_prompts": {
+    "master_aesthetic_prompt": "Ultra-detailed developer workstation aesthetic, Clean classic VS Code dark modern theme with blue status bar, rich syntax highlighting and active sidebar, cinematic lighting, volumetric dust motes, 35mm lens, depth of field, photorealistic 8k render, 16:9.",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "timestamp": "00:00 - 00:06",
+        "title": "The Hook",
+        "voiceover": "Stop blindly choosing your code editor. Today we test Visual Studio Code (VS Code)\u2014The Industry Standard Extensible Code Editor. Is it worth your time, or a total memory hog?",
+        "flow_visual_prompt": "Cinematic 16:9 dynamic macro shot of illuminated fingers flying across a mechanical keyboard, camera rapidly panning into a dark 4K monitor displaying Visual Studio Code (VS Code) code view. Lighting: Neon cyan and amber accent rim light, 60fps high shutter speed, photorealistic.",
+        "on_screen_text": "VISUAL STUDIO CODE (VS CODE): HONEST TRUTH",
+        "sound_design": "High energy digital riser followed by a deep sub bass impact."
+      },
+      {
+        "scene_number": 2,
+        "timestamp": "00:06 - 00:22",
+        "title": "The Good (Strengths)",
+        "voiceover": "Here is why engineers love Visual Studio Code (VS Code): First, Massive global ecosystem with tens of thousands of extensions and themes. Second, Exceptional remote development via SSH, Dev Containers, and WSL.",
+        "flow_visual_prompt": "Over-the-shoulder shot of a modern engineer navigating a complex TypeScript project in VS Code with seamless extension sidebar and integrated debugger panels active.",
+        "on_screen_text": "PROS: Massive global ecosystem with tens of ...",
+        "sound_design": "Rhythmic modern lo-fi tech beat with crisp keystroke clicks."
+      },
+      {
+        "scene_number": 3,
+        "timestamp": "00:22 - 00:38",
+        "title": "The Bad (Downsides)",
+        "voiceover": "Now for the painful truth: Default official build includes Microsoft telemetry and proprietary marketplace licensing. Additionally, Electron overhead can consume significant RAM with many extensions installed.",
+        "flow_visual_prompt": "Cinematic 16:9 close-up of a split screen showing system resource graphs surging in red with warning diagnostics, moody industrial lighting, shallow depth of field, 8k render.",
+        "on_screen_text": "CONS: Default official build includes Micros...",
+        "sound_design": "Sudden low pass filter on music with subtle alert chime."
+      },
+      {
+        "scene_number": 4,
+        "timestamp": "00:38 - 00:55",
+        "title": "Pricing & Independent Verdict",
+        "voiceover": "Pricing model: Free / Open Core. Completely free binaries distributed by Microsoft; core source available under MIT as VSCodium.. Verdict: Best for Web, cloud, and polyglot developers wanting maximum flexibility, extensive tooling, and community support.. We are 100% independent and unsponsored\u2014subscribe to IDE Guide for honest dev reviews.",
+        "flow_visual_prompt": "Clean minimalist studio shot 16:9 displaying high-contrast typography badges for 'Free / Open Core' and Visual Studio Code (VS Code) logo banner, soft cinematic bokeh, smooth dolly back.",
+        "on_screen_text": "PRICE: FREE / OPEN CORE | SUBSCRIBE @IDEguide",
+        "sound_design": "Upbeat synthesizer swell ending with an authoritative kick drum."
+      }
+    ]
+  },
+  "youtube_metadata": {
+    "title": "Visual Studio Code (VS Code) Review (2026): Is It Good or Bad? | Free vs Paid Explained",
+    "description": "Our independent breakdown of Visual Studio Code (VS Code) (The Industry Standard Extensible Code Editor).\n\nIn this video we explore:\n- Standout strengths and workflow boosts\n- Critical drawbacks and performance hurdles\n- Pricing tiers (Free / Open Core)\n- Who should actually use it\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.\n\nSubscribe to @IDEguide for daily code editor benchmarks and developer guides!",
+    "tags": [
+      "Visual Studio Code (VS Code)",
+      "IDE Guide",
+      "Code Editor Review",
+      "Programming",
+      "Free / Open Core",
+      "General Purpose Code Editor",
+      "Developer Productivity"
+    ]
+  },
+  "independent_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
