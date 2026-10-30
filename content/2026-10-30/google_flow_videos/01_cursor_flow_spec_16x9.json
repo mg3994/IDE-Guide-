@@ -1,0 +1,64 @@
+{
+  "channel": "@IDEguide",
+  "target_platform": "YouTube & Shorts",
+  "ide_name": "Cursor",
+  "format": "Full YouTube Video Feature",
+  "aspect_ratio": "16:9 (1920x1080)",
+  "estimated_duration": "4 Minutes 30 Seconds",
+  "visual_style_theme": "Modern cyberpunk neon teal accents on charcoal gray editor, glowing prompt bar, AI generation diff highlights",
+  "google_flow_prompts": {
+    "master_aesthetic_prompt": "Ultra-detailed developer workstation aesthetic, Modern cyberpunk neon teal accents on charcoal gray editor, glowing prompt bar, AI generation diff highlights, cinematic lighting, volumetric dust motes, 35mm lens, depth of field, photorealistic 8k render, 16:9.",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "timestamp": "00:00 - 00:06",
+        "title": "The Hook",
+        "voiceover": "Stop blindly choosing your code editor. Today we test Cursor\u2014The AI-First Code Editor Built on VS Code. Is it worth your time, or a total memory hog?",
+        "flow_visual_prompt": "Cinematic 16:9 dynamic macro shot of illuminated fingers flying across a mechanical keyboard, camera rapidly panning into a dark 4K monitor displaying Cursor code view. Lighting: Neon cyan and amber accent rim light, 60fps high shutter speed, photorealistic.",
+        "on_screen_text": "CURSOR: HONEST TRUTH",
+        "sound_design": "High energy digital riser followed by a deep sub bass impact."
+      },
+      {
+        "scene_number": 2,
+        "timestamp": "00:06 - 00:22",
+        "title": "The Good (Strengths)",
+        "voiceover": "Here is why engineers love Cursor: First, Native multi-file AI codebase indexing and context awareness. Second, Composer mode allows rapid full-stack scaffolding and autonomous multi-file edits.",
+        "flow_visual_prompt": "Cinematic slow dolly forward towards a dual-monitor dark coding setup showing Cursor AI composer generating React components simultaneously across multiple files with emerald green and cyan diff lines.",
+        "on_screen_text": "PROS: Native multi-file AI codebase indexing...",
+        "sound_design": "Rhythmic modern lo-fi tech beat with crisp keystroke clicks."
+      },
+      {
+        "scene_number": 3,
+        "timestamp": "00:22 - 00:38",
+        "title": "The Bad (Downsides)",
+        "voiceover": "Now for the painful truth: Proprietary fork of VS Code with cloud dependency for flagship LLM models. Additionally, Subscription cost ($20/mo) can become steep for hobbyists or students.",
+        "flow_visual_prompt": "Cinematic 16:9 close-up of a split screen showing system resource graphs surging in red with warning diagnostics, moody industrial lighting, shallow depth of field, 8k render.",
+        "on_screen_text": "CONS: Proprietary fork of VS Code with cloud...",
+        "sound_design": "Sudden low pass filter on music with subtle alert chime."
+      },
+      {
+        "scene_number": 4,
+        "timestamp": "00:38 - 00:55",
+        "title": "Pricing & Independent Verdict",
+        "voiceover": "Pricing model: Freemium. Free tier with 2,000 completions and 50 slow premium requests; Pro tier at $20/month; Business tier at $40/seat/month.. Verdict: Best for Developers seeking state-of-the-art AI pair programming and fast multi-file refactoring without leaving VS Code shortcuts.. We are 100% independent and unsponsored\u2014subscribe to IDE Guide for honest dev reviews.",
+        "flow_visual_prompt": "Clean minimalist studio shot 16:9 displaying high-contrast typography badges for 'Freemium' and Cursor logo banner, soft cinematic bokeh, smooth dolly back.",
+        "on_screen_text": "PRICE: FREEMIUM | SUBSCRIBE @IDEguide",
+        "sound_design": "Upbeat synthesizer swell ending with an authoritative kick drum."
+      }
+    ]
+  },
+  "youtube_metadata": {
+    "title": "Cursor Review (2026): Is It Good or Bad? | Free vs Paid Explained",
+    "description": "Our independent breakdown of Cursor (The AI-First Code Editor Built on VS Code).\n\nIn this video we explore:\n- Standout strengths and workflow boosts\n- Critical drawbacks and performance hurdles\n- Pricing tiers (Freemium)\n- Who should actually use it\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.\n\nSubscribe to @IDEguide for daily code editor benchmarks and developer guides!",
+    "tags": [
+      "Cursor",
+      "IDE Guide",
+      "Code Editor Review",
+      "Programming",
+      "Freemium",
+      "AI Code Editor",
+      "Developer Productivity"
+    ]
+  },
+  "independent_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+}
