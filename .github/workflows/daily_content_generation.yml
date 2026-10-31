@@ -1,0 +1,56 @@
+name: Daily IDE Guide Content Generation
+
+on:
+  schedule:
+    # 21:30 UTC = 03:00 AM IST (Indian Standard Time)
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Target content date (YYYY-MM-DD), default is current UTC date'
+        required: false
+        default: ''
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest
+
+      - name: Run Test Suite & Validators
+        run: |
+          PYTHONPATH=. pytest tests/
+
+      - name: Generate 3 Daily AMP Posts & 3 Google Flow Video Specs
+        run: |
+          if [ -n "${{ github.event.inputs.target_date }}" ]; then
+            python3 scripts/generate_daily_content.py "${{ github.event.inputs.target_date }}"
+          else
+            python3 scripts/generate_daily_content.py
+          fi
+
+      - name: Commit and push generated daily content
+        run: |
+          git config --global user.name "IDE Guide Content Bot"
+          git config --global user.email "bot@ideguide.internal"
+          git add content/
+          if git diff --staged --quiet; then
+            echo "No new content to commit."
+          else
+            git commit -m "Auto-generate 3 daily AMP blog posts and 3 Google Flow video specs"
+            git push
+          fi

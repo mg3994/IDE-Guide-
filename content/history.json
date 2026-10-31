@@ -1,0 +1,22 @@
+{
+  "covered_ide_ids": [
+    "cursor",
+    "windsurf",
+    "vscode"
+  ],
+  "daily_logs": [
+    {
+      "date": "2026-10-31",
+      "ides_covered": [
+        "Cursor",
+        "Windsurf",
+        "Visual Studio Code (VS Code)"
+      ],
+      "generated_files": [
+        "content/2026-10-31/post_1_cursor_amp_blogger.html",
+        "content/2026-10-31/post_2_windsurf_amp_blogger.html",
+        "content/2026-10-31/post_3_vscode_amp_blogger.html"
+      ]
+    }
+  ]
+}
