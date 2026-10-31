@@ -1,0 +1,112 @@
+{
+  "channel": "IDE Guide (@IDEguide)",
+  "blog_url": "https://ideguide.blogspot.com/",
+  "target_ide": "Cursor",
+  "pricing_tier": "Freemium",
+  "is_open_source": false,
+  "video_title": "Cursor Honest Review: The Good, The Bad & Pricing (2025)",
+  "shorts_title": "Is Cursor Worth It? The Good vs The Bad #shorts",
+  "seo_tags": [
+    "Cursor",
+    "Cursor review",
+    "code editor",
+    "best ide",
+    "programming",
+    "software engineering",
+    "IDE guide",
+    "vscode alternative",
+    "coding tools"
+  ],
+  "mandatory_disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "pacing_notes": {
+    "shorts_target_duration_seconds": 60,
+    "longform_target_duration_seconds": 240,
+    "transition_speed": "Fast cuts every 2.5-3.5 seconds for Shorts; sustained 5-7s B-roll for 16:9"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Hook & Instant Visual Grab",
+      "duration_seconds": 5,
+      "aspect_ratios": [
+        "9:16 Shorts",
+        "16:9 Long-form"
+      ],
+      "google_flow_prompt": "Cinematic close-up macro tracking shot of illuminated mechanical keyboard keys typing code in dark room, camera pans up smoothly to reveal glowing ultrawide monitor displaying Cursor editor interface with vibrant neon syntax highlighting, anamorphic lens flare, photorealistic 8k render, hyper-modern developer aesthetic, 60fps.",
+      "on_screen_text": "Is Cursor REALLY Worth Your Time in 2025?",
+      "voiceover_script": "Stop scrolling! Is Cursor actually the best code editor for your daily development, or is it just overhyped? Let's break down the good, the bad, and the pricing right now!",
+      "b_roll_suggestion": "High-contrast screencast of Cursor launching with real code files loading rapidly.",
+      "audio_cue": "Fast electronic whoosh into rhythmic synth beat."
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Editor Identity & Pricing Breakdown (Free vs Paid)",
+      "duration_seconds": 10,
+      "aspect_ratios": [
+        "9:16 Shorts",
+        "16:9 Long-form"
+      ],
+      "google_flow_prompt": "Sleek 3D isometric floating render of laptop displaying Cursor logo and user interface, split holographic cards materialize showing pricing tier 'Freemium', subtle volumetric blue and emerald lighting, high-tech studio background, smooth rotational camera pan.",
+      "on_screen_text": "Cursor | Tier: Freemium",
+      "voiceover_script": "First up: pricing. Cursor falls under the Freemium tier. Free hobby tier (limited fast requests), Pro tier at $20/month with unlimited Claude 3.5 Sonnet / GPT-4o usage. So you know exactly what is free and where you might need to open your wallet.",
+      "b_roll_suggestion": "Pricing page screenshot or license tier comparison graphic.",
+      "audio_cue": "Cash register chime or coin drop SFX followed by tech ambience."
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "The Good: Standout Advantages",
+      "duration_seconds": 15,
+      "aspect_ratios": [
+        "9:16 Shorts",
+        "16:9 Long-form"
+      ],
+      "google_flow_prompt": "Dynamic over-the-shoulder camera glide behind programmer coding furiously, glowing green checkmark animations and floating feature cards highlighting: 'Native agentic multi-file composer (Cmd+I) edits multiple files simultaneously with high precision', smooth UI interactions, responsive code refactoring, cyberpunk dark aesthetic, crisp 4k 60fps.",
+      "on_screen_text": "THE GOOD: Native agentic multi-file composer (Cmd+I) edits multiple files simultaneously with high precision",
+      "voiceover_script": "Here is why developers love it. Number one: Native agentic multi-file composer (Cmd+I) edits multiple files simultaneously with high precision. And number two: Full VS Code extension and keyboard shortcut compatibility with zero migration friction. The ergonomics and speed make everyday coding feel effortless.",
+      "b_roll_suggestion": "Live screencast demonstrating the top feature in action (e.g. multi-file edit or indexing).",
+      "audio_cue": "Subtle energetic bass drop with pleasant confirmation click sounds."
+    },
+    {
+      "scene_number": 4,
+      "scene_title": "The Bad: Honest Drawbacks & Tradeoffs",
+      "duration_seconds": 12,
+      "aspect_ratios": [
+        "9:16 Shorts",
+        "16:9 Long-form"
+      ],
+      "google_flow_prompt": "Dramatic lighting shift to subtle crimson and amber accents, camera slowly pushes in towards monitor screen showing system resource monitor or complex configuration file, slight glitch distortion effect emphasizing bottleneck, cinematic realism.",
+      "on_screen_text": "THE BAD: Proprietary backend handles code context and indexed embeddings",
+      "voiceover_script": "Now for the ugly truth. No tool is perfect. The main drawback? Proprietary backend handles code context and indexed embeddings. If this is a dealbreaker for your workflow, you must consider alternatives.",
+      "b_roll_suggestion": "Activity monitor or settings complexity screencast.",
+      "audio_cue": "Low warning chord / sub-bass hit."
+    },
+    {
+      "scene_number": 5,
+      "scene_title": "Who It's Best For & Final Verdict",
+      "duration_seconds": 12,
+      "aspect_ratios": [
+        "9:16 Shorts",
+        "16:9 Long-form"
+      ],
+      "google_flow_prompt": "Wide cinematic studio shot with modern developer desk setup, ambient LED backlighting, bold typography '9.4/10' renders with golden sheen, camera pulls back smoothly with premium tech documentary aesthetic.",
+      "on_screen_text": "Verdict: 9.4/10 | Best for: Full-stack web developers, startup engin...",
+      "voiceover_script": "Who should use it? Full-stack web developers, startup engineers, and rapid prototypers who want agentic AI assistance without leaving the familiar VS Code ecosystem. Our final verdict: Currently the gold standard in AI code editors. The $20/month Pro plan is worth every penny for active professional developers.",
+      "b_roll_suggestion": "Summary verdict card displaying rating and key recommendations.",
+      "audio_cue": "Triumphant electronic swell."
+    },
+    {
+      "scene_number": 6,
+      "scene_title": "Outro, Call to Action & Mandatory Disclaimer",
+      "duration_seconds": 6,
+      "aspect_ratios": [
+        "9:16 Shorts",
+        "16:9 Long-form"
+      ],
+      "google_flow_prompt": "End screen animation with IDE Guide logo pulsing gently on sleek graphite background, YouTube subscribe button and Blogger link 'ideguide.blogspot.com' rendered in 3D typography, clean minimalist composition.",
+      "on_screen_text": "Subscribe @IDEguide | Read on ideguide.blogspot.com | 100% Independent & Unsponsored",
+      "voiceover_script": "Subscribe to @IDEguide on YouTube for daily honest reviews, and read the full AMP breakdown on ideguide.blogspot.com. We are 100% independent and never sponsored!",
+      "b_roll_suggestion": "Subscribe and notification bell animation.",
+      "audio_cue": "Upbeat closing sting / bell chime."
+    }
+  ]
+}
