@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "Cursor Review: Is It Best for You? (Pros, Cons & Pricing)",
+    "channel": "https://www.youtube.com/@IDEguide",
+    "blog_url": "https://ideguide.blogspot.com/",
+    "date": "2026-11-01",
+    "target_format": [
+      "YouTube Shorts (9:16)",
+      "YouTube Standard (16:9)"
+    ],
+    "total_estimated_duration_seconds": 60,
+    "flow_ai_engine": "Google Flow / Generative Video Pipeline",
+    "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+  },
+  "editor_profile": {
+    "id": "cursor",
+    "name": "Cursor",
+    "category": "AI Code Editor",
+    "pricing_tier": "Freemium",
+    "is_free": false,
+    "rating": 4.8
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "The Hook & Visual Shock",
+      "duration_seconds": 6,
+      "visual_prompt": "Cinematic ultra-macro dolly-in on a curved OLED monitor showing Cursor IDE in dark mode. Neon glowing syntax highlighting in Deep obsidian (#0b0c10), Electric cyan (#66fcf1), Emerald green (#45f3a0), Muted steel (#c5c6c7). A mechanical keyboard in foreground with slight motion blur. 4K, 60fps, shallow depth of field.",
+      "camera_motion": "Smooth forward push-in with 24mm f/1.4 lens bokeh",
+      "lighting": "Diffused cyberpunk accent lighting reflecting off matte screen",
+      "narration_script": "Is Cursor truly worth your time, or is it just another overhyped coding editor? Here is what developers actually need to know before switching.",
+      "on_screen_text": "\ud83d\udd25 CURSOR: HONEST DEV REVIEW",
+      "sound_design": "Subtle low bass whoosh with soft mechanical key clicks"
+    },
+    {
+      "scene_number": 2,
+      "title": "The Superpower Feature Showcase",
+      "duration_seconds": 15,
+      "visual_prompt": "Sleek dark mode IDE interface showcasing Cursor Composer with emerald green and cyan diff lines streaming live across multiple split panes. Showcase of Cursor's main feature: Multi-file Composer. Code auto-formatting and multi-file diffs highlighting in real-time. High tech HUD overlay.",
+      "camera_motion": "Slow right-to-left panning shot tracking code execution",
+      "lighting": "Vibrant studio key light with clean high contrast monitor luminescence",
+      "narration_script": "Starting with what makes Cursor extraordinary: Unrivaled AI agent integration ('Composer') capable of multi-file edits and automated workspace refactoring. Plus, Seamless VS Code fork: imports all your extensions, keybindings, and themes with one click.",
+      "on_screen_text": "\u26a1 SUPERPOWER: Multi-file Composer",
+      "sound_design": "Digital data stream synth chime and satisfying IDE completion sound"
+    },
+    {
+      "scene_number": 3,
+      "title": "The Hidden Flaws & Red Flags",
+      "duration_seconds": 15,
+      "visual_prompt": "Transition to a moody, dim setup with red emergency indicator accents. Monitor displaying memory usage graphs, loading spinners, or configuration panels. Realistic frustration: Can become expensive ($20/month base, usage-based beyond quotas).",
+      "camera_motion": "Dutch tilt angle with subtle camera shake to emphasize friction",
+      "lighting": "Split lighting: cool blue on left, amber-red warning hue on right",
+      "narration_script": "But here is the catch. The biggest downsides you must watch out for: Can become expensive ($20/month base, usage-based beyond quotas). And also, Closed-source core built on top of open-source VS Code.",
+      "on_screen_text": "\u26a0\ufe0f WATCH OUT: REAL DRAWBACKS",
+      "sound_design": "Tense synthetic pulse with low mechanical hum"
+    },
+    {
+      "scene_number": 4,
+      "title": "Pricing Reality & The Honest Verdict",
+      "duration_seconds": 14,
+      "visual_prompt": "Clean minimalist glassmorphic card popping onto the screen. Displays: Paid / Freemium. Details: Free Hobby plan available (limited slow requests). Pro plan starts at $20/month with unlimited fast GPT-4o / Claude 3.5 Sonnet completions and composer features.. Rating badge glowing with 4.8 out of 5 stars.",
+      "camera_motion": "Static centered composition with dynamic UI motion graphics",
+      "lighting": "Bright, clean daylight studio lighting representing total clarity",
+      "narration_script": "Now let's talk money: Free Hobby plan available (limited slow requests). Pro plan starts at $20/month with unlimited fast GPT-4o / Claude 3.5 Sonnet completions and composer features.. Our final verdict: Cursor is currently the market leader in agentic AI coding. If you want instant code generation across multiple files and can afford $20/mo, it's virtually unbeatable.",
+      "on_screen_text": "\ud83d\udcb0 PRICING: Paid / Freemium | \u2b50 4.8/5.0",
+      "sound_design": "Clean chime sound effect on star rating reveal"
+    },
+    {
+      "scene_number": 5,
+      "title": "Call To Action & Independent Disclaimer",
+      "duration_seconds": 10,
+      "visual_prompt": "Cinematic high-tech outro card. Floating YouTube 'Subscribe' badge for @IDEguide. Blog link card: ideguide.blogspot.com. Clean modern typography with independent review badge.",
+      "camera_motion": "Slow zoom out to reveal the full creator studio setup",
+      "lighting": "Balanced warm studio ambient lighting",
+      "narration_script": "Should you download it? If you are full-stack engineers, ai developers, and modern software teams wanting autonomous agentic code generation. - absolutely. Subscribe to @IDEguide for daily editor comparisons, read the full deep-dive on ideguide.blogspot.com, and remember: we are 100% independent and never sponsored by any software vendor.",
+      "on_screen_text": "\ud83d\udd14 SUBSCRIBE @IDEguide | ideguide.blogspot.com",
+      "sound_design": "Warm ascending synth outro motif with bell chime"
+    }
+  ],
+  "youtube_metadata": {
+    "video_title": "Cursor - Honest Review & Pricing Breakdown | IDE Guide",
+    "tags": [
+      "cursor",
+      "cursor",
+      "ide review",
+      "code editor",
+      "programming",
+      "software engineering",
+      "coding tools",
+      "ide guide",
+      "developer productivity"
+    ],
+    "description": "Honest breakdown of Cursor (AI Code Editor).\n\nRead the full AMP article on our blog: https://ideguide.blogspot.com/\nSubscribe to @IDEguide for daily objective software reviews!\n\nTimestamps:\n0:00 - Introduction\n0:06 - Key Features\n0:21 - Drawbacks & Cons\n0:36 - Pricing & Cost\n0:50 - Final Verdict\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "version": "1.0",
+  "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation.",
+  "channel_info": {
+    "youtube": "https://www.youtube.com/@IDEguide",
+    "blogger": "https://ideguide.blogspot.com/"
+  },
+  "editors": [
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "tagline": "The AI-First Code Editor Built for Speed and Flow",
+      "category": "AI Code Editor",
+      "pricing": {
+        "tier": "Freemium",
+        "is_free": false,
+        "details": "Free Hobby plan available (limited slow requests). Pro plan starts at $20/month with unlimited fast GPT-4o / Claude 3.5 Sonnet completions and composer features."
+      },
+      "url": "https://www.cursor.com",
+      "pros": [
+        "Unrivaled AI agent integration ('Composer') capable of multi-file edits and automated workspace refactoring",
+        "Seamless VS Code fork: imports all your extensions, keybindings, and themes with one click",
+        "Lightning fast tab-completion powered by custom fine-tuned models",
+        "In-editor terminal debugging and AI-driven error diagnostics"
+      ],
+      "cons": [
+        "Can become expensive ($20/month base, usage-based beyond quotas)",
+        "Closed-source core built on top of open-source VS Code",
+        "Heavy cloud dependency: privacy-sensitive enterprises require custom zero-data retention agreements",
+        "Occasional hallucinated edits in large, complex monorepos"
+      ],
+      "target_audience": "Full-stack engineers, AI developers, and modern software teams wanting autonomous agentic code generation.",
+      "verdict": "Cursor is currently the market leader in agentic AI coding. If you want instant code generation across multiple files and can afford $20/mo, it's virtually unbeatable.",
+      "rating": 4.8,
+      "featured_features": [
+        "Multi-file Composer",
+        "Intelligent context tagging with @files and @docs",
+        "Shadow workspace for linting before applying diffs",
+        "Native git integration"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Sleek dark mode IDE interface showcasing Cursor Composer with emerald green and cyan diff lines streaming live across multiple split panes.",
+        "ai_action": "Close-up macro shot of code editor highlighting intelligent tab predictions appearing in crisp glowing italic font with glassmorphic overlay.",
+        "color_palette": "Deep obsidian (#0b0c10), Electric cyan (#66fcf1), Emerald green (#45f3a0), Muted steel (#c5c6c7)"
+      }
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "tagline": "The Agentic IDE by Codeium with Real-Time Cascade Engine",
+      "category": "AI Code Editor",
+      "pricing": {
+        "tier": "Freemium",
+        "is_free": false,
+        "details": "Free tier with generous AI credits. Pro plan at $15/month for deep reasoning models and unlimited Cascade flows."
+      },
+      "url": "https://codeium.com/windsurf",
+      "pros": [
+        "Cascade engine provides true conversational flow and deep contextual workspace awareness",
+        "More affordable than rivals ($15/mo vs $20/mo)",
+        "Zero-context switching: terminal, editor, and chat communicate bi-directionally",
+        "Strong privacy policies with enterprise self-hosting options"
+      ],
+      "cons": [
+        "Newer ecosystem compared to long-standing editors",
+        "Extension marketplace occasionally lags behind pure upstream VS Code",
+        "Cascade can sometimes get stuck in repetitive reasoning loops on obscure build setups"
+      ],
+      "target_audience": "Developers who want deep, context-aware AI collaboration without paying the high price of enterprise copilots.",
+      "verdict": "Windsurf challenges Cursor directly with its smooth Cascade engine and aggressive pricing. An exceptional choice for developers wanting contextual AI workflows.",
+      "rating": 4.7,
+      "featured_features": [
+        "Cascade conversational AI",
+        "Live workspace indexer",
+        "Terminal execution preview",
+        "Extension sync"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Futuristic UI with deep navy and radiant violet accents, showing Windsurf's Cascade flow diagnosing a broken test suite in real time.",
+        "ai_action": "Smooth panning camera displaying code refactoring in Cascade chat with visual flowcharts and instant diff accept buttons.",
+        "color_palette": "Midnight navy (#0a1128), Radiant violet (#7928ca), Soft cyan (#00dfd8), Silver text (#e2e8f0)"
+      }
+    },
+    {
+      "id": "vscode",
+      "name": "Visual Studio Code",
+      "tagline": "The Universal Standard for Modern Extensible Code Editing",
+      "category": "General Purpose Editor",
+      "pricing": {
+        "tier": "Free & Open Source",
+        "is_free": true,
+        "details": "100% Free under the MIT license (Code-OSS) and free binary distribution by Microsoft. Optional GitHub Copilot subscription available."
+      },
+      "url": "https://code.visualstudio.com",
+      "pros": [
+        "Massive extension marketplace with over 50,000 community extensions",
+        "Completely free with no license lock-ins",
+        "Superb remote development (SSH, Containers, WSL)",
+        "Universal language support for virtually every programming language on earth"
+      ],
+      "cons": [
+        "Electron-based memory overhead (can consume significant RAM on large projects)",
+        "Native AI capabilities require third-party plugins or paid Copilot subscriptions",
+        "Requires manual configuration to reach IDE-level capabilities"
+      ],
+      "target_audience": "All software engineers, learners, web developers, and cloud architects seeking a flexible, customizable coding foundation.",
+      "verdict": "VS Code remains the reigning champion of software engineering editors. It is completely free, universally supported, and can be customized into any workflow imaginable.",
+      "rating": 4.9,
+      "featured_features": [
+        "Remote Containers & SSH",
+        "Integrated terminal & debugger",
+        "Rich extension ecosystem",
+        "Integrated Git graph & source control"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Crisp modern desktop showing Visual Studio Code in iconic dark mode with TypeScript and Python side-by-side and integrated terminal output.",
+        "ai_action": "Subtle UI zoom highlighting seamless extension installation and custom status bar diagnostics.",
+        "color_palette": "Editor slate (#1e1e1e), Electric blue (#007acc), Bright yellow (#e5c07b), Clean white (#ffffff)"
+      }
+    },
+    {
+      "id": "zed",
+      "name": "Zed",
+      "tagline": "High-Performance Multiplayer Code Editor Written in Rust",
+      "category": "Lightweight High-Performance Editor",
+      "pricing": {
+        "tier": "Free & Open Source",
+        "is_free": true,
+        "details": "100% Free and Open Source (GPL/Apache 2.0). Optional cloud collaboration and Zed AI features with bring-your-own-key or token purchases."
+      },
+      "url": "https://zed.dev",
+      "pros": [
+        "Blazing fast 120 FPS rendering powered by GPUI and written from scratch in Rust",
+        "Nearly instant startup time and featherweight memory footprint",
+        "Built-in real-time multiplayer collaboration (CRDT-based)",
+        "Clean, distraction-free aesthetic with built-in language servers"
+      ],
+      "cons": [
+        "Extension ecosystem is still young and evolving",
+        "Windows support is in progress / recently introduced compared to mature macOS/Linux builds",
+        "Less out-of-the-box GUI customization compared to VS Code"
+      ],
+      "target_audience": "Performance purists, systems engineers, Rust/Go/Python developers who hate Electron lag and demand instantaneous typing responsiveness.",
+      "verdict": "Zed is the fastest modern code editor available today. If typing latency and resource consumption bother you, Zed is a breath of fresh air.",
+      "rating": 4.6,
+      "featured_features": [
+        "GPU-accelerated rendering engine",
+        "Native CRDT multiplayer pairing",
+        "Integrated assistant panel with custom LLM keys",
+        "Tree-sitter native syntax highlighting"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Ultra-minimalist dark workspace with crisp typography at 120Hz smooth scrolling, demonstrating instant file navigation across a 100k line repository.",
+        "ai_action": "Side panel sliding out effortlessly showing two remote cursors editing simultaneously with zero latency.",
+        "color_palette": "Deep charcoal (#18181b), Rust orange (#f97316), Electric lime (#84cc16), Clean grey (#f4f4f5)"
+      }
+    },
+    {
+      "id": "intellij-idea",
+      "name": "JetBrains IntelliJ IDEA",
+      "tagline": "The Premier Enterprise IDE for Java, Kotlin, and JVM Ecosystems",
+      "category": "Full Enterprise IDE",
+      "pricing": {
+        "tier": "Freemium / Paid Commercial",
+        "is_free": false,
+        "details": "Free Community Edition (Apache 2.0) for Java/Kotlin/Android. Ultimate Edition costs $169 for first year, discounting to $101 by year 3."
+      },
+      "url": "https://www.jetbrains.com/idea/",
+      "pros": [
+        "Industry standard for code refactoring, AST inspections, and semantic analysis",
+        "Unmatched support for Spring, Kotlin, Java, Micronaut, and enterprise frameworks",
+        "Out-of-the-box database tooling, profilers, and decompilers",
+        "Deep structural search and replace that guarantees safety"
+      ],
+      "cons": [
+        "Heavy memory consumption (2GB - 4GB RAM minimum recommended)",
+        "Ultimate edition carries an annual subscription fee",
+        "Slow initial project indexing on large legacy codebases"
+      ],
+      "target_audience": "Enterprise software engineers, backend JVM developers, Kotlin architects, and distributed system designers.",
+      "verdict": "For serious backend enterprise engineering, IntelliJ IDEA Ultimate remains the gold standard. The Community edition is also an outstanding free entry point for JVM work.",
+      "rating": 4.8,
+      "featured_features": [
+        "Automated semantic refactoring engine",
+        "Built-in database console and SQL query editor",
+        "Integrated CPU/Memory profiler",
+        "Spring Boot enterprise dashboard"
+      ],
+      "visual_prompts": {
+        "hero_shot": "High-tech enterprise developer workstation showing IntelliJ IDEA Darcula theme with Spring dependency injection graphs and database diagrams.",
+        "ai_action": "Cinematic focus on instantaneous automated method extraction and variable refactoring across 30 enterprise classes safely.",
+        "color_palette": "Dark plum (#2b2d30), JetBrains magenta (#f03986), Bright blue (#3592c4), Gold accents (#f5a623)"
+      }
+    },
+    {
+      "id": "neovim",
+      "name": "Neovim",
+      "tagline": "Hyperextensible Vim-Based Text Editor for Keyboard Ninjas",
+      "category": "Terminal Modal Editor",
+      "pricing": {
+        "tier": "Free & Open Source",
+        "is_free": true,
+        "details": "100% Free and Open Source (Apache 2.0 / Vim license). Free forever."
+      },
+      "url": "https://neovim.io",
+      "pros": [
+        "Unmatched keyboard-centric modal editing speed and muscle memory efficiency",
+        "Vibrant Lua configuration ecosystem with lightning fast plugin managers (lazy.nvim)",
+        "Zero GUI overhead: operates over SSH, in docker containers, or local terminal",
+        "Native Tree-sitter and LSP client built right into the core"
+      ],
+      "cons": [
+        "Steep learning curve requiring hours of dedication to master modal navigation",
+        "Requires configuring plugins manually or using pre-packaged distros (LazyVim, AstroNvim)",
+        "No default point-and-click graphical debugging interface"
+      ],
+      "target_audience": "Terminal enthusiasts, systems programmers, DevOps engineers, and developers who refuse to touch the mouse.",
+      "verdict": "Neovim transforms text editing into an art form. Once mastered, no graphical editor can match its raw editing velocity and efficiency.",
+      "rating": 4.7,
+      "featured_features": [
+        "Native Lua 5.1 / LuaJIT scripting engine",
+        "Built-in LSP client with diagnostics",
+        "Tree-sitter AST syntax highlighting",
+        "Asynchronous job control and headless mode"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Moody cyberpunk terminal setup with Neovim running LazyVim, TokyoNight theme, showcasing telescope fuzzy finder floating windows.",
+        "ai_action": "Rapid keystroke visualizations showing modal navigation jumping between definitions in split millisecond intervals.",
+        "color_palette": "Tokyo night navy (#1a1b26), Cyberpunk cyan (#7dcfff), Neon pink (#f7768e), Matrix green (#9ece6a)"
+      }
+    },
+    {
+      "id": "pycharm",
+      "name": "JetBrains PyCharm",
+      "tagline": "The Dedicated Python IDE for Data Science and Web Development",
+      "category": "Dedicated Python IDE",
+      "pricing": {
+        "tier": "Freemium / Paid Commercial",
+        "is_free": false,
+        "details": "Free Community Edition for pure Python scripting. Professional Edition at $109/yr (year 1) with Django, FastAPI, SQL, and Jupyter support."
+      },
+      "url": "https://www.jetbrains.com/pycharm/",
+      "pros": [
+        "Dedicated Python intelligence: package management, virtualenv/conda detection, and type inference",
+        "Best-in-class Django, Flask, and FastAPI web framework tooling",
+        "Native interactive scientific mode with integrated NumPy array viewers and Matplotlib plots",
+        "Visual step-through debugger with smart breakpoint conditions"
+      ],
+      "cons": [
+        "Resource intensive compared to lightweight text editors",
+        "Community edition omits web frameworks (Django/FastAPI) and SQL tools",
+        "Annual subscription required for professional features"
+      ],
+      "target_audience": "Python engineers, Data Scientists, ML/AI researchers, and Django backend developers.",
+      "verdict": "If your primary language is Python, PyCharm delivers unmatched developer ergonomics and eliminates virtualenv headaches from day one.",
+      "rating": 4.7,
+      "featured_features": [
+        "Interactive Scientific View and Jupyter notebook editor",
+        "Fast visual step-through Python debugger",
+        "Automated PEP 8 styling and code smells checker",
+        "Django / FastAPI endpoint route navigation"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Modern data science desk showing PyCharm displaying interactive pandas DataFrame viewers and Matplotlib graphics in side panels.",
+        "ai_action": "Close-up tracking shot of real-time type inference and automated docstring generation inside a complex PyTorch pipeline.",
+        "color_palette": "JetBrains obsidian (#21252b), Python emerald (#21d789), Bright yellow (#ffc83b), Clean white (#ffffff)"
+      }
+    },
+    {
+      "id": "sublime-text",
+      "name": "Sublime Text 4",
+      "tagline": "The Featherweight Legend of Precision Code Editing",
+      "category": "Lightweight Text Editor",
+      "pricing": {
+        "tier": "Paid with Unlimited Free Evaluation",
+        "is_free": false,
+        "details": "Evaluation is free indefinitely with occasional pop-up reminder. Personal license is $99 for 3 years of updates."
+      },
+      "url": "https://www.sublimetext.com",
+      "pros": [
+        "Unbelievably quick startup and opening of multi-gigabyte log and data files",
+        "GPU rendering on modern displays with pristine font crispness",
+        "Context-aware autocomplete and multi-cursor editing pioneer",
+        "Extremely modest battery and CPU consumption on laptops"
+      ],
+      "cons": [
+        "Commercial license costs $99",
+        "Plugin ecosystem relies heavily on Python 3.8 and LSP packages rather than native all-in-one IDE features",
+        "Lacks first-party AI assistant out of the box"
+      ],
+      "target_audience": "Developers who want an instant, rock-solid, distraction-free editor that never freezes or consumes excessive battery.",
+      "verdict": "Sublime Text 4 remains the benchmark for raw editing speed and reliability. For quick edits, log inspections, and lightweight coding, it's timeless.",
+      "rating": 4.5,
+      "featured_features": [
+        "Hardware-accelerated GPU rendering",
+        "Multi-select and column editing",
+        "Tab multi-select and split layouts",
+        "Instant symbol and file navigation (Goto Anything)"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Ultra-clean minimalist interface of Sublime Text 4 rendering Monokai Pro with multiple cursors flashing in perfect rhythm.",
+        "ai_action": "Fast file search opening a 500MB JSON file in 200 milliseconds without a single dropped frame.",
+        "color_palette": "Deep Monokai dark (#272822), Coral orange (#fd971f), Soft purple (#ae81ff), Neon yellow (#e6db74)"
+      }
+    },
+    {
+      "id": "fleet",
+      "name": "JetBrains Fleet",
+      "tagline": "Next-Generation Lightweight, Distributed Polyglot Editor",
+      "category": "Polyglot Distributed Editor",
+      "pricing": {
+        "tier": "Public Preview / Freemium",
+        "is_free": true,
+        "details": "Currently in free Public Preview. Commercial pricing tiers will be announced upon full production release."
+      },
+      "url": "https://www.jetbrains.com/fleet/",
+      "pros": [
+        "Architecture splits into lightweight front-end and distributed backend engines (local, cloud, or remote)",
+        "One-click 'Smart Mode' switches from lightweight text editor to full JetBrains engine intelligence",
+        "Collaborative editing with shared terminals and debug sessions built into core",
+        "Minimalist modern UI that feels modern and decluttered"
+      ],
+      "cons": [
+        "Still in Public Preview; features and plugin ecosystem are developing",
+        "Smart Mode can take a moment to spin up backend language servers",
+        "Future pricing model post-preview is yet to be finalized"
+      ],
+      "target_audience": "Polyglot programmers who want JetBrains code intelligence without the heavyweight IDE footprint.",
+      "verdict": "Fleet represents the future of JetBrains: light when you want speed, deep when you need full IDE intelligence, and cloud-ready.",
+      "rating": 4.4,
+      "featured_features": [
+        "Smart Mode toggleable engine",
+        "Distributed architecture (Cloud/Remote/Local)",
+        "Collaborative real-time coding sessions",
+        "Universal polyglot syntax parsing"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Futuristic UI with rounded glass elements, demonstrating Fleet switching smoothly into Smart Mode with instant syntax tree resolution.",
+        "ai_action": "Remote cloud workspace connection showing sub-second synchronization between local UI and cloud container backend.",
+        "color_palette": "Charcoal slate (#1f232a), Electric turquoise (#30e3ca), Soft amber (#ffbe0b), Pure white (#ffffff)"
+      }
+    },
+    {
+      "id": "android-studio",
+      "name": "Android Studio (Ladybug / Koala)",
+      "tagline": "The Official Integrated Environment for Android App Development",
+      "category": "Mobile Development IDE",
+      "pricing": {
+        "tier": "Free & Open Source",
+        "is_free": true,
+        "details": "100% Free under Apache 2.0 / IntelliJ Community license, maintained by Google."
+      },
+      "url": "https://developer.android.com/studio",
+      "pros": [
+        "The official, definitive toolchain for native Android, Kotlin, and Jetpack Compose",
+        "Live Edit and interactive Compose previews update UI instantaneously without emulator rebuilds",
+        "Integrated device manager, emulators, and CPU/Network energy profilers",
+        "Gemini in Android Studio provides contextual code completion and crash analysis"
+      ],
+      "cons": [
+        "Extreme RAM and CPU hunger (8GB minimum, 16GB+ recommended for Gradle daemon + Emulators)",
+        "Gradle build times can be long on complex, modular projects",
+        "Specialized strictly for mobile/wear/automotive Android development"
+      ],
+      "target_audience": "Android app developers, Kotlin Multiplatform engineers, mobile UI designers.",
+      "verdict": "If you build for Android, there is no substitute for Android Studio. The Jetpack Compose previews and emulator integrations are indispensable.",
+      "rating": 4.6,
+      "featured_features": [
+        "Jetpack Compose Live Preview",
+        "Gemini AI crash and code assistant",
+        "Visual Layout Inspector and Database Inspector",
+        "Deep Android Profiler (CPU, Memory, Energy)"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Vibrant modern Android workstation showing Android Studio with a 3D pixel fold phone emulator running side-by-side with Compose declarative code.",
+        "ai_action": "Camera sweeps past Live Edit changing a button color and animation physics updating on the emulator without rebuilding Gradle.",
+        "color_palette": "Deep dark UI (#1e1f22), Android robot green (#3ddc84), Material blue (#4285f4), Clean cream (#f8f9fa)"
+      }
+    },
+    {
+      "id": "helix",
+      "name": "Helix Editor",
+      "tagline": "A Post-Modern Modal Text Editor Built in Rust",
+      "category": "Terminal Modal Editor",
+      "pricing": {
+        "tier": "Free & Open Source",
+        "is_free": true,
+        "details": "100% Free and Open Source under the MPL-2.0 license."
+      },
+      "url": "https://helix-editor.com",
+      "pros": [
+        "Zero-configuration out of the box: Tree-sitter, LSP diagnostics, and fuzzy picker built into the core binary",
+        "Kakoune-inspired 'Selection -> Action' modal model (more intuitive than Vim for many users)",
+        "Written in Rust with instantaneous startup and tiny memory footprint",
+        "Multiple cursors as a first-class primitive"
+      ],
+      "cons": [
+        "No dynamic plugin runtime ecosystem yet (extensions are compiled or pending webassembly architecture)",
+        "Different muscle memory from traditional Vim keys (selection precedes verb)",
+        "Terminal-only with no native official GUI window"
+      ],
+      "target_audience": "Systems developers, command line lovers, and developers who want Neovim features without configuring 50 plugins.",
+      "verdict": "Helix gives you 95% of a finely-tuned Neovim setup right out of the box with zero configuration files required. Fast, sleek, and intuitive.",
+      "rating": 4.5,
+      "featured_features": [
+        "Zero-configuration built-in LSP integration",
+        "Selection-first modal editing mechanics",
+        "Native multiple cursor support",
+        "Built-in Tree-sitter AST syntax highlighting"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Aesthetic terminal display featuring Helix in Catppuccin Mocha theme with multi-selection cursors across an async Rust function.",
+        "ai_action": "Instantaneous fuzzy search popping up a symbol palette and jumping to method declaration in under 5 milliseconds.",
+        "color_palette": "Deep Mocha (#1e1e2e), Lavender accent (#b4befe), Peach (#fab387), Rosewater (#f5e0dc)"
+      }
+    },
+    {
+      "id": "webstorm",
+      "name": "JetBrains WebStorm",
+      "tagline": "The Smartest JavaScript and TypeScript IDE",
+      "category": "Dedicated Web IDE",
+      "pricing": {
+        "tier": "Free for Non-Commercial / Paid Commercial",
+        "is_free": true,
+        "details": "Now 100% Free for non-commercial personal use and learning! Commercial licenses start at $69/year."
+      },
+      "url": "https://www.jetbrains.com/webstorm/",
+      "pros": [
+        "Now free for non-commercial and learning use, lowering the barrier to entry",
+        "Deepest TypeScript and JavaScript AST refactoring and code completions",
+        "Integrated support for React, Vue, Angular, Next.js, Svelte, and Tailwind CSS",
+        "Built-in test runners (Vitest, Jest) with graphical test trees and coverage reporting"
+      ],
+      "cons": [
+        "Commercial usage requires a paid license",
+        "Heavier RAM usage than VS Code for simple HTML/CSS projects",
+        "Occasional plugin lag compared to open source VS Code ecosystem"
+      ],
+      "target_audience": "Frontend engineers, full-stack JavaScript/TypeScript developers, and React/Next.js/Vue framework specialists.",
+      "verdict": "With its recent shift to free non-commercial licensing, WebStorm is an incredible deal. It offers refactoring intelligence that VS Code extensions struggle to match.",
+      "rating": 4.7,
+      "featured_features": [
+        "Smart TypeScript/JavaScript auto-import and refactoring",
+        "Tailwind CSS class autocomplete and preview",
+        "Integrated Vitest / Jest GUI runner with visual diffs",
+        "Full git merge conflict resolver"
+      ],
+      "visual_prompts": {
+        "hero_shot": "Sleek frontend web design studio showing WebStorm displaying a complex React 19 component with Tailwind preview colors and visual test runner.",
+        "ai_action": "Automated rename of a TypeScript component updating across 40 distinct route files in one instant click.",
+        "color_palette": "Deep onyx (#1a1a1a), WebStorm cyan (#00ffff), Bright JavaScript yellow (#f7df1e), Crisp white (#ffffff)"
+      }
+    }
+  ]
+}
