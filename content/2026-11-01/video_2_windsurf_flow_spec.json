@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "Windsurf Review: Is It Best for You? (Pros, Cons & Pricing)",
+    "channel": "https://www.youtube.com/@IDEguide",
+    "blog_url": "https://ideguide.blogspot.com/",
+    "date": "2026-11-01",
+    "target_format": [
+      "YouTube Shorts (9:16)",
+      "YouTube Standard (16:9)"
+    ],
+    "total_estimated_duration_seconds": 60,
+    "flow_ai_engine": "Google Flow / Generative Video Pipeline",
+    "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+  },
+  "editor_profile": {
+    "id": "windsurf",
+    "name": "Windsurf",
+    "category": "AI Code Editor",
+    "pricing_tier": "Freemium",
+    "is_free": false,
+    "rating": 4.7
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "The Hook & Visual Shock",
+      "duration_seconds": 6,
+      "visual_prompt": "Cinematic ultra-macro dolly-in on a curved OLED monitor showing Windsurf IDE in dark mode. Neon glowing syntax highlighting in Midnight navy (#0a1128), Radiant violet (#7928ca), Soft cyan (#00dfd8), Silver text (#e2e8f0). A mechanical keyboard in foreground with slight motion blur. 4K, 60fps, shallow depth of field.",
+      "camera_motion": "Smooth forward push-in with 24mm f/1.4 lens bokeh",
+      "lighting": "Diffused cyberpunk accent lighting reflecting off matte screen",
+      "narration_script": "Is Windsurf truly worth your time, or is it just another overhyped coding editor? Here is what developers actually need to know before switching.",
+      "on_screen_text": "\ud83d\udd25 WINDSURF: HONEST DEV REVIEW",
+      "sound_design": "Subtle low bass whoosh with soft mechanical key clicks"
+    },
+    {
+      "scene_number": 2,
+      "title": "The Superpower Feature Showcase",
+      "duration_seconds": 15,
+      "visual_prompt": "Futuristic UI with deep navy and radiant violet accents, showing Windsurf's Cascade flow diagnosing a broken test suite in real time. Showcase of Windsurf's main feature: Cascade conversational AI. Code auto-formatting and multi-file diffs highlighting in real-time. High tech HUD overlay.",
+      "camera_motion": "Slow right-to-left panning shot tracking code execution",
+      "lighting": "Vibrant studio key light with clean high contrast monitor luminescence",
+      "narration_script": "Starting with what makes Windsurf extraordinary: Cascade engine provides true conversational flow and deep contextual workspace awareness. Plus, More affordable than rivals ($15/mo vs $20/mo).",
+      "on_screen_text": "\u26a1 SUPERPOWER: Cascade conversational AI",
+      "sound_design": "Digital data stream synth chime and satisfying IDE completion sound"
+    },
+    {
+      "scene_number": 3,
+      "title": "The Hidden Flaws & Red Flags",
+      "duration_seconds": 15,
+      "visual_prompt": "Transition to a moody, dim setup with red emergency indicator accents. Monitor displaying memory usage graphs, loading spinners, or configuration panels. Realistic frustration: Newer ecosystem compared to long-standing editors.",
+      "camera_motion": "Dutch tilt angle with subtle camera shake to emphasize friction",
+      "lighting": "Split lighting: cool blue on left, amber-red warning hue on right",
+      "narration_script": "But here is the catch. The biggest downsides you must watch out for: Newer ecosystem compared to long-standing editors. And also, Extension marketplace occasionally lags behind pure upstream VS Code.",
+      "on_screen_text": "\u26a0\ufe0f WATCH OUT: REAL DRAWBACKS",
+      "sound_design": "Tense synthetic pulse with low mechanical hum"
+    },
+    {
+      "scene_number": 4,
+      "title": "Pricing Reality & The Honest Verdict",
+      "duration_seconds": 14,
+      "visual_prompt": "Clean minimalist glassmorphic card popping onto the screen. Displays: Paid / Freemium. Details: Free tier with generous AI credits. Pro plan at $15/month for deep reasoning models and unlimited Cascade flows.. Rating badge glowing with 4.7 out of 5 stars.",
+      "camera_motion": "Static centered composition with dynamic UI motion graphics",
+      "lighting": "Bright, clean daylight studio lighting representing total clarity",
+      "narration_script": "Now let's talk money: Free tier with generous AI credits. Pro plan at $15/month for deep reasoning models and unlimited Cascade flows.. Our final verdict: Windsurf challenges Cursor directly with its smooth Cascade engine and aggressive pricing. An exceptional choice for developers wanting contextual AI workflows.",
+      "on_screen_text": "\ud83d\udcb0 PRICING: Paid / Freemium | \u2b50 4.7/5.0",
+      "sound_design": "Clean chime sound effect on star rating reveal"
+    },
+    {
+      "scene_number": 5,
+      "title": "Call To Action & Independent Disclaimer",
+      "duration_seconds": 10,
+      "visual_prompt": "Cinematic high-tech outro card. Floating YouTube 'Subscribe' badge for @IDEguide. Blog link card: ideguide.blogspot.com. Clean modern typography with independent review badge.",
+      "camera_motion": "Slow zoom out to reveal the full creator studio setup",
+      "lighting": "Balanced warm studio ambient lighting",
+      "narration_script": "Should you download it? If you are developers who want deep, context-aware ai collaboration without paying the high price of enterprise copilots. - absolutely. Subscribe to @IDEguide for daily editor comparisons, read the full deep-dive on ideguide.blogspot.com, and remember: we are 100% independent and never sponsored by any software vendor.",
+      "on_screen_text": "\ud83d\udd14 SUBSCRIBE @IDEguide | ideguide.blogspot.com",
+      "sound_design": "Warm ascending synth outro motif with bell chime"
+    }
+  ],
+  "youtube_metadata": {
+    "video_title": "Windsurf - Honest Review & Pricing Breakdown | IDE Guide",
+    "tags": [
+      "windsurf",
+      "windsurf",
+      "ide review",
+      "code editor",
+      "programming",
+      "software engineering",
+      "coding tools",
+      "ide guide",
+      "developer productivity"
+    ],
+    "description": "Honest breakdown of Windsurf (AI Code Editor).\n\nRead the full AMP article on our blog: https://ideguide.blogspot.com/\nSubscribe to @IDEguide for daily objective software reviews!\n\nTimestamps:\n0:00 - Introduction\n0:06 - Key Features\n0:21 - Drawbacks & Cons\n0:36 - Pricing & Cost\n0:50 - Final Verdict\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "Visual Studio Code Review: Is It Best for You? (Pros, Cons & Pricing)",
+    "channel": "https://www.youtube.com/@IDEguide",
+    "blog_url": "https://ideguide.blogspot.com/",
+    "date": "2026-11-01",
+    "target_format": [
+      "YouTube Shorts (9:16)",
+      "YouTube Standard (16:9)"
+    ],
+    "total_estimated_duration_seconds": 60,
+    "flow_ai_engine": "Google Flow / Generative Video Pipeline",
+    "disclaimer": "Disclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+  },
+  "editor_profile": {
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "category": "General Purpose Editor",
+    "pricing_tier": "Free & Open Source",
+    "is_free": true,
+    "rating": 4.9
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "The Hook & Visual Shock",
+      "duration_seconds": 6,
+      "visual_prompt": "Cinematic ultra-macro dolly-in on a curved OLED monitor showing Visual Studio Code IDE in dark mode. Neon glowing syntax highlighting in Editor slate (#1e1e1e), Electric blue (#007acc), Bright yellow (#e5c07b), Clean white (#ffffff). A mechanical keyboard in foreground with slight motion blur. 4K, 60fps, shallow depth of field.",
+      "camera_motion": "Smooth forward push-in with 24mm f/1.4 lens bokeh",
+      "lighting": "Diffused cyberpunk accent lighting reflecting off matte screen",
+      "narration_script": "Is Visual Studio Code truly worth your time, or is it just another overhyped coding editor? Here is what developers actually need to know before switching.",
+      "on_screen_text": "\ud83d\udd25 VISUAL STUDIO CODE: HONEST DEV REVIEW",
+      "sound_design": "Subtle low bass whoosh with soft mechanical key clicks"
+    },
+    {
+      "scene_number": 2,
+      "title": "The Superpower Feature Showcase",
+      "duration_seconds": 15,
+      "visual_prompt": "Crisp modern desktop showing Visual Studio Code in iconic dark mode with TypeScript and Python side-by-side and integrated terminal output. Showcase of Visual Studio Code's main feature: Remote Containers & SSH. Code auto-formatting and multi-file diffs highlighting in real-time. High tech HUD overlay.",
+      "camera_motion": "Slow right-to-left panning shot tracking code execution",
+      "lighting": "Vibrant studio key light with clean high contrast monitor luminescence",
+      "narration_script": "Starting with what makes Visual Studio Code extraordinary: Massive extension marketplace with over 50,000 community extensions. Plus, Completely free with no license lock-ins.",
+      "on_screen_text": "\u26a1 SUPERPOWER: Remote Containers & SSH",
+      "sound_design": "Digital data stream synth chime and satisfying IDE completion sound"
+    },
+    {
+      "scene_number": 3,
+      "title": "The Hidden Flaws & Red Flags",
+      "duration_seconds": 15,
+      "visual_prompt": "Transition to a moody, dim setup with red emergency indicator accents. Monitor displaying memory usage graphs, loading spinners, or configuration panels. Realistic frustration: Electron-based memory overhead (can consume significant RAM on large projects).",
+      "camera_motion": "Dutch tilt angle with subtle camera shake to emphasize friction",
+      "lighting": "Split lighting: cool blue on left, amber-red warning hue on right",
+      "narration_script": "But here is the catch. The biggest downsides you must watch out for: Electron-based memory overhead (can consume significant RAM on large projects). And also, Native AI capabilities require third-party plugins or paid Copilot subscriptions.",
+      "on_screen_text": "\u26a0\ufe0f WATCH OUT: REAL DRAWBACKS",
+      "sound_design": "Tense synthetic pulse with low mechanical hum"
+    },
+    {
+      "scene_number": 4,
+      "title": "Pricing Reality & The Honest Verdict",
+      "duration_seconds": 14,
+      "visual_prompt": "Clean minimalist glassmorphic card popping onto the screen. Displays: 100% Free & Open Source. Details: 100% Free under the MIT license (Code-OSS) and free binary distribution by Microsoft. Optional GitHub Copilot subscription available.. Rating badge glowing with 4.9 out of 5 stars.",
+      "camera_motion": "Static centered composition with dynamic UI motion graphics",
+      "lighting": "Bright, clean daylight studio lighting representing total clarity",
+      "narration_script": "Now let's talk money: 100% Free under the MIT license (Code-OSS) and free binary distribution by Microsoft. Optional GitHub Copilot subscription available.. Our final verdict: VS Code remains the reigning champion of software engineering editors. It is completely free, universally supported, and can be customized into any workflow imaginable.",
+      "on_screen_text": "\ud83d\udcb0 PRICING: 100% Free & Open Source | \u2b50 4.9/5.0",
+      "sound_design": "Clean chime sound effect on star rating reveal"
+    },
+    {
+      "scene_number": 5,
+      "title": "Call To Action & Independent Disclaimer",
+      "duration_seconds": 10,
+      "visual_prompt": "Cinematic high-tech outro card. Floating YouTube 'Subscribe' badge for @IDEguide. Blog link card: ideguide.blogspot.com. Clean modern typography with independent review badge.",
+      "camera_motion": "Slow zoom out to reveal the full creator studio setup",
+      "lighting": "Balanced warm studio ambient lighting",
+      "narration_script": "Should you download it? If you are all software engineers, learners, web developers, and cloud architects seeking a flexible, customizable coding foundation. - absolutely. Subscribe to @IDEguide for daily editor comparisons, read the full deep-dive on ideguide.blogspot.com, and remember: we are 100% independent and never sponsored by any software vendor.",
+      "on_screen_text": "\ud83d\udd14 SUBSCRIBE @IDEguide | ideguide.blogspot.com",
+      "sound_design": "Warm ascending synth outro motif with bell chime"
+    }
+  ],
+  "youtube_metadata": {
+    "video_title": "Visual Studio Code - Honest Review & Pricing Breakdown | IDE Guide",
+    "tags": [
+      "vscode",
+      "visual studio code",
+      "ide review",
+      "code editor",
+      "programming",
+      "software engineering",
+      "coding tools",
+      "ide guide",
+      "developer productivity"
+    ],
+    "description": "Honest breakdown of Visual Studio Code (General Purpose Editor).\n\nRead the full AMP article on our blog: https://ideguide.blogspot.com/\nSubscribe to @IDEguide for daily objective software reviews!\n\nTimestamps:\n0:00 - Introduction\n0:06 - Key Features\n0:21 - Drawbacks & Cons\n0:36 - Pricing & Cost\n0:50 - Final Verdict\n\nDisclaimer: IDE Guide is an independent technical publication. This content is not sponsored, endorsed, or affiliated with any software vendor or editor developer mentioned above. All reviews and assessments are based strictly on objective developer evaluation."
+  }
+}
